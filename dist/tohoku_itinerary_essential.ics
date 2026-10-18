@@ -1,0 +1,2049 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Antigravity Travel Studio//Tohoku Itinerary 2026//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🍁 2026 東北20天秋楓精選（核心里程碑版）
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:2026 日本東北 20 天 19 夜（青森・奧入瀨・八戶・松島・仙台・山寺）秋楓美饌全行程日曆
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+X-LIC-LOCATION:Asia/Taipei
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:tohoku2026-day-1-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 01・青森市】航班抵達・拉麵
+DESCRIPTION:行程：晨間公車出發 ➔ 桃園機場（1962客運直達 / 高鐵機捷備案） ➔ 抵達青森 ➔ 寄放行李 ➔ さくら野百貨店青森本店北海道展 ➔ 步行回飯店休息【宿：ホテルマイステイズ青森駅前🌟已訂】\n\n行李與換宿：🧳 啟程換宿：自桃園機場搭乘班機抵達青森機場，搭乘利木津巴士至青森站，大行李直接入住寄放至「ホテルマイステイズ青森駅前（東口步行3分）」，晚餐轉戰さくら野百貨店北海道展。\n\n完整行程：./itinerary.html#day-1
+LOCATION:青森市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d1-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260928T153000
+DTEND;TZID=Asia/Tokyo:20260928T154500
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 首要行動・飯店 Check-in 進房
+DESCRIPTION:【Day 1・🏨 頂級名宿】\n15:30 - 15:45【🏨 首要行動・飯店 Check-in 進房】：\n下車步行 1 分鐘直達 【ホテルマイステイズ青森駅前】 🚶 步行導航 櫃檯辦理 Check-in 進房放置大行李（Check-in 15:00 / Check-out 11:00・已訂妥🌟）。\n\n\n🗺️ ホテルマイステイズ青森駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:ホテルマイステイズ青森駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d1-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260928T160000
+DTEND;TZID=Asia/Tokyo:20260928T174500
+TRANSP:OPAQUE
+SUMMARY:🍜 晚餐應變實記：さくら野百貨店 青森本店 6F「秋の全国うまいものまつり / 北海道展」【大西拉麵未開之臨場應變・尋食耗時取消海邊散策
+DESCRIPTION:【Day 1・🥩 極上美食】\n16:00 - 17:45【晚餐應變實記：さくら野百貨店 青森本店 6F「秋の全国うまいものまつり / 北海道展」【大西拉麵未開之臨場應變・尋食耗時取消海邊散策】】：\n步行出發原定前往「味の札幌 大西」，抵達現場發現店家臨時未營業；臨場靈活應變尋找晚餐，隨即漫步轉戰新町通上的老牌百貨 「さくら野百貨店 青森本店」 🚶 步行導航（青森市新町1-13-2）。\n直奔 6F 催事場正在盛大舉辦之 「秋の全国うまいものまつり（北海道展）」（展期 9/25 - 10/4，營業時間至 18:30）！\n實地品味亮點：現場匯集北海道各道產地直送的頂級海鮮便當（鋪滿厚實蟹肉、干貝與鮭魚卵）、現烤現炸香脆熟食炸物與精緻甜點。在會場休憩區悠閒大快朵頤，美味超滿足！\n🚨 實訪紀實調度：因抵達後尋找替代餐飲花費較多時間，考量初抵日本首日舟車勞頓且天色已暗，果斷取消原定傍晚「青い海公園」之海邊散策，吃飽後直接返回飯店休息整備。\n\n⏰ 營業時間：• 10:00 - 18:30 ｜ • 6F 催事場 ｜ • 全日通し營業無中休\n🚫 公休日：展期無休 ｜ (9/25～10/4 盛大開展)\n💡 備註：🌟 實訪臨場應變紀實：抵達發現「味の札幌 大西」未開，隨即應變轉戰僅 350m 之さくら野百貨店 6F 催事場「秋の全国うまいものまつり / 北海道展」！購買北海道直送極上海鮮便當、現烤熟食炸物與甜點於會場休憩區大快朵頤，支援各類刷卡/電子支付，美味超滿足！\n\n🗺️ さくら野百貨店 青森本店: https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%8F%E3%82%89%E9%87%8E%E7%99%BE%E8%B2%A8%E5%BA%97+%E9%9D%92%E6%A3%AE%E6%9C%AC%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%95%E3%81%8F%E3%82%89%E9%87%8E%E7%99%BE%E8%B2%A8%E5%BA%97+%E9%9D%92%E6%A3%AE%E6%9C%AC%E5%BA%97&travelmode=walking\n\n⚠️ 🚨 實訪紀實調度：因抵達後尋找替代餐飲花費較多時間，考量初抵日本首日舟車勞頓且天色已暗，果斷取消原定傍晚「青い海公園」之海邊散策，吃飽後直接返回飯店休息整備。
+LOCATION:さくら野百貨店 青森本店 6F 北海道展
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d1-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260928T210000
+DTEND;TZID=Asia/Tokyo:20260928T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【青森站前首選・已訂妥🌟
+DESCRIPTION:【Day 1・🏨 頂級名宿】\n住宿【青森站前首選・已訂妥🌟】：ホテルマイステイズ青森駅前 🚶 步行回飯店（4F 附設投幣洗衣機）。\n\n\n🗺️ ホテルマイステイズ青森駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:ホテルマイステイズ青森駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-2-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 02・八甲田・十和田】奧入瀨溪流・成吉思汗烤肉
+DESCRIPTION:行程：八甲田山麓楓景(纜車強風運休) ➔ 奧入瀨溪流 ➔ 十和田湖遊覽船 ＆ 乙女之像 ➔ 18:20返抵市區直達林檎家 ➔ 18:30成吉思汗烤肉 ➔ 洗衣【宿：ホテルマイステイズ青森駅前🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住ホテルマイステイズ青森駅前，全日輕裝參加八甲田、十和田奧入瀨與十和田湖遊覽船一日遊，傍晚 18:20 專車返抵市區直達林檎家成吉思汗烤肉，晚間回飯店投幣洗衣。\n\n完整行程：./itinerary.html#day-2
+LOCATION:八甲田・十和田
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T073000
+DTEND;TZID=Asia/Tokyo:20260929T081500
+TRANSP:OPAQUE
+SUMMARY:🍜 早餐：長尾中華そば 青森站前店 或 飯店輕食（自費加購）
+DESCRIPTION:【Day 2・🥩 極上美食】\n07:30 - 08:15【早餐：長尾中華そば 青森站前店 或 飯店輕食（自費加購）】：\n步行 2 分鐘至青森站前品嚐知名 「長尾中華そば 青森站前店」 🚶 步行導航（營業時間：07:00 - 21:00，週二正常營業！特濃煮干朝ラーメン）或於飯店享用簡約輕食（停留 45 分鐘）。\n（💡 飯店朝食資訊：【ホテルマイステイズ青森駅前】本次預訂為純住宿方案【房價未含朝食】；若想在 2F 餐廳享用青森蘋果咖哩、八戶仙貝汁與帆立貝粥百匯，可於現場自費加購，房客優惠價為 1\,650 円/人，供應時間 06:30 - 09:30，LO 09:15）\n\n⏰ 營業時間：• 07:00 - 21:00 ｜ • LO 20:45 ｜ • 無下午中休み\n🚫 公休日：水曜日定休 ｜ (行程 Day 2 為週二，正常營業)\n💡 備註：07:00 開門營業，早晨以通勤翻桌為主，等候約 5~10 分鐘即可入座。招牌「こく煮干し」每日限量熬煮高湯，可選手打細麵或太麵。\n\n🗺️ 長尾中華そば 青森站前店: https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B0%BE%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0+%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E9%95%B7%E5%B0%BE%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0+%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D%E5%BA%97&travelmode=walking\n\n⚠️ （💡 飯店朝食資訊：【ホテルマイステイズ青森駅前】本次預訂為純住宿方案【房價未含朝食】；若想在 2F 餐廳享用青森蘋果咖哩、八戶仙貝汁與帆立貝粥百匯，可於現場自費加購，房客優惠價為 1\,650 円/人，供應時間 06:30 - 09:30，LO 09:15）
+LOCATION:長尾中華そば 青森駅前店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T093000
+DTEND;TZID=Asia/Tokyo:20260929T113000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑧：八甲田山空中纜車 ＆ 田茂萢岳（🚨 實況：山頂強風纜車全日運休・山麓楓林散策）
+DESCRIPTION:【Day 2・🌟 必去景點】\n09:30 - 11:30【必去景點 ⑧：八甲田山空中纜車 ＆ 田茂萢岳（🚨 實況：山頂強風纜車全日運休・山麓楓林散策）】：\n八甲田空中纜車 (八甲田ロープウェー) 🚌 大眾交通路線（營運時間：09:00 - 16:20，每 15~20 分鐘一班，單程 10 分鐘，往返票價 2\,000 円）。\n🚨 實況紀實與彈性調整：當日抵達八甲田纜車站後，因山頂遭遇強風吹襲，纜車全日安全停駛運休！雖未能搭乘纜車登頂田茂萢岳，但改於八甲田山麓周邊森林步道悠閒漫步賞楓拍照，欣賞初秋楓林漸層之美，隨後從容提早前往奧入瀨溪流展開水瀑綠蔭健行。\n\n\n🗺️ 八甲田山空中纜車: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E7%94%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%83%BC\n🗺️ 田茂萢岳: https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E8%8C%82%E8%90%A2%E5%B2%B3\n\n⚠️ 🚨 實況紀實與彈性調整：當日抵達八甲田纜車站後，因山頂遭遇強風吹襲，纜車全日安全停駛運休！雖未能搭乘纜車登頂田茂萢岳，但改於八甲田山麓周邊森林步道悠閒漫步賞楓拍照，欣賞初秋楓林漸層之美，隨後從容提早前往奧入瀨溪流展開水瀑綠蔭健行。
+LOCATION:八甲田ロープウェー
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T113000
+DTEND;TZID=Asia/Tokyo:20260929T123000
+TRANSP:OPAQUE
+SUMMARY:🚌 拼車專車穿越八甲田高山林道、萱野高原與蔦溫泉前往奧入瀨溪流
+DESCRIPTION:【Day 2・🚌 交通銜接】\n11:30 - 12:30【拼車專車穿越八甲田高山林道、萱野高原與蔦溫泉前往奧入瀨溪流】：\n拼車專車穿越八甲田高山林道、萱野高原與蔦溫泉林蔭前往奧入瀨溪流（車程約 60 分鐘）。
+LOCATION:八甲田・十和田
+CATEGORIES:🚌 交通銜接\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T123000
+DTEND;TZID=Asia/Tokyo:20260929T141500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑯：奧入瀨溪流・精華溪畔步道健行森林浴（國家公園特級加碼）
+DESCRIPTION:【Day 2・🌟 必去景點】\n12:30 - 14:15【必去景點 ⑯：奧入瀨溪流・精華溪畔步道健行森林浴（國家公園特級加碼）】：\n拼車司機/導遊引導漫步奧入瀨溪流最負盛名的精華步道（石ヶ戶 ➔ 阿修羅之流 ➔ 飛金の流れ ➔ 銚子大滝）。\n零距離感受國家公園級的清冽激流、奔騰水瀑、青苔岩石與純淨芬多精，飽覽初秋水石奇景（停留 1 小時 45 分鐘）。\n\n\n🗺️ 奧入瀨溪流: https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81
+LOCATION:奥入瀬渓流
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T143000
+DTEND;TZID=Asia/Tokyo:20260929T152000
+TRANSP:OPAQUE
+SUMMARY:⛴️ 必去體驗加碼：十和田湖遊覽船（休屋港發著・中湖周遊航線・近距離飽覽火山口湖斷崖絕壁）
+DESCRIPTION:【Day 2・🌟 必去景點】\n14:30 - 15:20【必去體驗加碼：十和田湖遊覽船（休屋港發著・中湖周遊航線・近距離飽覽火山口湖斷崖絕壁）】：\n🌟 實訪搭乘遊覽船紀實：於休屋港十和田湖觀光交流中心「ぷらっと」購票登船，搭乘 十和田湖遊覽船（休屋周遊 B 路線，航程 50 分鐘，大人 1\,760 円）。\n船隻馳騁於碧綠清澈的高山深水湖面，由湖心仰望突出於湖岸的御倉半島與中山半島壯闊的千丈岩岩壁，近距離飽覽湖光山色倒影，從水上感受十和田二重火山口湖浩瀚的自然鬼斧神工，視野極度開闊震撼！\n\n\n🗺️ 十和田湖遊覽船: https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E5%92%8C%E7%94%B0%E6%B9%96%E9%81%8A%E8%A6%A7%E8%88%B9+%E4%BC%91%E5%B1%8B
+LOCATION:十和田湖 休屋・乙女の像 / 遊覧船
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it9@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T152000
+DTEND;TZID=Asia/Tokyo:20260929T161500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑰：十和田湖畔（休屋）漫步・乙女之像 ＆ 湖畔午茶「御食事処 神田川」
+DESCRIPTION:【Day 2・🌟 必去景點】\n15:20 - 16:15【必去景點 ⑰：十和田湖畔（休屋）漫步・乙女之像 ＆ 湖畔午茶「御食事処 神田川」】：\n下船後漫步湖畔松林與著名青銅雕塑 「乙女之像」 🚶 步行導航，欣賞雕刻大師高村光太郎的傳世傑作在湖畔松濤中的肅穆莊嚴美感。\n午餐前往休屋在地老舖 「御食事処 神田川」 🚶 步行導航（同街區備選：「お食事とお土産の店 もりた」），品嚐十和田名物烤牛五花或熱騰騰烏龍麵、十和田姬鱒料理稍作果腹充電（停留約 55 分鐘）。\n\n\n🗺️ 十和田湖畔（休屋）: https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E5%92%8C%E7%94%B0%E6%B9%96+%E4%BC%91%E5%B1%8B\n🗺️ 乙女之像: https://www.google.com/maps/search/?api=1&query=%E4%B9%99%E5%A5%B3%E3%81%AE%E5%83%8F+%E5%8D%81%E5%92%8C%E7%94%B0%E6%B9%96
+LOCATION:十和田湖 休屋・乙女の像 / 遊覧船
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T161500
+DTEND;TZID=Asia/Tokyo:20260929T182000
+TRANSP:OPAQUE
+SUMMARY:🚌 拼車專車原路返程・傍晚穿越高山林道直達青森市區
+DESCRIPTION:【Day 2・🚌 交通銜接】\n16:15 - 18:20【拼車專車原路返程・傍晚穿越高山林道直達青森市區】：\n16:15 自休屋出發，專車傍晚穿越八甲田高山公路與十和田國道返回青森市，車程約 2 小時，約 18:20 返抵青森市區（古川／新町周邊）。
+LOCATION:八甲田・十和田
+CATEGORIES:🚌 交通銜接\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T183000
+DTEND;TZID=Asia/Tokyo:20260929T204500
+TRANSP:OPAQUE
+SUMMARY:🥩 晚餐【健行後肉食盛宴】：青森 No.1 炭火成吉思汗烤羊肉「生ラムジンギスカン 林檎家 古川店」＆ 120分暢飲【🌟 實訪 18:30 開吃
+DESCRIPTION:【Day 2・🥩 極上美食】\n18:30 - 20:45【晚餐【健行後肉食盛宴】：青森 No.1 炭火成吉思汗烤羊肉「生ラムジンギスカン 林檎家 古川店」＆ 120分暢飲【🌟 實訪 18:30 開吃】】：\n🌟 實訪用餐資訊：晚餐於 18:30 正式入座開吃！大啖青森成吉思汗名店 「生ラムジンギスカン 林檎家 古川店」 🚶 步行導航（營業時間：17:00 - 23:00）。\n古川店三大優勢 ＆ 酒精飲料暢飲（飲み放題）：\n① 距離最近：離 Mystays 僅 400 公尺（步行 4 分鐘），比本店省下一半路程！\n② 獨立強力排煙設備：全席配置獨立抽風管（全席ダクト完備），油煙不沾身，回房衣物更清爽！\n③ 舒適日式暖桌席：設有「掘りごたつ（下嵌式免盤腿席）」，健行一整天後雙腿能自然伸展放下，極度放鬆！\n方案直接全含「120 分鐘酒精飲料喝到飽」暢飲（生啤酒、沙瓦、地酒無限暢飲，附特選豆芽菜與洋蔥），在七輪炭火鑄鐵凸盤上大烤鮮嫩純生羔羊排（骨付生ラムチョップ）與厚切生羊肉，沾上以青森新鮮蘋果泥與生薑秘製的成吉思汗醬汁，鮮嫩多汁無羶味，大口吃肉大口喝酒，洗滌一整天高山溪流健行的疲勞（停留整整 2 小時 15 分鐘，暢飲至 20:45）。\n\n⏰ 營業時間：• 17:00 - 23:00 ｜ • LO 22:30 ｜ • 夜間專營無午餐\n🚫 公休日：火曜日常態營業 ｜ (Day 2 週二正常開門)\n💡 備註：16:15 專車自十和田湖啟程返市區，約 18:20 返抵市區直接前往餐廳開吃（免回飯店折返跑！）。七輪炭火鑄鐵凸盤現烤鮮嫩生羔羊排與厚切羊肉，沾秘製青森蘋果泥生薑醬汁，大口吃肉大口暢飲生啤地酒（18:30~20:45 暢飲 120 分鐘）。\n\n🗺️ 生ラムジンギスカン 林檎家 古川店: https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E3%83%A9%E3%83%A0%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9%E3%82%AB%E3%83%B3+%E6%9E%97%E6%AA%8E%E5%AE%B6+%E5%8F%A4%E5%B7%9D%E5%BA%97+%E9%9D%92%E6%A3%AE%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E7%94%9F%E3%83%A9%E3%83%A0%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9%E3%82%AB%E3%83%B3+%E6%9E%97%E6%AA%8E%E5%AE%B6+%E5%8F%A4%E5%B7%9D%E5%BA%97+%E9%9D%92%E6%A3%AE%E5%B8%82&travelmode=walking
+LOCATION:生ラムジンギスカン 林檎家 古川店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T204500
+DTEND;TZID=Asia/Tokyo:20260929T214500
+TRANSP:OPAQUE
+SUMMARY:🎯 🧺 第 1 次洗衣服 ＆ 休息
+DESCRIPTION:【Day 2・🎯 特色體驗】\n20:45 - 21:45【🧺 第 1 次洗衣服 ＆ 休息】：\n返回飯店，使用 4F 投幣洗烘衣機清洗 Day 1~2 衣物（洗脫烘約 70 分鐘），洗好就寢。
+LOCATION:八甲田・十和田
+CATEGORIES:🎯 特色體驗\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d2-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260929T210000
+DTEND;TZID=Asia/Tokyo:20260929T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【青森站前首選・已訂妥🌟
+DESCRIPTION:【Day 2・🏨 頂級名宿】\n住宿【青森站前首選・已訂妥🌟】：ホテルマイステイズ青森駅前 🚶 步行回飯店。\n\n\n🗺️ ホテルマイステイズ青森駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:ホテルマイステイズ青森駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-3-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 03・淺虫溫泉】AUGA市場・海扇閣Buffet
+DESCRIPTION:行程：Mystays退房寄行李 ➔ アウガ新鮮市場丸青食堂早午餐 ➔ 11:26市營巴士C11直達淺虫 ➔ 溫泉街散策 ＆ cafe apricot 咖啡午茶 ➔ 15:00入住海扇閣【宿：南部屋 海扇閣🌟已訂・豪華Buffet】\n\n行李與換宿：🧳 溫泉換宿：早晨退房後大行李寄放飯店櫃檯，十點多漫步至 AUGA 丸青食堂早午餐，11:20 取行李搭 11:26 市營公車 C11 直達海扇閣寄放，下午溫泉街散策並於 cafe apricot 享受手沖咖啡，15:00 準時 Check-in！\n\n完整行程：./itinerary.html#day-3
+LOCATION:淺虫溫泉
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T093000
+DTEND;TZID=Asia/Tokyo:20260930T100500
+TRANSP:OPAQUE
+SUMMARY:🏨 退房手續 ＆ 🧳 Mystays 櫃檯寄放大行李
+DESCRIPTION:【Day 3・🏨 頂級名宿】\n09:30 - 10:05【退房手續 ＆ 🧳 Mystays 櫃檯寄放大行李】：\n於【ホテルマイステイズ青森駅前】辦理退房手續（Check-out），並將兩只大行李暫時寄放於飯店櫃檯，以完全空手的輕裝狀態出發享用市場早午餐！\n\n\n🗺️ ホテルマイステイズ青森駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BA%E9%9D%92%E6%A3%AE%E9%A7%85%E5%89%8D
+LOCATION:ホテルマイステイズ青森駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T100500
+DTEND;TZID=Asia/Tokyo:20260930T110500
+TRANSP:OPAQUE
+SUMMARY:🐟 早午餐：アウガ新鮮市場 (AUGA 地下1F) 昭和海鮮市場名店「丸青食堂」
+DESCRIPTION:【Day 3・🥩 極上美食】\n10:05 - 11:05【早午餐：アウガ新鮮市場 (AUGA 地下1F) 昭和海鮮市場名店「丸青食堂」】：\n飯店出門步行僅 3 分鐘至對面 【Festival City AUGA 地下 1 樓・アウガ新鮮市場】 🚶 步行導航！\n於市場內的昭和排隊名店 「丸青食堂」 🚶 步行導航（營業時間：07:00 - 15:30，L.O. 15:00，食材售罄提早打烊）享用十點多的極鮮扇貝刺身與海鮮丼早午餐（新鮮活扇貝刺身、特選海鮮丼或津輕拉麵，停留 1 小時）。\n（💡 飲食戰略：十點多在丸青食堂吃得滿足鮮甜，午後空腹蓄積戰力，全力迎接 17:30 海扇閣極其豐盛的豪華海陸 Buffet！）\n\n⏰ 營業時間：• 07:00 - 15:30 (LO 15:00) ｜ • 食材售罄提早打烊 ｜ • 午後打烊無晚餐\n🚫 公休日：隨 AUGA 市場休 ｜ (月 1 回水曜日不定期休，9/30開市)\n💡 備註：位於 AUGA 地下 1 樓，僅 10 餘席。退房將大行李寄放 Mystays 櫃檯後，十點多輕裝前往品嚐現挑活扇貝刺身與海鮮丼早午餐，吃得滿足鮮甜，午後蓄積戰力直奔海扇閣晚餐 Buffet！\n\n🗺️ 丸青食堂: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A6%E3%82%AC%E6%96%B0%E9%AE%AE%E5%B8%82%E5%A0%B4+%E4%B8%B8%E9%9D%92%E9%A3%9F%E5%A0%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%A2%E3%82%A6%E3%82%AC%E6%96%B0%E9%AE%AE%E5%B8%82%E5%A0%B4+%E4%B8%B8%E9%9D%92%E9%A3%9F%E5%A0%82&travelmode=walking\n\n⚠️ （💡 飲食戰略：十點多在丸青食堂吃得滿足鮮甜，午後空腹蓄積戰力，全力迎接 17:30 海扇閣極其豐盛的豪華海陸 Buffet！）
+LOCATION:丸青食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T123500
+DTEND;TZID=Asia/Tokyo:20260930T145000
+TRANSP:OPAQUE
+SUMMARY:☕ 淺虫溫泉街散策 ＆ 文青喫茶「cafe apricot (カフェ アプリコット)」午後咖啡時光【烈日取消水庫 ＆ 飯店休息室未開之極上應變
+DESCRIPTION:【Day 3・🥩 極上美食】\n12:35 - 14:50【淺虫溫泉街散策 ＆ 文青喫茶「cafe apricot (カフェ アプリコット)」午後咖啡時光【烈日取消水庫 ＆ 飯店休息室未開之極上應變】】：\n☀️ 實訪天候與場地應變紀實：午後抵達海扇閣寄存行李後，發現 飯店 1F 海景休息室（茜茶寮）於 15:00 前尚未開放營業；且當日午後豔陽高照、戶外氣溫偏高，為免曝曬步行 2.5 公里前往「浅虫ダム（淺蟲螢火蟲湖）」，兩人果斷取消水庫行程！\n老街散策與名店咖啡：由海扇閣漫步出門，於淺虫溫泉街與車站周邊綠意街道漫步散策約 15 分鐘，隨後步行 2 分鐘（約 200m）造訪位於車站附近的在地人氣文青老宅改建咖啡館 「cafe apricot (カフェ アプリコット)」 🚶 步行導航（青森市浅虫蛍谷64-13，營業時間：11:00 - 17:00，週一定休）。\n極上氛圍：在由舊報社老舖精心翻修的溫暖木質調復古空間中，品嚐香醇現磨精品手沖咖啡、手作瑪芬蛋糕與冰飲，吹著舒服冷氣度過極致寧靜愜意的午後時光（停留約 2 小時）。\n\n⏰ 營業時間：• 11:00 - 17:00 ｜ • LO 16:30 ｜ • 無下午中休\n🚫 公休日：月曜日定休 ｜ (9/30 週三正常營業)\n💡 備註：🌟 實訪臨場應變紀實：因午後烈日高溫取消水庫健行，且海扇閣海景 Lounge 茜於 15:00 前尚未開放營業，兩人漫步至海扇閣旁僅 200m 之人氣老宅改建咖啡館「cafe apricot」！在溫暖木質調復古空間中享用現磨手沖咖啡與手作點心，悠閒度過寧靜下午。\n\n🗺️ cafe apricot (カフェ アプリコット): https://www.google.com/maps/search/?api=1&query=cafe+apricot+%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89\n🗺️ 浅虫ダム（淺蟲螢火蟲湖）: https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%99%AB%E3%83%80%E3%83%A0
+LOCATION:cafe apricot
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T145000
+DTEND;TZID=Asia/Tokyo:20260930T150000
+TRANSP:OPAQUE
+SUMMARY:🏨 漫步返回海扇閣辦理 Check-in
+DESCRIPTION:【Day 3・🏨 頂級名宿】\n14:50 - 15:00【漫步返回海扇閣辦理 Check-in】：\n悠閒喝完咖啡後漫步 2 分鐘返回海扇閣大廳，從容辦理入住手續。\n入住 南部屋 海扇閣 (Kaisenkaku)（Check-in 15:00 / Check-out 10:00・已訂妥🌟）。\n迎賓茶點：於 1F ラウンジ「茜 (Akane)」免費享用現磨咖啡、青森蘋果汁與淺虫銘菓。\n展望海景溫泉：15:30 - 16:45 前往 9 樓最上階展望大浴場「海望之湯」，浸泡在十和田石與檜木露天風呂中，遠眺形如錐形島嶼的「湯之島」\n更衣與暮色：16:45 - 17:25 回房換上舒適浴衣小憩，欣賞黃昏晚霞將陸奧灣染成金黃色的夕陽暮色（🌅 本日日落約 17:25）。\n\n\n🗺️ 湯之島: https://www.google.com/maps/search/?api=1&query=%E6%B9%AF%E3%81%AE%E5%B3%B6+%E6%B5%85%E8%99%AB
+LOCATION:南部屋・海扇閣
+CATEGORIES:🏨 頂級名宿\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：漫步返回海扇閣辦理 Check-in 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T173000
+DTEND;TZID=Asia/Tokyo:20260930T203000
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐重點：一泊二食・南部屋・海扇閣 dining「海つ路」豪華海陸 Buffet 自助百匯・17:30準時入座整整 3 小時吃好吃滿！
+DESCRIPTION:【Day 3・🥩 極上美食】\n17:30 - 20:30【晚餐重點：一泊二食・南部屋・海扇閣 dining「海つ路」豪華海陸 Buffet 自助百匯・17:30準時入座整整 3 小時吃好吃滿！】：\n晚餐營業時間：17:30 - 21:00（最後入場 20:00，L.O. 20:30）。\n17:30 準時第一批開放入座！完整享受整整 3 小時（17:30 - 20:30）無拘無束大啖海陸美饌！\n午間空腹的戰略大成功！Live Kitchen 現烤陸奧灣大帆立貝、鐵板現煎特選牛排、職人現場手握壽司、現炸時令天婦羅、三陸鮮切刺身盛合、津輕鄉土料理「ほたて貝焼味噌」、青森名物「イカメンチ」與精緻甜點水果吧無拘束吃到飽！軟性飲料全數免費暢飲。\n\n⏰ 營業時間：• 17:30 - 21:00 ｜ • LO 20:30 ｜ • 通し營業無中休\n🚫 公休日：年中無休 ｜ (一泊二食專案全包)\n💡 備註：整整吃滿 3 小時吃好吃滿！ 17:30 準時入座享用 Live Kitchen 活烤陸奧灣帆立貝、鐵板牛排、握壽司，吃到 20:30，20:45 銜接大廳三味線 Live。
+LOCATION:南部屋・海扇閣 dining「海つ路」
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐重點：一泊二食・南部屋・海扇閣 dining「海つ路」豪 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d3-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20260930T210000
+DTEND;TZID=Asia/Tokyo:20260930T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【淺虫溫泉現代名宿・已訂妥🌟
+DESCRIPTION:【Day 3・🏨 頂級名宿】\n住宿【淺虫溫泉現代名宿・已訂妥🌟】：南部屋 海扇閣 🚶 步行回飯店。\n\n\n🗺️ 南部屋 海扇閣: https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E9%83%A8%E5%B1%8B%E3%83%BB%E6%B5%B7%E6%89%87%E9%96%A3\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E5%8D%97%E9%83%A8%E5%B1%8B%E3%83%BB%E6%B5%B7%E6%89%87%E9%96%A3&travelmode=walking
+LOCATION:南部屋・海扇閣
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-4-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 04・淺虫溫泉】水族館・日落海灘・椿館
+DESCRIPTION:行程：海扇閣朝食吃好吃滿 ➔ 09:40接駁直達水族館 ➔ 淺虫三大海鮮名店午餐 ➔ 森林公園展望台 ➔ 日落海灘夕陽 ➔ 椿館懷石【宿：椿館🌟已訂】\n\n行李與換宿：🧳 淺虫同街換宿：海扇閣退房，大行李委託專車移送至隔壁「浅虫温泉 椿館」，傍晚漫步日落海灘後椿館專車接駁至飯店！\n\n完整行程：./itinerary.html#day-4
+LOCATION:淺虫溫泉
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T064500
+DTEND;TZID=Asia/Tokyo:20261001T084500
+TRANSP:OPAQUE
+SUMMARY:🍴 早晨【海扇閣海景早餐 Buffet・專案已含朝食 🌟・整整享用 2 小時吃好吃滿！
+DESCRIPTION:【Day 4・🥩 極上美食】\n06:45 - 08:45【早晨【海扇閣海景早餐 Buffet・專案已含朝食 🌟・整整享用 2 小時吃好吃滿！】】：\n專案已含朝食 🌟（一泊二食專案房價全含 0 円）。完整營業時間：06:45 ～ 09:00（最終入場 08:30）。\n06:45 開門即可準時入席 2 樓景觀餐廳「海つ路」！津輕在地白米、現煮貝燒味噌、現做日式厚蛋燒、現烤時令鮮魚、刺身握壽司、青森在地鮮果汁吃好吃滿，充足補充元氣（停留 2 小時）。
+LOCATION:淺虫溫泉
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：早晨【海扇閣海景早餐 Buffet・專案已含朝食 🌟・整整享 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T091500
+DTEND;TZID=Asia/Tokyo:20261001T093500
+TRANSP:OPAQUE
+SUMMARY:🏨 海扇閣辦理退房 ＆ 椿館姊妹店寄放大行李
+DESCRIPTION:【Day 4・🏨 頂級名宿】\n09:15 - 09:35【海扇閣辦理退房 ＆ 椿館姊妹店寄放大行李】：\n辦理退房（Check-out 10:00 前），步行 1 分鐘至海扇閣正隔壁的椿館姊妹店 【宿屋つばき (Yadoya Tsubaki)】寄放大行李（由飯店專車代送至今晚入住之椿館）。\n
+LOCATION:南部屋・海扇閣
+CATEGORIES:🏨 頂級名宿\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：海扇閣辦理退房 ＆ 椿館姊妹店寄放大行李 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T095500
+DTEND;TZID=Asia/Tokyo:20261001T120000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 青森縣營淺虫水族館 (Asamushi Aquarium)・悠閒漫步不疾不徐
+DESCRIPTION:【Day 4・🎯 需求景點】\n09:55 - 12:00【青森縣營淺虫水族館 (Asamushi Aquarium)・悠閒漫步不疾不徐】：\n營業時間：09:00 - 17:00（最終入館 16:30，年中無休，門票 1\,030 円）。\n09:55 抵達後完全不需要急著趕 10:00 的海豚秀！入館後先悠閒漫步 15 公尺長陸奧灣海底隧道、近距離觀賞海獺、海豹、企鵝展區與餵食體驗。\n11:15 從容步入海豚表演池挑選最佳視野座位，準時觀賞 11:30 海豚秀 (イルカパフォーマンス)（絕美空中翻騰與跳躍，表演約 20 分鐘，停留整整 2 小時 5 分鐘）。\n\n\n🗺️ 青森縣營淺虫水族館: https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%96%B6%E6%B5%85%E8%99%AB%E6%B0%B4%E6%97%8F%E9%A4%A8
+LOCATION:青森県営浅虫水族館
+CATEGORIES:🎯 需求景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T120500
+DTEND;TZID=Asia/Tokyo:20261001T133000
+TRANSP:OPAQUE
+SUMMARY:🍴 午餐：水族館周邊三大海鮮名店（精準距離與營業時間評比）
+DESCRIPTION:【Day 4・🥩 極上美食】\n12:05 - 13:30【午餐：水族館周邊三大海鮮名店（精準距離與營業時間評比）】：\n🦪 【精選首選 A：正立食堂 (Seiritsu Shokudo)】（水族館沿海濱步道北行約 750 公尺，步行約 9~10 分鐘，營業時間：10:00 - 15:00 / 15:30 賣完為止，不定休）：\n坐擁無敵海景第一排的漁夫食堂！水槽現撈活扇貝刺身、現烤活扇貝、極鮮生海膽丼、扇貝海膽雙拼丼，深獲海鮮老饕一致推崇！\n🐟 【精選首選 B：鶴龜屋食堂 (Tsurukameya Shokudo)】（水族館往南約 400 公尺，步行僅 5 分鐘，營業時間：11:00 - 14:00 或 14:30，L.O. 14:00，年中無休）：\n全日本知名貼紙牆名店！招牌貼紙爆量黑鮪魚丼（まぐろ丼）與陸奧灣活帆立貝拉麵，份量巨大，話題性與視覺震撼度滿分！\n🍦 【特色備選 C：ほたて広場 (Hotate Hiroba)】（水族館沿國道 4 號東北行約 1.1 公里，步行約 15 分鐘，賣場 09:00 - 17:00 / 餐廳「ホタテ一番」11:00 - 14:30 L.O. 14:00，每週三定休，週四正常營業！）：\n平內町活扇貝產地直賣中心！產地直銷扇貝定食、現烤扇貝與特色帆立貝霜淇淋。\n（👉 推薦在正立食堂或鶴龜屋食堂悠閒用餐，停留 1 小時 25 分鐘）。\n\n🗺️ 正立食堂: https://www.google.com/maps/search/?api=1&query=%E6%AD%A3%E7%AB%8B%E9%A3%9F%E5%A0%82+%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89\n🗺️ 鶴龜屋食堂: https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E4%BA%80%E5%B1%8B%E9%A3%9F%E5%A0%82+%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89
+LOCATION:正立食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T160000
+DTEND;TZID=Asia/Tokyo:20261001T172500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 傍晚：淺虫日落海灘漫步夕陽絕景・緊鄰海岸！
+DESCRIPTION:【Day 4・🎯 需求景點】\n16:00 - 17:25【傍晚：淺虫日落海灘漫步夕陽絕景・緊鄰海岸！】：\n走下山坡前往海濱 【淺虫日落海灘 (サンセットビーチあさむし)】 🚶 步行導航！\n漫步金色細沙灘，坐在海濱長椅欣賞金黃夕陽將海面染紅的浪漫晚霞（🌅 當日日落時間：約 17:19，停留 1 小時 25 分鐘）。\n\n\n🗺️ 淺虫日落海灘 (サンセットビーチあさむし): https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88%E3%83%93%E3%83%BC%E3%83%81%E3%81%82%E3%81%95%E3%82%80%E3%81%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88%E3%83%93%E3%83%BC%E3%83%81%E3%81%82%E3%81%95%E3%82%80%E3%81%97&travelmode=walking
+LOCATION:サンセットビーチあさむし
+CATEGORIES:🎯 需求景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T175000
+DTEND;TZID=Asia/Tokyo:20261001T183000
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 辦理 Check-in ＆ 女將現刷迎賓熱抹茶
+DESCRIPTION:【Day 4・🏨 頂級名宿】\n17:50 - 18:30【🏨 辦理 Check-in ＆ 女將現刷迎賓熱抹茶】：\n入住 【椿館 (Tsubakikan)】 🚶 步行導航（Check-in 15:00 / Check-out 10:00・已訂妥🌟）。\n🌟 女將現刷迎賓抹茶體驗（15:00 - 18:00 嚴格限定！）：於大廳茶室把握 18:00 前最後點茶時段，由女將親自現點現刷正統熱抹茶，搭配淺虫在地精緻和菓子，尊享日式老舖極致待客之道！\n\n\n🗺️ 椿館 (Tsubakikan): https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89+%E6%A4%BF%E9%A4%A8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89+%E6%A4%BF%E9%A4%A8&travelmode=walking
+LOCATION:浅虫温泉 椿館
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it15@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T183000
+DTEND;TZID=Asia/Tokyo:20261001T203000
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐：極上傳統會席料理・整整 2 小時吃好吃滿！
+DESCRIPTION:【Day 4・🥩 極上美食】\n18:30 - 20:30【晚餐：極上傳統會席料理・整整 2 小時吃好吃滿！】：\n夕食開始時間：安排 18:30 開餐（停留整整 2 小時無拘束大啖美饌！）。\n享用「椿の宴」會席料理：陸奧灣生食級活帆立貝刺身、帆立貝燒味噌、極品鮑魚陶板燒、青森縣產特選和牛陶板燒、津輕旬魚料理、山菜天婦羅與青森在地地酒！\n\n⏰ 營業時間：• 18:00 - 20:30 ｜ • LO 20:00 ｜ • 專案宴席\n🚫 公休日：年中無休 ｜ (一泊二食專案全包)\n💡 備註：傳統日式旅館個室宴席料理，品嚐津輕海峽旬魚刺身、鮑魚陶板燒、青森黑毛和牛陶板燒與鄉土芋煮鍋。餐後於大廳欣賞棟方志功版畫。
+LOCATION:浅虫温泉 椿館「椿の宴」
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d4-it18@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261001T210000
+DTEND;TZID=Asia/Tokyo:20261001T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【淺虫傳統歷史旅館・已訂妥🌟
+DESCRIPTION:【Day 4・🏨 頂級名宿】\n住宿【淺虫傳統歷史旅館・已訂妥🌟】：椿館 (Tsubakikan) 🚶 步行回飯店。\n\n\n🗺️ 椿館 (Tsubakikan): https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89+%E6%A4%BF%E9%A4%A8\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89+%E6%A4%BF%E9%A4%A8&travelmode=walking
+LOCATION:浅虫温泉 椿館
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-5-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 05・青森市】味の札幌大西・WARASSE・A-Factory
+DESCRIPTION:行程：椿館退房 ＆ 10:00公車U5直達飯店寄行李 ➔ 11:00開門首批入座青森靈魂拉麵味の札幌 大西 ➔ 青森港灣四大文化漫步 ＆ ASPAM展望台 ➔ 🌟週五極上馬肉吉兆 ➔ 洗衣【宿：リッチモンドホテル青森🌟已訂】\n\n行李與換宿：🧳 換宿回青森市：椿館退房後專車送站，搭乘 10:00 青森市營巴士 U5 直達「市役所前」，下車步行 2 分鐘將大行李寄放「リッチモンドホテル青森」，11:00 開門首批搶先入座味の札幌大西味噌咖哩牛奶拉麵！\n\n完整行程：./itinerary.html#day-5
+LOCATION:青森市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T080000
+DTEND;TZID=Asia/Tokyo:20261002T084500
+TRANSP:OPAQUE
+SUMMARY:🍴 早晨【椿館津輕傳統和風朝食御膳・專案已含朝食 🌟・悠閒品嚐
+DESCRIPTION:【Day 5・🥩 極上美食】\n08:00 - 08:45【早晨【椿館津輕傳統和風朝食御膳・專案已含朝食 🌟・悠閒品嚐】】：\n專案已含朝食 🌟（一泊二食專案房價全含 0 円）。與飯店約定 08:00 入座享用精緻「津輕和食定食」：青森特選新米晶瑩白飯、津輕海峽旬魚現烤、津輕在地味噌汁、溫泉蛋、手工豆腐與山海漬物，清爽暖胃，充足補給體力（停留 45 分鐘）。
+LOCATION:青森市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T094000
+DTEND;TZID=Asia/Tokyo:20261002T095000
+TRANSP:OPAQUE
+SUMMARY:🏨 打包整理隨身行李 ＆ 辦理退房結帳
+DESCRIPTION:【Day 5・🏨 頂級名宿】\n09:40 - 09:50【打包整理隨身行李 ＆ 辦理退房結帳】：\n回房收拾隨身行李，於櫃檯辦理退房手續（Check-out 10:00 前）。\n
+LOCATION:浅虫温泉 椿館
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T110000
+DTEND;TZID=Asia/Tokyo:20261002T120500
+TRANSP:OPAQUE
+SUMMARY:🍜 午餐【青森靈魂美食・開門第一批入座！】：味の札幌 大西 (Onishi)（元祖味噌咖哩牛奶拉麵）
+DESCRIPTION:【Day 5・🥩 極上美食】\n11:00 - 12:05【午餐【青森靈魂美食・開門第一批入座！】：味の札幌 大西 (Onishi)（元祖味噌咖哩牛奶拉麵）】：\n前往 味の札幌 大西 (Onishi) 🚶 步行導航（營業時間：11:00 - 18:00，最終入店 17:55，每週二、三定休，今日 10/2 週五正常營業！地址：青森市古川1丁目15-6 大西クリエイトビル 1F；💳 支援 台新Pay+(PayPay) ⭕ / 現金 ⭕）。\n🌟 開門第一梯次入場・完全零排隊！ 11:00 開門即刻入座！必點青森最傳奇之元祖「味噌カレー牛乳ラーメン (バター入り)（味噌咖哩牛奶拉麵加奶油）」！青森老字號特選味噌高湯注入青森產新鮮牛乳、辛香特製咖哩與整塊金黃奶油，湯頭香氣濃郁、口感滑順醇厚，搭配 Q 彈黃色捲麵、筍乾與軟嫩叉燒，一口入魂超級過癮（停留 1 小時 5 分鐘）。原古川市場行程取消不前往。\n\n⏰ 營業時間：• 11:00 - 18:00 ｜ • 最終入店 17:55 ｜ • 全日通し營業無中休\n🚫 公休日：毎週火曜日、水曜日定休 ｜ (今日 10/2 週五正常營業開門！)\n💡 備註：🌟 青森靈魂拉麵圓滿補完！ 9/28 因未營業臨場應變，今日 10/2 週五正式開門大吉！飯店寄放行李後步行 8 分鐘於 11:30 抵達（避開正中午尖峰）。必點元祖「味噌カレー牛乳ラーメン (バター入り)」加厚切叉燒，濃郁味噌辛香咖哩與滑順牛奶融為一體，醇厚暖胃！(註：古川市場取消不前往)\n\n🗺️ 味の札幌 大西 (Onishi): https://www.google.com/maps/search/?api=1&query=%E5%91%B3%E3%81%AE%E6%9C%AD%E5%B9%8C+%E5%A4%A7%E8%A5%BF+%E9%9D%92%E6%A3%AE%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E5%91%B3%E3%81%AE%E6%9C%AD%E5%B9%8C+%E5%A4%A7%E8%A5%BF+%E9%9D%92%E6%A3%AE%E5%B8%82&travelmode=walking
+LOCATION:味の札幌 大西
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T122500
+DTEND;TZID=Asia/Tokyo:20261002T134500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ④：睡魔之家 WARASSE (ねぶたの家 ワ・ラッセ)
+DESCRIPTION:【Day 5・🌟 必去景點】\n12:25 - 13:45【必去景點 ④：睡魔之家 WARASSE (ねぶたの家 ワ・ラッセ)】：\n入館參觀（營業時間：09:00 - 18:00，現場門票 620 円，支援信用卡/電子支付；🚨 避坑注意：過去網路介紹之 WARASSE ＋ 八甲田丸 ＋ ASPAM 跨館共通券已於 2025/3/31 正式廢止停售，一律現場單獨購票），近距離欣賞獲獎的 4 具超巨型立體睡魔燈籠，體驗傳統祭典太鼓敲擊與「跳人 (Haneto)」歡騰氛圍（停留 1 小時 20 分鐘）。\n\n\n🗺️ 睡魔之家 WARASSE (ねぶたの家 ワ・ラッセ): https://www.google.com/maps/search/?api=1&query=%E3%81%AD%E3%81%B6%E3%81%9F%E3%81%AE%E5%AE%B6+%E3%83%AF%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB\n\n⚠️ 入館參觀（營業時間：09:00 - 18:00，現場門票 620 円，支援信用卡/電子支付；🚨 避坑注意：過去網路介紹之 WARASSE ＋ 八甲田丸 ＋ ASPAM 跨館共通券已於 2025/3/31 正式廢止停售，一律現場單獨購票），近距離欣賞獲獎的 4 具超巨型立體睡魔燈籠，體驗傳統祭典太鼓敲擊與「跳人 (Haneto)」歡騰氛圍（停留 1 小時 20 分鐘）。
+LOCATION:ねぶたの家 ワ・ラッセ
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T135000
+DTEND;TZID=Asia/Tokyo:20261002T144500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ②：A-FACTORY (蘋果西打酒工坊市集・八甲田丸門前！)
+DESCRIPTION:【Day 5・🌟 必去景點】\n13:50 - 14:45【必去景點 ②：A-FACTORY (蘋果西打酒工坊市集・八甲田丸門前！)】：\n睡魔之家正對面！穿過海濱木棧道即達 【A-FACTORY】 🚶 步行導航（營業時間：10:00 - 19:00；💡 避坑提示：青森站前「あおもり帆立小屋」已於 2020/11/1 永久閉店，A-FACTORY 餐廳與 2F 西打酒試飲為現役最佳美食方案），參觀全透明蘋果酒釀造產線，試飲在地產蘋果酒，選購津輕特色工藝與蘋果伴手禮（停留 55 分鐘）。\n\n\n🗺️ A-FACTORY: https://www.google.com/maps/search/?api=1&query=A-FACTORY+%E9%9D%92%E6%A3%AE%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=A-FACTORY+%E9%9D%92%E6%A3%AE%E5%B8%82&travelmode=walking\n\n⚠️ 睡魔之家正對面！穿過海濱木棧道即達 【A-FACTORY ↗】 🚶 步行導航 ↗（營業時間：10:00 - 19:00；💡 避坑提示：青森站前「あおもり帆立小屋」已於 2020/11/1 永久閉店，A-FACTORY 餐廳與 2F 西打酒試飲為現役最佳美食方案），參觀全透明蘋果酒釀造產線，試飲在地產蘋果酒，選購津輕特色工藝與蘋果伴手禮（停留 55 分鐘）。
+LOCATION:A-FACTORY
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it16@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T145000
+DTEND;TZID=Asia/Tokyo:20261002T150500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ㉗：津輕海峽冬景色歌謠碑（八甲田丸旁・石川小百合傳奇演歌名曲）
+DESCRIPTION:【Day 5・🌟 必去景點】\n14:50 - 15:05【必去景點 ㉗：津輕海峽冬景色歌謠碑（八甲田丸旁・石川小百合傳奇演歌名曲）】：\n位於八甲田丸船頭前方的海濱步道！按下紅色感應按鈕，海風中立刻響起石川小百合演唱的昭和傳世名曲《津輕海峽・冬景色》，遙望北方津輕海峽，意境滿分（停留 15 分鐘）。\n\n\n🗺️ 津輕海峽冬景色歌謠碑: https://www.google.com/maps/search/?api=1&query=%E6%B4%A5%E8%BB%BD%E6%B5%B7%E5%B3%A1%E5%86%AC%E6%99%AF%E8%89%B2%E6%AD%8C%E8%AC%A1%E7%A2%91+%E9%9D%92%E6%A3%AE
+LOCATION:津軽海峡・冬景色 歌謡碑
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it18@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T151000
+DTEND;TZID=Asia/Tokyo:20261002T161500
+TRANSP:OPAQUE
+SUMMARY:⛴️ 必去景點 ⑤：青函連絡船紀念船 八甲田丸
+DESCRIPTION:【Day 5・🌟 必去景點】\n15:10 - 16:15【必去景點 ⑤：青函連絡船紀念船 八甲田丸】：\n登上停泊於陸奧灣的歷史名船 八甲田丸 🚶 步行導航（開館時間：09:00 - 17:00，最終入場 16:30，現場門票 510 円，支援信用卡/電子支付），參觀全世界唯一的「船艙內鐵軌與鐵道車輛渡輪」、巨大引擎室與駕駛羅盤艦橋，感受青函海底隧道通車前的壯闊渡輪史（停留 1 小時 5 分鐘）。\n\n\n🗺️ 八甲田丸: https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%87%BD%E9%80%A3%E7%B5%A1%E8%88%B9%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%83%E3%83%97%E5%85%AB%E7%94%B2%E7%94%B0%E4%B8%B8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E9%9D%92%E5%87%BD%E9%80%A3%E7%B5%A1%E8%88%B9%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%83%E3%83%97%E5%85%AB%E7%94%B2%E7%94%B0%E4%B8%B8&travelmode=walking
+LOCATION:八甲田丸
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it20@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T162500
+DTEND;TZID=Asia/Tokyo:20261002T171000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 青森縣觀光物產館 ASPAM 13F 展望台 ＆ 現烤熱蘋果派
+DESCRIPTION:【Day 5・🏛️ 景點名勝】\n16:25 - 17:10【青森縣觀光物產館 ASPAM 13F 展望台 ＆ 現烤熱蘋果派】：\n現場 1F 櫃檯購票（13F 展望台門票 500 円，支援信用卡/電子支付），搭電梯直達 13 樓 360 度展望台俯瞰陸奧灣海天一色全景與青森港灣大橋；1 樓品嚐超人氣「Sweets Factory pampam」現烤出爐的千層酥香熱蘋果派（停留 45 分鐘）。\n\n\n🗺️ ASPAM: https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E8%A6%B3%E5%85%89%E7%89%A9%E7%94%A3%E9%A4%A8%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A0
+LOCATION:アスパム 13階展望台
+CATEGORIES:🏛️ 景點名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it21@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T171000
+DTEND;TZID=Asia/Tokyo:20261002T172500
+TRANSP:OPAQUE
+SUMMARY:🏨 漫步返回飯店辦理正式 Check-in
+DESCRIPTION:【Day 5・🏨 頂級名宿】\n17:10 - 17:25【漫步返回飯店辦理正式 Check-in】：\n漫步 15 分鐘返回 Richmond Hotel 青森（ASPAM 到飯店約 900m）。\n
+LOCATION:リッチモンドホテル青森
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it23@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T173000
+DTEND;TZID=Asia/Tokyo:20261002T194500
+TRANSP:OPAQUE
+SUMMARY:🥩 晚餐【重要美饌・週五黃金檔期】：小田桐產業直營「馬肉料理 吉兆 青森店」【🌟 已由 JCB 訂妥 17:30
+DESCRIPTION:【Day 5・🥩 極上美食】\n17:30 - 19:45【晚餐【重要美饌・週五黃金檔期】：小田桐產業直營「馬肉料理 吉兆 青森店」【🌟 已由 JCB 訂妥 17:30】】：\n馬肉料理 吉兆 青森店 🚶 步行導航（營業時間：17:00 - 22:00，每週日定休，週五晚間正常營業！地址：青森市本町 2-8-1 パークハイツ本町 1F）。【🌟 已由 JCB 訂妥 17:30：預訂 2 位，事前預留（取り置き）「義経鍋」2 人前、「馬刺し盛り合わせ」1 份，禁煙席】。\n飯店出門步行僅 5 分鐘（400 公尺）即達！\n週五開席最理想！ 徹底避開週六客滿尖峰與難訂位問題，且絕不拖到青森最後一晚，時間從容無比！\n專心品嚐自設牧場直送的特上霜降馬刺し、特上馬肉ユッケ、招牌義經鍋（獨特頭盔造型鍋，外圈香煎櫻肉＋內圈鮮蔬高湯）、馬肉櫻鍋與櫻肉壽喜燒，搭配津輕地酒（停留 2 小時 15 分鐘）。\n\n⏰ 營業時間：• 17:00 - 22:00 ｜ • LO 21:30 ｜ • 夜間專營無午餐\n🚫 公休日：日曜日定休 ｜ (Day 5 為週五，常態營業)\n💡 備註：牧場直營最高等級櫻肉料理，散客 walk-in 極易客滿。已訂妥 17:30 席位並預留招牌義經鍋與特上霜降馬刺，現場加點稀有生馬肝（レバ刺し）與田酒地酒。🚨 澄清：青森市區查無獨立「善知鳥拉麵」！\n\n🗺️ 馬肉料理 吉兆 青森店: https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E8%82%89%E6%96%99%E7%90%86+%E5%90%89%E5%85%86+%E9%9D%92%E6%A3%AE%E5%BA%97+%E9%9D%92%E6%A3%AE%E5%B8%82%E6%9C%AC%E7%94%BA\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E9%A6%AC%E8%82%89%E6%96%99%E7%90%86+%E5%90%89%E5%85%86+%E9%9D%92%E6%A3%AE%E5%BA%97+%E9%9D%92%E6%A3%AE%E5%B8%82%E6%9C%AC%E7%94%BA&travelmode=walking
+LOCATION:馬肉料理 吉兆 青森店
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐【重要美饌・週五黃金檔期】：小田桐產業直營「馬肉料理 吉 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d5-it26@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261002T210000
+DTEND;TZID=Asia/Tokyo:20261002T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【青森市中心品質首選・已訂妥🌟
+DESCRIPTION:【Day 5・🏨 頂級名宿】\n住宿【青森市中心品質首選・已訂妥🌟】：リッチモンドホテル青森 🚶 步行回飯店（連住第 1 晚）。\n\n\n🗺️ リッチモンドホテル青森: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E6%A3%AE\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E6%A3%AE&travelmode=walking
+LOCATION:リッチモンドホテル青森
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-6-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 06・青森市】頂級朝食百匯・三內丸山遺跡・じょっぱり
+DESCRIPTION:行程：飯店5F頂級改裝朝食吃滿(06:30-10:00) ➔ 客房深層靜養補眠至午後 ➔ 全日沉浸享受5F Premier Lounge(13:00起蘋果汁盲測品評・17:00起免費酒精暢飲) ➔ 隔壁睡魔海鮮居酒屋【宿：リッチモンドホテル青森🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル青森，晨間 06:30～10:00 完整時段享用 5F 頂級朝食百匯吃好吃滿，下午決定留在飯店客房深層靜養放鬆不出門，13:00 起於 5F Premier Lounge 享受青森蘋果汁盲測品評、17:00 起免費酒精暢飲，晚間漫步 4 分鐘至隔壁津輕三味線居酒屋。\n\n完整行程：./itinerary.html#day-6
+LOCATION:青森市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d6-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261003T063000
+DTEND;TZID=Asia/Tokyo:20261003T100000
+TRANSP:OPAQUE
+SUMMARY:🍴 早餐【完整時段吃好吃滿】：5F 全新升級朝食 Buffet・整整 3.5 小時從開門 06:30 吃到 10:00 閉餐！（自費加購）
+DESCRIPTION:【Day 6・🥩 極上美食】\n06:30 - 10:00【早餐【完整時段吃好吃滿】：5F 全新升級朝食 Buffet・整整 3.5 小時從開門 06:30 吃到 10:00 閉餐！（自費加購）】：\n（💡 飯店朝食資訊：【リッチモンドホテル青森】本次預訂為純住宿方案【房價未含朝食】；此 5F 景觀百匯為現場自費加購，房客加購特惠價為 2\,500 円/人，含稅；外來客為 3\,000 円）\n極致全時段沉浸式享用（06:30～10:00，整整 3 小時 30 分鐘吃好吃滿！）：\n飯店朝食完整營業時間為 06:30 - 10:00（最後入場/加菜 L.O. 09:30，用餐可持續至 10:00 閉餐）。\n06:30 準時開門第一批入席，桌邊自選現煮專屬小鍋（極品海鮮「金目鯛涮涮鍋」 或 青森名物「貝燒味噌」 二選一）！\n自助吧台上現場現煮「十三湖蜆貝拉麵」、現炸青森名物「弘前烏賊肉餅（いがめんち）」、蘋果培根燉飯、千層酥熱蘋果派、手沖咖啡、新鮮沙拉與在地時令漬物。\n完全不趕時間，多輪慢享、熱茶與咖啡無限續杯，從清晨 06:30 一路悠閒享用到 10:00 閉餐，徹底貫徹「完整飯店早餐時間吃好吃滿（Full-window dining from opening until close）」！\n\n⏰ 營業時間：• 06:30 - 10:00 ｜ • 最終入店 09:30 ｜ • 整整 3.5 小時開門吃到閉餐\n🚫 公休日：年中無休 ｜ (週六早晨全面盛大供應)\n💡 備註：🌟 完整飯店早餐時段吃好吃滿（06:30～10:00，整整 3.5 小時開門吃到閉餐）！ 2024 年全新改裝 5F 景觀百匯。桌邊專屬現煮「金目鯛涮涮鍋」或「貝燒味噌」二選一、現場現煮十三湖蜆貝拉麵、現炸弘前烏賊肉餅（いがめんち）、蘋果培根燉飯、千層酥熱蘋果派、手沖咖啡。完全不趕路倉促出門，一道道細品吃好吃滿！(三內丸山午間可於「れすとらん 五千年の星」品嚐栗子蒙布朗霜淇淋)\n\n⚠️ （💡 飯店朝食資訊：【リッチモンドホテル青森】本次預訂為純住宿方案【房價未含朝食】；此 5F 景觀百匯為現場自費加購，房客加購特惠價為 2\,500 円/人，含稅；外來客為 3\,000 円）
+LOCATION:Richmond Hotel 青森 5F 朝食百匯
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d6-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261003T175500
+DTEND;TZID=Asia/Tokyo:20261003T180000
+TRANSP:OPAQUE
+SUMMARY:🍴 漫步 4 分鐘前往正隔壁居酒屋
+DESCRIPTION:【Day 6・🥩 極上美食】\n17:55 - 18:00【漫步 4 分鐘前往正隔壁居酒屋】：\n17:55 步出飯店大門，向東漫步僅 270 公尺（約 3~4 分鐘）即達正隔壁之「津輕じょっぱり漁屋酒場」，出門吃頓好料完全免奔波！
+LOCATION:青森市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d6-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261003T180000
+DTEND;TZID=Asia/Tokyo:20261003T201500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【青森壓軸海鮮饗宴】：本町睡魔主題居酒屋「津輕じょっぱり漁屋酒場」【🌟 已由 JCB 訂妥 18:00（1F 三味線演奏席）
+DESCRIPTION:【Day 6・🥩 極上美食】\n18:00 - 20:15【晚餐【青森壓軸海鮮饗宴】：本町睡魔主題居酒屋「津輕じょっぱり漁屋酒場」【🌟 已由 JCB 訂妥 18:00（1F 三味線演奏席）】】：\n從飯店出門步行僅 4 分鐘（300 公尺）即達 「津輕じょっぱり漁屋酒場 青森本町店」 🚶 步行導航（營業時間：17:00 - 23:00，週六晚間熱鬧營業！【🌟 已由 JCB 訂妥 18:00 席位：預訂 2 位，特別指定安排 1 樓能觀賞 19:00 津輕三味線演奏之座位，現場單點時令海鮮與地酒】）。\n極致地利 ＆ 沉浸式睡魔氛圍：就在 Richmond Hotel 正隔壁！走進店內宛如置身睡魔祭典，品嚐現烤活青森帆立貝、陸奧灣時令刺身、津輕生薑味噌黑輪，點一杯經典地酒田酒佐餐，19:00 親身聆聽震撼的三味線現場演奏，悠閒度過在青森市區的最後一晚（停留 2 小時 15 分鐘）。\n\n⏰ 營業時間：• 17:00 - 23:00 ｜ • LO 22:00 ｜ • 夜間專營無午餐\n🚫 公休日：日曜日定休 ｜ (週六晚間熱鬧營業)\n💡 備註：位於 Richmond 正隔壁（步行 4 分鐘）！已訂妥 18:00 席位，特別指定『1 階の津軽三味線ライブが見やすい席』（19:00 開演），現場單點炭火烤活帆立貝、時令刺身、八戶仙貝汁佐地酒田酒。（同日備案：地酒居酒屋 磯じま）。\n\n🗺️ 津輕じょっぱり漁屋酒場: https://www.google.com/maps/search/?api=1&query=%E6%B4%A5%E8%BB%BD%E3%81%98%E3%82%87%E3%81%A3%E3%81%B1%E3%82%8A%E6%BC%81%E5%B1%8B%E9%85%92%E5%A0%B4+%E9%9D%92%E6%A3%AE%E6%9C%AC%E7%94%BA%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%B4%A5%E8%BB%BD%E3%81%98%E3%82%87%E3%81%A3%E3%81%B1%E3%82%8A%E6%BC%81%E5%B1%8B%E9%85%92%E5%A0%B4+%E9%9D%92%E6%A3%AE%E6%9C%AC%E7%94%BA%E5%BA%97&travelmode=walking
+LOCATION:津輕じょっぱり漁屋酒場 青森本町店
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐【青森壓軸海鮮饗宴】：本町睡魔主題居酒屋「津輕じょっぱり 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d6-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261003T210000
+DTEND;TZID=Asia/Tokyo:20261003T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【青森市中心品質首選・已訂妥🌟
+DESCRIPTION:【Day 6・🏨 頂級名宿】\n住宿【青森市中心品質首選・已訂妥🌟】：リッチモンドホテル青森 🚶 步行回飯店（連住第 2 晚）。\n### 【第二階段：八戶基地・必去景點全數前置】（Day 7 - Day 9）\n\n\n🗺️ リッチモンドホテル青森: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E6%A3%AE\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E6%A3%AE&travelmode=walking
+LOCATION:リッチモンドホテル青森
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-7-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 07・三澤・八戶】航空科學館・みろく橫丁
+DESCRIPTION:行程：新青森站ブナの森買特色鐵路便當 ➔ 新幹線車上享用(午餐跳過)直奔八戶 ➔ 直衝三澤航空科學館 ➔ 14:55提前進房小憩 ➔ みろく横丁屋台夜生活【宿：コンフォートホテル八戸🌟已訂】\n\n行李與換宿：🧳 換宿八戶：首選市役所前 07:30 搭乘市營巴士 T50 直達新青森站南口（07:46抵・低底盤推行李一車直達免轉車；公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店排班計程車），2F 新幹線改札內ブナの森弁当売店挑選特色鐵路便當，搭乘 08:37 東北新幹線 はやぶさ 12 號（車上享用便當）直達八戶站（09:04抵），直達「コンフォートホテル八戸（東口步行2分）」迅速寄存大行李，銜接 09:33 電車前往三澤航空科學館！\n\n完整行程：./itinerary.html#day-7
+LOCATION:三澤・八戶
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T064000
+DTEND;TZID=Asia/Tokyo:20261004T071500
+TRANSP:OPAQUE
+SUMMARY:🍴 著裝 ＆ 打包整理隨身與大件行李
+DESCRIPTION:【Day 7・🥩 極上美食】\n06:40 - 07:15【著裝 ＆ 打包整理隨身與大件行李】：\n晨間梳洗著裝，將隨身物品與大件行李打包收納整齊，準備退房出發。\n（💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，於 08:37 はやぶさ 12 號新幹線車上舒適享用當作豐盛早餐！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）\n\n⚠️ （💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，於 08:37 はやぶさ 12 號新幹線車上舒適享用當作豐盛早餐！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）
+LOCATION:三澤・八戶
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T071500
+DTEND;TZID=Asia/Tokyo:20261004T072500
+TRANSP:OPAQUE
+SUMMARY:🏨 辦理退房手續 ＆ 漫步至市役所前公車站牌（步行 2 分鐘）
+DESCRIPTION:【Day 7・🏨 頂級名宿】\n07:15 - 07:25【辦理退房手續 ＆ 漫步至市役所前公車站牌（步行 2 分鐘）】：\n1F 自動精算機感應房卡快速辦理退房（1 分鐘搞定）。\n07:20 出飯店大門向東漫步僅 149 公尺（不到 2 分鐘），約 07:22 抵達 「市役所前」公車站牌 從容等候 07:30 班次！\n
+LOCATION:リッチモンドホテル青森
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T074600
+DTEND;TZID=Asia/Tokyo:20261004T083000
+TRANSP:OPAQUE
+SUMMARY:🚄 🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）精心挑選青森特色駅弁 ＆ 從容上月台
+DESCRIPTION:【Day 7・🥩 極上美食】\n07:46 - 08:30【🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）精心挑選青森特色駅弁 ＆ 從容上月台】：\n下車進入新青森站搭手扶梯直上 2F，以手機 Apple Pay / 實體 Suica 嗶卡通過新幹線改札口。\n新幹線改札內 2F 正前方便是人氣名店「ブナの森弁当売店」（營業時間：08:00 - 18:30，無休，併設於「そば処 ブナの森」旁）：\n店家 08:00 準時開門，此時各家老舖新鮮直送的鐵路便當剛陳列上架，品項最齊全！\n人氣必買推薦：\n🌟 首選名物：「津軽めんこい懐石弁当 ひとくちだらけ」（1\,450 円，一口懷石 24 格津輕鄉土珍味，包含貝燒味噌、青森帆立貝、鮭魚卵、海膽、生薑味噌竹輪、菊花漬等，每一格都是一口驚喜，視覺與味覺雙重享受！）。\n🌟 海鮮名物：「青森味づくし弁当」 或 「八戶前沖鯖魚棒壽司（八戸前沖鯖棒寿司）」、「陸奧灣帆立釜飯」。\n🌟 肉食名物：「津輕和牛燒肉便當」 或 「倉石牛便當」。\n\n⏰ 營業時間：• 08:00 - 18:30 ｜ • 無中休全日營業 ｜ • 08:00 準時開門新鮮上架\n🚫 公休日：年中無休 ｜ (全年無休・新幹線改札內)\n💡 備註：🌟 新幹線車上享用極上鐵路便當早餐！ 首選 07:30 於市役所前搭乘市營巴士 T50 直達新青森站南口（07:46 抵達，低底盤推行李一車免轉車），等候 08:00 開門第一批進店搶購（公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店門口搭車 08:12 抵達）！首選 24 格津輕珍味「津軽めんこい懐石弁当 ひとくちだらけ (1\,450円)」或「八戶前沖鯖魚棒壽司」，帶上 08:37 はやぶさ 12 號座位邊賞秋景邊大快朵頤，吃飽後午餐跳過不吃直奔三澤航空科學館！\n\n🗺️ ブナの森弁当売店: https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%B0%E5%87%A6+%E3%83%96%E3%83%8A%E3%81%AE%E6%A3%AE+%E6%96%B0%E9%9D%92%E6%A3%AE%E9%A7%85
+LOCATION:JR 新青森站 ブナの森弁当売店
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒：🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（0 即將發車/起飛，請預先抵達月台/候機室！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T083000
+DTEND;TZID=Asia/Tokyo:20261004T083700
+TRANSP:OPAQUE
+SUMMARY:🚄 新幹線月台從容登車
+DESCRIPTION:【Day 7・🚌 交通銜接】\n08:30 - 08:37【新幹線月台從容登車】：\n提早 7 分鐘登上 はやぶさ 12 號 2 車，放置隨身行李，安坐於已劃妥之 2D ＆ 2E 座位。
+LOCATION:三澤・八戶
+CATEGORIES:🚌 交通銜接\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒：新幹線月台從容登車 即將發車/起飛，請預先抵達月台/候機室！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T083700
+DTEND;TZID=Asia/Tokyo:20261004T090400
+TRANSP:OPAQUE
+SUMMARY:🚄 🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當（🌟已訂妥・車程 27 分鐘直達八戶）
+DESCRIPTION:【Day 7・🚌 交通銜接】\n08:37 - 09:04【🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當（🌟已訂妥・車程 27 分鐘直達八戶）】：\n新青森站搭乘 東北新幹線 はやぶさ 12 號 (Hayabusa 12) 直達八戶站（新青森 08:37 發車 ➔ 八戶 09:04 抵達，已劃位：2 車 2D ＆ 2E，全車指定席）。\n打開座位前方餐桌，一邊欣賞窗外津輕平原秋景，一邊大啖剛買的「ひとくちだらけ」或極鮮鯖魚棒壽司，享受最正統的日本鐵道便當極致旅情！
+LOCATION:三澤・八戶
+CATEGORIES:🚌 交通銜接\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒：🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當 即將發車/起飛，請預先抵達月台/候機室！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T090500
+DTEND;TZID=Asia/Tokyo:20261004T092500
+TRANSP:OPAQUE
+SUMMARY:🏨 🧳 首要行動・八戶站東口迅速寄放行李
+DESCRIPTION:【Day 7・🏨 頂級名宿】\n09:05 - 09:25【🧳 首要行動・八戶站東口迅速寄放行李】：\n八戶站東口出站步行 2 分鐘直達 【コンフォートホテル八戸】 🚶 步行導航 櫃檯迅速寄放大行李（Choice BLUE會員尊享 14:00 提前入住特權・已訂妥🌟，停留 20 分鐘時間極度充裕）。\n\n\n🗺️ コンフォートホテル八戸: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8&travelmode=walking
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T102500
+DTEND;TZID=Asia/Tokyo:20261004T132500
+TRANSP:OPAQUE
+SUMMARY:✈️ 必去景點 ⑩：青森縣立三澤航空科學館（戰鬥機、宇宙探索 ＆ 本田航太噴射機）
+DESCRIPTION:【Day 7・🌟 必去景點】\n10:25 - 13:25【必去景點 ⑩：青森縣立三澤航空科學館（戰鬥機、宇宙探索 ＆ 本田航太噴射機）】：\n青森縣立三澤航空科學館（開館時間：09:00 - 17:00，門票 510 円）。\n戶外大草坪戰機群：早晨 10 點多陽光最美！近距離仰望美軍 F-16、航空自衛隊 F-4EJ 幽靈戰機、T-2 藍色衝擊波、P-3C 反潛機、零戰十座等經典戰機！\n室內科技體驗：仰望 HondaJet 全尺寸模型與航太館展品，體驗大型飛行模擬器、太空失重訓練體驗（停留整整 3 小時，時間極度充裕，不用分心吃午餐）。\n（館內設有 Cafe 51 咖啡，可隨時購買瓶裝水或熱拿鐵小憩補充體力）\n\n\n🗺️ 青森縣立三澤航空科學館: https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E7%AB%8B%E4%B8%89%E6%B2%A2%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E9%A4%A8
+LOCATION:青森県立三沢航空科学館
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it16@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T145500
+DTEND;TZID=Asia/Tokyo:20261004T153000
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 BLUE 會員 14:00 提前入住特權・回房放置行李小憩
+DESCRIPTION:【Day 7・🏨 頂級名宿】\n14:55 - 15:30【🏨 BLUE 會員 14:00 提前入住特權・回房放置行李小憩】：\n出站步行 2 分鐘回 【コンフォートホテル八戸】，此時已過 14:00，憑 BLUE 會員身分直接辦理正式 Check-in 進房！ 放下隨身大行李、洗臉稍作休息（停留 35 分鐘）。\n\n\n🗺️ コンフォートホテル八戸: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it18@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T160000
+DTEND;TZID=Asia/Tokyo:20261004T171500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 🎯 需求檢核表：八戶市美術館 (2021全新獲獎當代藝文地標)
+DESCRIPTION:【Day 7・🎯 需求景點】\n16:00 - 17:15【🎯 需求檢核表：八戶市美術館 (2021全新獲獎當代藝文地標)】：\n八戶市美術館 (Hachinohe Art Museum) 🚶 步行導航（開館時間：10:00 - 19:00，最後入館 18:30；每週二休館，週日熱鬧開館！常設展無料，企劃展依展覽約 500~1\,000 円）。\n由建築大師西澤徹夫主導設計、榮獲 2023 年日本建築學會作品賞的頂尖文化地標。核心概念為巨大的「巨型客廳 (Giant Room)」，挑高開闊且完全無固定梁柱隔間，讓當代藝術、市民生活與傳統文化在此流動交織；可順路逛逛對街的 八戶 Portal Museum Hacchi 欣賞巨大三社大祭彩繪山車與八幡馬工藝（停留 1 小時 15 分鐘）。\n（🌟 順遊神級動線：八戶市美術館位於番町，與相鄰六日町的【みろく横丁】步行僅 3 分鐘約 250 公尺！參觀完悠閒踱步至屋台村，動線 100% 完美黏合！）\n\n\n🗺️ 八戶市美術館: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E5%85%AB%E6%88%B8%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=walking
+LOCATION:八戸市美術館
+CATEGORIES:🎯 需求景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it20@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T173000
+DTEND;TZID=Asia/Tokyo:20261004T200000
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【必去景點 ⑪：八戶屋台村「みろく横丁 (Miroku Yokocho)」昭和風居酒屋街
+DESCRIPTION:【Day 7・🥩 極上美食】\n17:30 - 20:00【晚餐【必去景點 ⑪：八戶屋台村「みろく横丁 (Miroku Yokocho)」昭和風居酒屋街】】：\nみろく横丁 (Miroku Yokocho)（營業時間：17:00 - 24:00，各屋台通常無休）。\n17:30 點燈開門首輪抵達，走進極具人情味的昭和風屋台街，輕鬆入座熱門名攤（如おが代、味のめんこい）！\n點一碗熱騰騰的八戶名物「八戶仙貝汁 (せんべい汁)」、現烤炭火海鮮串燒、三陸刺身與在地清酒（八仙、田酒），感受極具溫度的週日屋台夜生活（停留 2 小時 30 分鐘）。\n\n⏰ 營業時間：• 17:00 - 24:00 ｜ • LO 23:00~23:30 ｜ • 部分攤位至 25:00\n🚫 公休日：街道全年無休 ｜ (各攤自訂週休一日；連假全開)\n💡 備註：17:30 點燈開門首輪抵達！ 此時空位最多，輕鬆進駐名攤（如おが代）。必吃八戶前沖鯖魚炭火烤、八戶仙貝汁（せんべい汁）、田子大蒜與陸奧八仙地酒。客滿採梯次巡禮（ハシゴ酒）。\n\n🗺️ みろく横丁 (Miroku Yokocho): https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E3%81%BF%E3%82%8D%E3%81%8F%E6%A8%AA%E4%B8%81
+LOCATION:八戶屋台村 みろく横丁
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d7-it22@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261004T210000
+DTEND;TZID=Asia/Tokyo:20261004T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【八戶站前品質首選・已訂妥🌟
+DESCRIPTION:【Day 7・🏨 頂級名宿】\n住宿【八戶站前品質首選・已訂妥🌟】：コンフォートホテル八戸 🚶 步行回飯店（BLUE會員 Check-in 14:00 / Check-out 11:00・連住第 1 晚）。\n\n\n🗺️ コンフォートホテル八戸: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8&travelmode=walking
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-8-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 08・種差海岸】天然大草皮・蕪嶋神社・天草馬刺
+DESCRIPTION:行程：Comfort Hotel免費元氣朝食 ➔ JR八戶線直達三陸海岸 ➔ 種差大草皮 ➔ 種差海岸遊客中心 ➔ 波光食堂名物いちご煮午餐 ➔ 大須賀鳴沙海岸 ➔ 葦毛崎展望台 ➔ 蕪嶋神社 ➔ 公車直達市役所 ➔ 市區名店「食彩酒房 天草」特上赤身刺與特上桜鍋 ➔ 洗衣【宿：コンフォートホテル八戶🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住コンフォートホテル八戸，全日輕裝持 Suica 搭乘 JR 八戶線巡禮種差海岸大草皮、大須賀鳴沙海岸、葦毛崎展望台與蕪嶋神社。\n\n完整行程：./itinerary.html#day-8
+LOCATION:種差海岸
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T080000
+DTEND;TZID=Asia/Tokyo:20261005T091000
+TRANSP:OPAQUE
+SUMMARY:🍴 早餐：Comfort Hotel 八戶 1F 朝食 Buffet・全館住客免費招待元氣朝食【🏨 隨住宿專案全包
+DESCRIPTION:【Day 8・🥩 極上美食】\n08:00 - 09:10【早餐：Comfort Hotel 八戶 1F 朝食 Buffet・全館住客免費招待元氣朝食【🏨 隨住宿專案全包】】：\n於 Comfort Hotel 1F 悠閒享用健康免費朝食 Buffet（朝食供應時間：06:30 - 09:30，LO 09:15；請於 09:10 前用餐完畢，從容前往搭車）。\n品嚐現烤比利時鬆餅、特製鮮蔬果昔、現烤牛角可頌、炒蛋沙拉、時令熱湯與現磨熱咖啡（停留 1 小時 10 分鐘，吃巧吃飽，保留胃容量給 11:00 波光食堂三陸海膽鮑魚いちご煮名物）。\n（💡 Optional 朝市備案：若晨間想提早體驗陸奧湊魚菜零售市場自選刺身早餐，可提早於 07:15 起床，搭乘八戶線 07:55 電車至陸奧湊 08:10 抵，08:12～09:35 在魚菜零售市場享用刺身小碟，搭 09:44 電車前往種差海岸 10:01 抵達）\n\n⏰ 營業時間：• 06:30 - 09:30 ｜ • LO 09:15 ｜ • 全館住客免費 0 円 ｜ (魚菜市場 05:00-10:00)\n🚫 公休日：年中無休 ｜ (魚菜市場週一開市！)\n💡 備註：晨間用餐與交通獨立分段：08:00～09:10 悠閒享用飯店免費熱壓鬆餅、果昔與熱咖啡，09:10 前用餐完畢，09:15 漫步 2 分鐘至八戶站搭乘 09:29 直達電車至種差海岸（10:01 抵）；（若選 Optional 方案 B 則 07:55 搭車至陸奧湊魚菜零售市場自選刺身）。\n\n🗺️ Comfort Hotel 八戶 1F 朝食 Buffet: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8\n\n⚠️ （💡 Optional 朝市備案：若晨間想提早體驗陸奧湊魚菜零售市場自選刺身早餐，可提早於 07:15 起床，搭乘八戶線 07:55 電車至陸奧湊 08:10 抵，08:12～09:35 在魚菜零售市場享用刺身小碟，搭 09:44 電車前往種差海岸 10:01 抵達）
+LOCATION:Comfort Hotel 八戶 1F 朝食 Buffet
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T100500
+DTEND;TZID=Asia/Tokyo:20261005T103500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 三陸自然名勝：種差海岸天然大草皮 (天然芝生地)・湛藍太平洋晨光漫步
+DESCRIPTION:【Day 8・🌲 自然名勝】\n10:05 - 10:35【三陸自然名勝：種差海岸天然大草皮 (天然芝生地)・湛藍太平洋晨光漫步】：\n走出種差海岸站僅 150 公尺（步行約 2 分鐘），眼前即是一路延伸至太平洋滔滔白浪邊際的 【種差海岸天然大草皮 (天然芝生地)】。\n上午迎著最清澈蔚藍的晨光與海風，漫步在如高爾夫球場般柔軟的翠綠草坪上，遠眺奇岩海蝕礁石與浩瀚太平洋，呼吸滿滿的清新海風負離子拍照打卡（停留 30 分鐘，時間充裕舒暢又節奏明快，徹底免除乾晃一小時的冗長枯燥！）。\n\n\n🗺️ 種差海岸天然大草皮: https://www.google.com/maps/search/?api=1&query=%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:種差海岸天然芝生地
+CATEGORIES:🌲 自然名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T103500
+DTEND;TZID=Asia/Tokyo:20261005T110000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 種差海岸遊客中心 (種差海岸インフォメーションセンター)・海景冷氣休憩 ＆ 生態地質導覽
+DESCRIPTION:【Day 8・🌲 自然名勝】\n10:35 - 11:00【種差海岸遊客中心 (種差海岸インフォメーションセンター)・海景冷氣休憩 ＆ 生態地質導覽】：\n大草皮漫步後，直接走進正對面的 【種差海岸遊客中心 (種差海岸インフォメーションセンター)】 🚶 步行導航（開館時間 09:00 - 17:00，免費入場 0 円；地址：青森県八戸市大字鮫町字棚久保 14-167）。\n館內吹冷氣、洗手間整理、在挑高大片落地玻璃窗前沙發遠眺整片綠色大草皮與太平洋海景；了解三陸復興國立公園四季野鳥花卉生態、種差海蝕地貌模型、觀賞介紹短片並蓋特色紀念章（停留 25 分鐘，身心清爽放鬆，11:00 一到出門 1 分鐘無縫入座對面波光食堂！）。\n\n\n🗺️ 種差海岸遊客中心 (種差海岸インフォメーションセンター): https://www.google.com/maps/search/?api=1&query=%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E5%85%AB%E6%88%B8%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E5%85%AB%E6%88%B8%E5%B8%82&travelmode=walking
+LOCATION:種差海岸インフォメーションセンター
+CATEGORIES:🌲 自然名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T110000
+DTEND;TZID=Asia/Tokyo:20261005T115500
+TRANSP:OPAQUE
+SUMMARY:🍴 午餐：種差站前名物「波光食堂」・11:00 準時開門首批入座・青森三陸極鮮名物「いちご煮」海膽鮑魚鮮湯
+DESCRIPTION:【Day 8・🥩 極上美食】\n11:00 - 11:55【午餐：種差站前名物「波光食堂」・11:00 準時開門首批入座・青森三陸極鮮名物「いちご煮」海膽鮑魚鮮湯】：\n波光食堂 (Hoko Shokudo) 🚶 步行導航（營業時間：11:00 - 15:00 / 21:30，位於種差海岸遊客中心正對面，過馬路僅 1 分鐘！）。\n🌟 順路神級動線 ＆ 11:00 開門首批第一名入座：波光食堂 11:00 準時開門，自遊客中心漫步走出直接入座，完全零等待、免排隊！\n店家現點現煮：必點青森代表性傳奇鄉土名物 「いちご煮 (Ichigoni)」——慢火清燉肥厚生海膽與野生鮑魚，因湯中海膽宛如野草莓（野いちご）而得名，琥珀色清湯搭配新鮮紫蘇葉，滋味極致鮮美甘甜；並可搭配炭烤八戶前沖鯖魚定食或磯拉麵，暖心暖胃（停留 55 分鐘，從容品嚐三陸頂級極鮮熱湯）。\n\n⏰ 營業時間：• 11:00 - 15:00 ｜ • 售完為止 ｜ • 午後打烊無晚餐\n🚫 公休日：不定休 ｜ (秋季旺季正常營業)\n💡 備註：🌟 順向神級動線 ＆ 11:00 準時開門第一名入座！ 位於種差海岸站前、天然大草皮正對面步行 2 分鐘。必點名物「いちご煮」，慢火清燉肥厚生海膽與野生鮑魚，鮮美甘甜；可搭磯拉麵或鯖魚定食。草皮逛完就近入座，吃飽順向北上大須賀！\n\n🗺️ 波光食堂: https://www.google.com/maps/search/?api=1&query=%E6%B3%A2%E5%85%89%E9%A3%9F%E5%A0%82+%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%B3%A2%E5%85%89%E9%A3%9F%E5%A0%82+%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8&travelmode=walking
+LOCATION:波光食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T124700
+DTEND;TZID=Asia/Tokyo:20261005T133500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑭：大須賀海岸 (2.3公里天然鳴沙海灘)
+DESCRIPTION:【Day 8・🌟 必去景點】\n12:47 - 13:35【必去景點 ⑭：大須賀海岸 (2.3公里天然鳴沙海灘)】：\n下車即達東北著名的「天然鳴沙」白色沙灘，漫步在極其純淨的細沙上聆聽啾啾清脆鳴響，海闊天空、身心極度舒暢消食（停留 48 分鐘）。\n\n\n🗺️ 大須賀海岸: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%A0%88%E8%B3%80%E6%B5%B7%E5%B2%B8+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:大須賀海岸 鳴き砂
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T134300
+DTEND;TZID=Asia/Tokyo:20261005T142500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 葦毛崎展望台 (歐風海岬堡壘 ＆ 180 度海景特濃霜淇淋)
+DESCRIPTION:【Day 8・🌲 自然名勝】\n13:43 - 14:25【葦毛崎展望台 (歐風海岬堡壘 ＆ 180 度海景特濃霜淇淋)】：\n登上歐風石造堡壘造型的 葦毛崎展望台，居高臨下 180 度俯瞰怒濤拍擊巨岩的壯麗海景，並於展望台附設 Cafe 品嚐全八戶評分最高之名物特濃牛奶霜淇淋（停留 42 分鐘）。\n\n\n🗺️ 葦毛崎展望台: https://www.google.com/maps/search/?api=1&query=%E8%91%A6%E6%AF%9B%E5%B4%8E%E5%B1%95%E6%9C%9B%E5%8F%B0+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:葦毛崎展望台
+CATEGORIES:🌲 自然名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T144000
+DTEND;TZID=Asia/Tokyo:20261005T154000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑬：蕪嶋神社 (海貓神鳥之島 ＆ 招財股票開運名所)
+DESCRIPTION:【Day 8・🌟 必去景點】\n14:40 - 15:40【必去景點 ⑬：蕪嶋神社 (海貓神鳥之島 ＆ 招財股票開運名所)】：\n登上海岬頂端氣勢非凡的朱紅神殿 蕪嶋神社。蕪嶋日語諧音「株式 (株)」，是全日本求股票投資、財運與事業大開運的必訪靈驗名所；站在神社環狀迴廊可將整個海港海天一色盡收眼底（停留整整 1 小時）。\n參拜完畢後，沿鳥居前平緩道路步行 2 分鐘（約 150 公尺）即達縣道上的 「蕪島町 (Kabushimacho)」公車站牌；或至公園停車場旁之「蕪島海浜公園」站牌。\n\n\n🗺️ 蕪嶋神社: https://www.google.com/maps/search/?api=1&query=%E8%95%AA%E5%B6%8B%E7%A5%9E%E7%A4%BE+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:蕪嶋神社 / 蕪島
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it16@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T173000
+DTEND;TZID=Asia/Tokyo:20261005T194500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐：市區名店「食彩酒房 天草 (Amakusa)」熊本直送特上赤身刺 ＆ 青森鄉土料理特上桜鍋【📱 主方案 17:30 預約（備案 18:00）
+DESCRIPTION:【Day 8・🥩 極上美食】\n17:30 - 19:45【晚餐：市區名店「食彩酒房 天草 (Amakusa)」熊本直送特上赤身刺 ＆ 青森鄉土料理特上桜鍋【📱 主方案 17:30 預約（備案 18:00）】】：\n食彩酒房 天草 (Amakusa) 🚶 步行導航（ディナー營業時間：17:00 - 22:00（IG 最新官方簡介 / 官網載 18:00-21:00），週日定休，今日 10/5 週一正常營業！位於八戶市役所公會堂正旁邊，內丸 3-1-38；【📱 已告知 JCB 取消代訂委託，改由使用者自行透過官方 Instagram 私訊預約，或由八戶 Comfort Hotel 櫃檯協助撥打官方電話 070-8478-6702 預約：支援官方 Instagram @hachinohe_amakusa DM 私訊預約 17:30 開門席位（第 2 希望 18:00）與預留特上桜鍋及特上赤身刺；同日備案 サバの駅 因無 IG 預約管道，若需啟動可請八戶飯店櫃檯代撥電話 0178-24-3839 預約或現場候位】）。\n全日三陸海岸健行破萬步後，體力大補血！提前至 17:30 入座享用整整 2 小時 15 分鐘極上晚宴！\n嚴選熊本產地直送的官方名物「特上赤身刺し」（2\,400 円，肉質極其細嫩柔滑）、山田大廚特製熱騰騰的「青森郷土料理 特上桜鍋」（2\,200 円/人，2 人前起，嚴選特上馬バラ肉與自家製特製醬汁、麹南蠻熬煮）溫潤滋補，可加點「〆の雑炊/うどん 440 円」，佐南部地酒「陸奧八仙」（停留 2 小時 15 分鐘）。\n（💡 備案應變：若天草回覆 17:30 席位已滿、僅能預約 18:00 入座，則啟動 B 方案備案：海邊多停留至 16:20，17:05 抵市區逛 Hacchi 45 分鐘，18:00～20:15 入座天草用餐，餐後搭 20:34 電車返回八戶站）\n\n⏰ 營業時間：• 17:00 - 22:00 ｜ • LO 21:00 ｜ • 夜間專營無午餐\n🚫 公休日：日曜日定休 ｜ (行程 Day 8 為週一正常營業)\n💡 備註：三陸海岸萬步健行後大補血！全店約20席無固定套餐，採【席のみ予約（首選 17:30，候補 18:00）＋ 事前預留限量熊本直送『特上赤身刺し（2\,400円）』與官方招牌『青森郷土料理 特上桜鍋（2\,200円/人，2人前）』】佐陸奧八仙。（同日備案：サバの駅，指名官方招牌『さば料理コース 5\,500円税込』，無 IG 預約，若啟動可請飯店代撥電話 0178-24-3839 或現場候位）。\n\n🗺️ 食彩酒房 天草 (Amakusa): https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%BD%A9%E9%85%92%E6%88%BF+%E5%A4%A9%E8%8D%89+%E5%85%AB%E6%88%B8%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E9%A3%9F%E5%BD%A9%E9%85%92%E6%88%BF+%E5%A4%A9%E8%8D%89+%E5%85%AB%E6%88%B8%E5%B8%82&travelmode=walking\n\n⚠️ （💡 備案應變：若天草回覆 17:30 席位已滿、僅能預約 18:00 入座，則啟動 B 方案備案：海邊多停留至 16:20，17:05 抵市區逛 Hacchi 45 分鐘，18:00～20:15 入座天草用餐，餐後搭 20:34 電車返回八戶站）
+LOCATION:食彩酒房 天草
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it20@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T205000
+DTEND;TZID=Asia/Tokyo:20261005T221500
+TRANSP:OPAQUE
+SUMMARY:🎯 🧺 第 3 次洗衣服（提早回飯店・間隔 3 天）＆ 飯店休息就寢
+DESCRIPTION:【Day 8・🎯 特色體驗】\n20:50 - 22:15【🧺 第 3 次洗衣服（提早回飯店・間隔 3 天）＆ 飯店休息就寢】：\n吃飽提早返回【コンフォートホテル八戸】，1F 使用館內 24 小時投幣式洗烘衣機（清洗 Day 6~8 衣物，約 90 分鐘），洗好直接洗澡就寢！
+LOCATION:種差海岸
+CATEGORIES:🎯 特色體驗\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d8-it21@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261005T210000
+DTEND;TZID=Asia/Tokyo:20261005T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【八戶站前品質首選・已訂妥🌟
+DESCRIPTION:【Day 8・🏨 頂級名宿】\n住宿【八戶站前品質首選・已訂妥🌟】：コンフォートホテル八戸 🚶 步行回飯店（BLUE會員 Check-in 14:00 / Check-out 11:00・連住第 2 晚）。\n\n\n🗺️ コンフォートホテル八戸: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8&travelmode=walking
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-9-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 09・八戶市】八戶酒造・八食中心七厘村
+DESCRIPTION:行程：JR八戶線 07:55 電車直達陸奧湊(08:14抵) ➔ 全日本金賞「みなと食堂」08:16 提早卡位登記平目漬丼 ➔ 漫步450m ➔ 八戶酒造國家登錄文化財百年紅磚酒藏見學 ＆ 陸奧八仙品酩 ➔ JR八戶線 11:35電車回飯店放酒小憩 ➔ 八食150円巴士直達八食中心炭火現烤海鮮 ＆ 八戶拉麵 ➔ 午後飯店深度放鬆（備案：ユートリー三社大祭巨型山車/100円地酒自販機 或 FLAT HACHINOHE） ➔ 八戶站構內名物いかめしや 烹鱗花枝飯與仙貝汁【宿：コンフォートホテル八戶🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住コンフォートホテル八戸，全日輕裝搭電車至陸奧湊みなと食堂（金賞平目漬丼）、八戶酒造見學、八食中心七厘村現烤海鮮。\n\n完整行程：./itinerary.html#day-9
+LOCATION:八戶市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T081600
+DTEND;TZID=Asia/Tokyo:20261006T093000
+TRANSP:OPAQUE
+SUMMARY:🍴 早餐：全日本丼飯金賞・八戶排隊傳奇「みなと食堂 (Minato Shokudo)」平目漬丼（醬漬比目魚丼）＆ 熱仙貝汁【🟢 純現場登記排隊
+DESCRIPTION:【Day 9・🥩 極上美食】\n08:16 - 09:30【早餐：全日本丼飯金賞・八戶排隊傳奇「みなと食堂 (Minato Shokudo)」平目漬丼（醬漬比目魚丼）＆ 熱仙貝汁【🟢 純現場登記排隊】】：\nみなと食堂 (Minato Shokudo) 🚶 步行導航（營業時間：06:00 - 14:00，LO 13:30；定休日：毎週日曜日、月曜日；🚨 今日 10/6 週二正常營業開門！完美避開週日週一雙公休！；地址：青森県八戸市大字湊町字久保45-1，電話 0178-35-2883）。\n出 JR 陸奧湊站步行僅 2 分鐘（約 110 公尺）！全日本第一回丼飯大賞「海鮮丼部門」金賞得主、八戶評分最高之排隊神店。\n🌟 提早抵達避開排隊尖峰策略：みなと食堂全店僅約 11~12 席，平日（週二）08:30 以後常湧現大批排隊人潮（等候動輒 45~60 分鐘）。我們搭乘 07:55 電車於 08:14 準時抵達陸奧湊站，出站步行 2 分鐘於 08:16 提早抵達店門口，立即於門口名簿登記（寫姓名、人數與手機號碼；無日本電話者店員會告知預估時間）。此時段前面候位人數極少，等候時間大幅壓縮至約 20～25 分鐘，約 08:35~08:45 順利入座！\n必點招牌 「平目漬丼 (醬漬比目魚生魚片丼)」（約 1\,200 円）：刀工極細之平目魚薄切如盛開白花般鋪滿整碗白飯，刷上特調秘傳大蒜甘口醬油，中央打上一顆鮮黃生蛋黃。均勻拌開後，比目魚肉質鮮嫩彈牙、大蒜香氣引爆魚肉天然甘美，極致銷魂！\n喜好豐厚油脂者亦可點「平目・えんがわ半々漬丼 (比目魚與鰭邊肉各半)」，並搭配一碗熱騰騰的八戶名物「仙貝汁 (せんべい汁)」暖胃消融油脂（停留 1 小時 14 分鐘，含候位與用餐）。\n（完全告別一般市場散賣刺身重複感，升級為職人現點現做的全日本金賞名饌；且份量精緻適中，保留充沛胃容量迎接中午八食中心七厘村炭火燒！）\n\n⏰ 營業時間：• 06:00 - 14:00 ｜ • LO 13:30 ｜ • 售完為止\n🚫 公休日：毎週日曜日、月曜日定休 ｜ (🚨10/6 週二正常營業開門！避開週日週一雙公休)\n💡 備註：全日本第一回丼飯金賞・排隊避峰黃金動線！ 搭乘 07:55 八戶站電車 08:14 抵達陸奧湊，步行 2 分鐘於 08:16 提早門口記名簿登記（避開 08:30~09:00 上班族與觀光客大排長龍高峰，僅需等候約 20~30 分鐘，08:35~08:45 順利入座！）。必點招牌「平目漬丼」（平目魚薄切如花瓣鋪滿，裹秘傳蒜香甘口醬油與濃郁生蛋黃），亦可點「平目・えんがわ漬丼」配熱仙貝汁。09:30 吃飽漫步站前，09:50 步行 450m 直達八戶酒造 10:00 見學！\n\n🗺️ みなと食堂 (Minato Shokudo): https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%AA%E3%81%A8%E9%A3%9F%E5%A0%82+%E5%85%AB%E6%88%B8%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%BF%E3%81%AA%E3%81%A8%E9%A3%9F%E5%A0%82+%E5%85%AB%E6%88%B8%E5%B8%82&travelmode=walking\n\n⚠️ みなと食堂 (Minato Shokudo) ↗ 🚶 步行導航 ↗（營業時間：06:00 - 14:00，LO 13:30；定休日：毎週日曜日、月曜日；🚨 今日 10/6 週二正常營業開門！完美避開週日週一雙公休！；地址：青森県八戸市大字湊町字久保45-1，電話 0178-35-2883）。
+LOCATION:みなと食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T100000
+DTEND;TZID=Asia/Tokyo:20261006T104000
+TRANSP:OPAQUE
+SUMMARY:🎯 大正登錄有形文化財：八戶酒造「陸奧八仙」百年紅磚酒藏見學（🌟已預約妥當・10:00～10:40 梯次「蔵見学」・500円現場付款）
+DESCRIPTION:【Day 9・🏛️ 景點名勝】\n10:00 - 10:40【大正登錄有形文化財：八戶酒造「陸奧八仙」百年紅磚酒藏見學（🌟已預約妥當・10:00～10:40 梯次「蔵見学」・500円現場付款）】：\n八戶酒造 (Hachinohe Shuzo)（營業時間：10:00 - 16:00，見學期間：通年月〜金曜日，見學梯次：10:00、11:00、13:00、14:00、15:00，地址：青森県八戸市湊町本町9番地，見學專用電話 0178-33-1171；藏見學線上預約：AirReserve 官方系統）。\n🌟【已預約妥當（10:00～10:40 梯次「蔵見学」）】：已透過官方 Air Reserve 系統成功預約 2026/10/06(火) 10:00～10:40「蔵見学」 梯次（每梯定員僅約 10 名），席位確認入帳無憂！見學費用大人 500 円/人現場付款即可。\n全日本清酒迷的頂級朝聖地！ 創業於 1775 年（安永4年），享譽國際的銘酒「陸奧八仙」與「陸奧男山」釀造發祥本廠。\n園區內 6 棟大正時期建造物全數被指定為「國家登錄有形文化財」與「八戶市景觀重要建造物」：包括大正 5 年（1916）全縣最大木造洋風桁架「北藏」、大正 13 年自蘇格蘭進口鋼骨打造的「紅磚酒藏（煉瓦藏）」以及宏偉的傳統主屋。\n由專業導覽人員帶領深入釀酒第一線工坊（約 40 分鐘），解說南部杜氏傳統釀造工藝與酒造歷史。\n\n\n🗺️ 八戶酒造: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%88%B8%E9%85%92%E9%80%A0+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:八戸酒造 陸奥八仙
+CATEGORIES:🏛️ 景點名勝\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：大正登錄有形文化財：八戶酒造「陸奧八仙」百年紅磚酒藏見學（🌟 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T104000
+DTEND;TZID=Asia/Tokyo:20261006T112000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 八戶酒造地酒試飲品評 ＆ 挑選伴手禮 ＆ 漫步回陸奧湊站
+DESCRIPTION:【Day 9・🏛️ 景點名勝】\n10:40 - 11:20【八戶酒造地酒試飲品評 ＆ 挑選伴手禮 ＆ 漫步回陸奧湊站】：\n見學結束後於現場試飲室悠閒品嚐試飲多款當季「陸奧八仙」與「陸奧男山」限定地酒！（見學費用內含試飲）。\n挑選八戶酒造限定銘柄與文創伴手禮；11:15 沿新井田川畔悠閒漫步 5 分鐘（450 公尺）返回「JR 陸奧湊站」。\n
+LOCATION:八戸酒造 陸奥八仙
+CATEGORIES:🏛️ 景點名勝\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：八戶酒造地酒試飲品評 ＆ 挑選伴手禮 ＆ 漫步回陸奧湊站 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it9@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T124500
+DTEND;TZID=Asia/Tokyo:20261006T144500
+TRANSP:OPAQUE
+SUMMARY:🍜 午餐大餐【必去景點 ⑨：八食中心 (七厘村炭火現烤海鮮【🟢 平日現場免排隨到隨烤】＆ 特色拉麵 ③ 八戶拉麵)
+DESCRIPTION:【Day 9・🥩 極上美食】\n12:45 - 14:45【午餐大餐【必去景點 ⑨：八食中心 (七厘村炭火現烤海鮮【🟢 平日現場免排隨到隨烤】＆ 特色拉麵 ③ 八戶拉麵)】】：\n八食中心 (Hasshoku Center) 🚶 步行導航（營業時間：市場 09:00 - 18:00，每週三定休，週二正常營業！）。\n七厘村炭火現烤海鮮（營業時間：09:00 - 17:00，使用費 500 円/人，限時 2 小時）：平日中午全場 124 席空間極充裕、隨到隨烤整整 2 小時（12:45 - 14:45）吃滿！ 在鮮魚市場盡情挑選現剖生海膽、大干貝、活烤牡蠣、大明蝦與八戶前沖鯖魚，端進七厘村用陶土烤爐炭火現烤大快朵頤！\n元祖 八戶拉麵：於味橫丁品嚐百年煮干＋南部地雞澄澈醬油高湯配極細捲麵！\n\n⏰ 營業時間：• 市場 09:00 - 18:00 ｜ • 七厘村 09:00 - 17:00 ｜ • 最終受付 16:00\n🚫 公休日：毎週水曜日定休 ｜ (今日 10/6 週二正常開市熱鬧營業，公休日為明日 10/7 週三)\n💡 備註：平日免訂位隨到隨烤自由特權：全場 124 席，平日中午空位充裕且翻桌迅速，現場購票（500円/人，限 2 小時）隨到隨烤，行程不被固定時間綁死。在市場生鮮攤挑選活大干貝、牡蠣、生魷魚、八戶前沖鯖魚，端進七厘村用陶土烤爐炭火現烤；並於味橫丁品嚐百年八戶拉麵。\n\n🗺️ 八食中心: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%A3%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E5%85%AB%E6%88%B8%E5%B8%82\n🗺️ 七厘村炭火現烤海鮮: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E9%A3%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%B8%83%E5%8E%98%E6%9D%91
+LOCATION:八食中心 七厘村
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T144500
+DTEND;TZID=Asia/Tokyo:20261006T151000
+TRANSP:OPAQUE
+SUMMARY:🎯 八食中心乾貨伴手禮採買 ＆ 搭車返回飯店
+DESCRIPTION:【Day 9・🌟 必去景點】\n14:45 - 15:10【八食中心乾貨伴手禮採買 ＆ 搭車返回飯店】：\n於市場採買八戶仙貝、蘋果派與乾貨伴手禮，八食中心東口搭乘 「八食 150 円巴士」（14:55 發車 ➔ 15:07 直達八戶站東口，車程 12 分鐘，均一運賃 150 円，支援 Suica）。\n
+LOCATION:八食センター / 七厘村
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T163000
+DTEND;TZID=Asia/Tokyo:20261006T174500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【八戶站內 3F 直通・萬鱗集團名作】：老舖鄉土料理「いかめしや 烹鱗 (Hōrin)」【🟢 散客自由入座・16:30提早開吃・早吃早休息零奔波
+DESCRIPTION:【Day 9・🥩 極上美食】\n16:30 - 17:45【晚餐【八戶站內 3F 直通・萬鱗集團名作】：老舖鄉土料理「いかめしや 烹鱗 (Hōrin)」【🟢 散客自由入座・16:30提早開吃・早吃早休息零奔波】】：\nいかめしや 烹鱗 (Ikameshiya Hōrin) 🚶 步行導航（營業時間：10:30 - 20:30，L.O. 20:00，朝食 06:15-09:30，年中無休・全日通し營業無中休；地址：八戶市一番町 1-9-22 JR東日本 Hotel Mets 3F，電話 0178-70-1112）。\n🌟 站內室內天橋同層直通！從 Comfort Hotel 走過來只要 2 分鐘，下雨完全淋不到一滴雨！\n💡 免搭車極致彈性自由策略：因餐廳全日無中休營業且免預約、走路僅 2 分鐘，排定以 16:30 提早開吃 為主（早吃早休息，17:45 完食回房）；若當下仍不餓或想多休息，亦可隨時彈性順延至 17:00 或 17:30，完全免受公車電車班次約束，時間 100% 自主掌控！\n由八戶頂級老字號割烹「萬鱗集團」直營的鄉土料理專門店。因中午在八食中心享用了海鮮大餐，晚餐在烹鱗可以極度自由、輕鬆彈性地點餐：\n必點元祖 「八戶名物 いかめし (花枝烏賊飯)」：整尾新鮮烏賊塞入糯米以甘辛高湯慢火清燉，軟糯彈牙、香氣撲鼻！\n必點熱騰騰的 「八戶せんべい汁 (仙貝汁)」：地雞蔬菜清湯滾煮火鍋仙貝，暖胃舒心。\n搭配時令三陸刺身盛合、前沖鯖魚，佐八戶地酒「陸奧八仙」微醺品評（停留約 1 小時 15 分鐘）。\n\n⏰ 營業時間：• 10:30 - 20:30 ｜ • LO 20:00 ｜ • 通し營業無中休\n🚫 公休日：年中無休 ｜ (全年正常營業)\n💡 備註：🌟 八戶站內同層直通！Comfort Hotel 步行 2 分鐘下雨完全不濕身！ 八戶割烹老字號「萬鱗集團」直營。全日無中休營業且免搭車，先以 16:30 提早開吃為主（17:45 完食回房，早吃早休息），亦可隨時彈性調整至 17:00 或 17:30。午餐享用八食中心海鮮後，晚餐彈性點選名物「元祖花枝烏賊飯 (いかめし)」（整尾鮮魷塞糯米燉煮軟糯入味）、熱騰騰「八戶仙貝汁」與三陸刺身盛合，佐陸奧八仙地酒微醺。零奔波壓力！\n\n🗺️ いかめしや 烹鱗 (Hōrin): https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%8B%E3%82%81%E3%81%97%E3%82%84+%E7%83%B9%E9%B1%97+%E5%85%AB%E6%88%B8%E9%A7%85\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%84%E3%81%8B%E3%82%81%E3%81%97%E3%82%84+%E7%83%B9%E9%B1%97+%E5%85%AB%E6%88%B8%E9%A7%85&travelmode=walking\n\n⚠️ 💡 免搭車極致彈性自由策略：因餐廳全日無中休營業且免預約、走路僅 2 分鐘，排定以 16:30 提早開吃 為主（早吃早休息，17:45 完食回房）；若當下仍不餓或想多休息，亦可隨時彈性順延至 17:00 或 17:30，完全免受公車電車班次約束，時間 100% 自主掌控！
+LOCATION:いかめしや 烹鱗
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d9-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261006T210000
+DTEND;TZID=Asia/Tokyo:20261006T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【八戶站前品質首選・已訂妥🌟
+DESCRIPTION:【Day 9・🏨 頂級名宿】\n住宿【八戶站前品質首選・已訂妥🌟】：コンフォートホテル八戸 🚶 步行回飯店（BLUE會員 Check-in 14:00 / Check-out 11:00・連住第 3 晚結束）。\n### 【第三階段：直通新幹線南下・松島一之坊奢華Buffet・松島海景散策・定居仙台基地】（Day 10 - Day 11）\n\n\n🗺️ コンフォートホテル八戸: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E5%85%AB%E6%88%B8&travelmode=walking
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-10-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 10・松島町】新幹線南下・松島一之坊
+DESCRIPTION:行程：Comfort Hotel免費朝食 ➔ 直通新幹線南下仙台 ➔ 仙台站S-PAL東館散策 ＆ ずんだ餅/毛豆奶昔(A外帶沙發區/B小徑內用) ➔ 14:03電車至松島站 ➔ 14:30專車接駁 ➔ 14:35搶先入住松島一之坊(純享頂級All-Inclusive設施)【宿：松島一之坊🌟已訂】\n\n行李與換宿：🧳 跨縣前進松島：退房攜大行李搭乘東北新幹線 Hayabusa 南下仙台，轉東北本線至松島站，致電松島一之坊專車接駁直達海景第一排！\n\n完整行程：./itinerary.html#day-10
+LOCATION:松島町
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T081500
+DTEND;TZID=Asia/Tokyo:20261007T093000
+TRANSP:OPAQUE
+SUMMARY:☕ 早餐選擇：Comfort Hotel 免費元氣朝食 Buffet ＆ 晨光咖啡
+DESCRIPTION:【Day 10・🥩 極上美食】\n08:15 - 09:30【早餐選擇：Comfort Hotel 免費元氣朝食 Buffet ＆ 晨光咖啡】：\n於飯店 1F 悠閒享用退房前最後一頓免費朝食（供應時間：06:30 - 09:30）：熱騰騰現烤鬆餅、每日果昔、可頌麵包、炒蛋沙拉與現磨美式拿鐵咖啡。\n\n⏰ 營業時間：• 06:30 - 09:30 ｜ • LO 09:15 ｜ • 全館住客免費 0 円 ｜ (魚菜市場 05:00-10:00)\n🚫 公休日：年中無休 ｜ (魚菜市場週一開市！)\n💡 備註：晨間用餐與交通獨立分段：08:00～09:10 悠閒享用飯店免費熱壓鬆餅、果昔與熱咖啡，09:10 前用餐完畢，09:15 漫步 2 分鐘至八戶站搭乘 09:29 直達電車至種差海岸（10:01 抵）；（若選 Optional 方案 B 則 07:55 搭車至陸奧湊魚菜零售市場自選刺身）。
+LOCATION:Comfort Hotel 八戶 1F 朝食 Buffet
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T093000
+DTEND;TZID=Asia/Tokyo:20261007T104000
+TRANSP:OPAQUE
+SUMMARY:🍴 整理行李 ＆ 1F Library Cafe 候車小憩
+DESCRIPTION:【Day 10・🥩 極上美食】\n09:30 - 10:40【整理行李 ＆ 1F Library Cafe 候車小憩】：在客房悠閒整理大行李，或至 1F Library Cafe（免費咖啡茶飲、書籍雜誌與充電插座）放鬆候車。\n（💡 飲食完美銜接：早晨在 Comfort Hotel 享受元氣早餐後，中午 12:30 抵達仙台站僅需品嚐毛豆奶昔或極清爽輕食，把全天最極致的胃容量與期待留給 15:00 入住的【松島一之坊】海景 Lounge 暢飲與極上晚餐百匯！）\n\n⚠️ （💡 飲食完美銜接：早晨在 Comfort Hotel 享受元氣早餐後，中午 12:30 抵達仙台站僅需品嚐毛豆奶昔或極清爽輕食，把全天最極致的胃容量與期待留給 15:00 入住的【松島一之坊】海景 Lounge 暢飲與極上晚餐百匯！）
+LOCATION:松島町
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T104500
+DTEND;TZID=Asia/Tokyo:20261007T110700
+TRANSP:OPAQUE
+SUMMARY:🏨 コンフォートホテル八戸辦理退房（Choice BLUE會員尊享 11:00 延後退房特權，完全不必早起趕車！出飯店步行 2 分鐘直達八戶站月台）。
+DESCRIPTION:【Day 10・🏨 頂級名宿】\n10:45：コンフォートホテル八戸辦理退房（Choice BLUE會員尊享 11:00 延後退房特權，完全不必早起趕車！出飯店步行 2 分鐘直達八戶站月台）。\n
+LOCATION:コンフォートホテル八戸
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T110700
+DTEND;TZID=Asia/Tokyo:20261007T122900
+TRANSP:OPAQUE
+SUMMARY:🚄 東北新幹線隼號直通南下（🌟已訂妥・3車 2D＆2E・一車直達仙台・行李不離身！）
+DESCRIPTION:【Day 10・🚌 交通銜接】\n11:07 - 12:29【東北新幹線隼號直通南下（🌟已訂妥・3車 2D＆2E・一車直達仙台・行李不離身！）】：\n八戶站搭乘 東北新幹線 はやぶさ 16 號 直達仙台站（11:07 發車 ➔ 12:29 抵達，車程僅 1 小時 22 分鐘，全車指定席・已劃位 3 車 2D ＆ 2E）。\n大行李隨身放置於新幹線車廂行李架，全程無痛一車直達，免去分段轉乘與車站寄物之苦！
+LOCATION:松島町
+CATEGORIES:🚌 交通銜接\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒：東北新幹線隼號直通南下（🌟已訂妥・3車 2D＆2E・一車直達 即將發車/起飛，請預先抵達月台/候機室！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T123000
+DTEND;TZID=Asia/Tokyo:20261007T135500
+TRANSP:OPAQUE
+SUMMARY:🍴 下午茶輕食：仙台站商圈散策 ＆ ずんだ餅毛豆甜點（A 外帶沙發區 ｜ B 小徑內用・省下寄物費大行李零負擔）
+DESCRIPTION:【Day 10・🥩 極上美食】\n12:30 - 13:55【下午茶輕食：仙台站商圈散策 ＆ ずんだ餅毛豆甜點（A 外帶沙發區 ｜ B 小徑內用・省下寄物費大行李零負擔）】：\n抵達仙台站後，因傍晚即將入住松島一之坊享受極上海陸 Buffet 與海景 Lounge 暢飲，中午決定不吃大餐、嚴格控管食量，專注品嚐仙台最具代表性的名物「ずんだ (毛豆甜點)」！\n🧳 省錢省力策略：不額外花費 700~800 円租用寄物櫃，直接推著大行李箱行動，鎖定以下兩大自然流暢方案：\n🥤 【方案 A：外帶杯裝ずんだ餅 ＆ 毛豆奶昔 ➔ S-PAL 東館挑高沙發休憩區享用（首選推薦・空間最大最舒服）】：\n新幹線出站後推行李至 2F 自由通路中央改札前之「ずんだ茶寮 仙台駅おみやげ処1号店」或 S-PAL 東館 2F 之「ずんだ茶寮 エスパル仙台東館店」，直接點購便攜杯裝 「ずんだ餅（カップ入り，附小湯匙）」 ＋ 招牌 「ずんだシェイク (毛豆奶昔)」，免排內用隊伍！\n(💡 避坑警示：Google Maps 搜尋「ずんだ茶寮 エスパル仙台店」顯示閉業為本館 B1F 舊櫃已於 2026/5/10 撤櫃；目前 S-PAL 門市位於東館 2F「エスパル仙台東館店」正常營業 10:00~20:00，車站 2F 自由通路おみやげ処1号店與 3F ずんだ小徑店亦全天正常營業，切勿白跑本館 B1F！)\n推行李直接前往相鄰的 S-PAL 東館 2F / 3F：此區走道極為挑高寬敞，設有大片採光之免費質感沙發座與長椅。大行李箱放在身旁完全不卡位、不阻礙任何人，悠閒坐著享用在地甜點，身心最舒坦。吃完還能順道逛逛東館 2F/3F 的 KANEIRI 文創選物、伊達のこみち與中川政七商店。\n🍵 【方案 B：直衝 3F「ずんだ茶寮 仙台駅ずんだ小径店」內用看現場狀況（備案）】：\n\n🗺️ ずんだ茶寮 仙台駅おみやげ処1号店: https://www.google.com/maps/search/?api=1&query=%E3%81%9A%E3%82%83%E3%81%A0%E8%8C%B6%E5%AF%AE+%E4%BB%99%E5%8F%B0%E9%A7%85%E3%81%8A%E3%81%BF%E3%82%84%E3%81%92%E5%87%A61%E5%8F%B7%E5%BA%97\n🗺️ ずんだ茶寮 エスパル仙台東館店: https://www.google.com/maps/search/?api=1&query=%E3%81%9A%E3%82%83%E3%81%A0%E8%8C%B6%E5%AF%AE+%E3%82%A8%E3%82%B9%E3%83%91%E3%83%AB%E4%BB%99%E5%8F%B0%E6%9D%B1%E9%A4%A8%E5%BA%97\n\n⚠️ (💡 避坑警示：Google Maps 搜尋「ずんだ茶寮 エスパル仙台店」顯示閉業為本館 B1F 舊櫃已於 2026/5/10 撤櫃；目前 S-PAL 門市位於東館 2F「エスパル仙台東館店」正常營業 10:00~20:00，車站 2F 自由通路おみやげ処1号店與 3F ずんだ小徑店亦全天正常營業，切勿白跑本館 B1F！)
+LOCATION:ずんだ茶寮 仙台駅おみやげ処1号店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T143500
+DTEND;TZID=Asia/Tokyo:20261007T151500
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 抵達 Check-in ＆ 👑 階段① 海の見えるラウンジ 迎賓微醺（Gelato 冰淇淋 ＆ 生啤酒 ＆ 落地窗海景）
+DESCRIPTION:【Day 10・🏨 頂級名宿】\n14:35 - 15:15【🏨 抵達 Check-in ＆ 👑 階段① 海の見えるラウンジ 迎賓微醺（Gelato 冰淇淋 ＆ 生啤酒 ＆ 落地窗海景）】：\n提早於 14:35 抵達 【松島一之坊 (Matsushima Ichinobo)】 🚶 步行導航（Check-in 15:00 / Check-out 11:00・已訂妥🌟）。\n首發進駐壓倒性優勢：避開 15:00~15:30 辦理入住的大批排隊人潮，從容在大廳辦理手續並寄放大行李（客房 15:00 開放入房），領取房卡與挑選浴衣；14:35 立即全面啟動全包式尊爵待遇！\n朝向松島灣 7\,000 坪水上庭園與無垠海景，全日免費暢飲 Asahi マルエフ 現壓生啤酒（14:30～翌朝 11:00 幾乎不間斷供應！）、紅白酒、氣泡酒、現磨咖啡與 Detox 水果水。\n享用工坊自製 Artisanal Gelato 義式手作冰淇淋（15:00~19:00 無限暢吃，開心果、松島毛豆泥ずんだ、香草、水果雪酪等多款口味任選！）、主廚手作布朗尼磅蛋糕與綜合堅果，坐在景觀沙發或戶外露台吹拂松島海風。\n\n\n🗺️ 松島一之坊 (Matsushima Ichinobo): https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E4%B8%80%E4%B9%8B%E5%9D%8A\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%9D%BE%E5%B3%B6%E4%B8%80%E4%B9%8B%E5%9D%8A&travelmode=walking
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T170000
+DTEND;TZID=Asia/Tokyo:20261007T194000
+TRANSP:OPAQUE
+SUMMARY:🍴 👑 階段⑤ 晚餐重點：一泊二食・料理長廚房「青海波 (Seigaiha)」極上海陸 Order Buffet 晚宴・17:00準時入座整整 2 小時 40 分鐘吃好吃滿！
+DESCRIPTION:【Day 10・🥩 極上美食】\n17:00 - 19:40【👑 階段⑤ 晚餐重點：一泊二食・料理長廚房「青海波 (Seigaiha)」極上海陸 Order Buffet 晚宴・17:00準時入座整整 2 小時 40 分鐘吃好吃滿！】：\n晚餐營業時間：17:00 - 20:00（L.O. 19:45）。\n17:00 準時第一批開門入座！完整享受整整 2 小時 40 分鐘（17:00 - 19:40）吃好吃滿！\n（💡 時程完美銜接：由於 19:45 緊接著登場夜間沙龍音樂會，安排 17:00 開門即入座，不僅享有全場最充足的 2 小時 40 分鐘無拘束大快朵頤，吃飽後更可無縫移步相鄰的 Lounge 聽音樂會，完全不留遺憾！）\n料理長團隊板前 Live Kitchen 現點現做：\n三陸雄勝灣 2 年熟成特大牡蠣（現烤/現蒸極度肥美）。\n12mm 極厚切熟成炭火牛舌（外微焦內脆彈，炭香濃郁）。\n黑毛和牛 / 仙台牛特選鐵板料理（現煎和牛牛排、肉汁豐沛）。\n\n⏰ 營業時間：• 17:00 - 20:00 ｜ • LO 19:45 ｜ • 通し營業無中休\n🚫 公休日：年中無休 ｜ (All-Inclusive 房價全包)\n💡 備註：整整吃滿 2 小時 40 分吃好吃滿！ 17:00 準時入座享用料理長現烤特大生蠔、A5 仙台牛鐵板燒、現捏極鮮握壽司、現炸天婦羅，酒窖純米大吟釀 0 円暢飲，銜接 19:45 沙龍音樂會。\n\n⚠️ （💡 時程完美銜接：由於 19:45 緊接著登場夜間沙龍音樂會，安排 17:00 開門即入座，不僅享有全場最充足的 2 小時 40 分鐘無拘束大快朵頤，吃飽後更可無縫移步相鄰的 Lounge 聽音樂會，完全不留遺憾！）
+LOCATION:松島一之坊 料理長青海波 海陸夕食
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T194500
+DTEND;TZID=Asia/Tokyo:20261007T202500
+TRANSP:OPAQUE
+SUMMARY:🍴 👑 階段⑥ 海の見えるラウンジ：夜間現場沙龍音樂會 ＆ Bar Time 酒吧微醺（整整 40 分鐘 LIVE）
+DESCRIPTION:【Day 10・🥩 極上美食】\n19:45 - 20:25【👑 階段⑥ 海の見えるラウンジ：夜間現場沙龍音樂會 ＆ Bar Time 酒吧微醺（整整 40 分鐘 LIVE）】：\n晚餐吃足 2 小時 40 分鐘後移步相鄰的 Lounge，正好銜接 Bar Time（19:00 - 21:00）。\n夜間現場沙龍音樂會 (Live Salon Concert，19:45 - 20:25)：每日由專業音樂家現場演奏（薩克斯風、古典鋼琴或長笛），水上庭園點亮柔美夜間燈光。\nBar Time 酒吧服務：調酒師現場特調原創雞尾酒、日本威士忌（余市/宮城峽/知多）、宮城地酒、葡萄酒與精緻起司堅果下酒點心！手持調酒聆聽悠揚旋律，享受松島海天夜色。
+LOCATION:松島町
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it15@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T204500
+DTEND;TZID=Asia/Tokyo:20261007T214500
+TRANSP:OPAQUE
+SUMMARY:🏨 👑 階段⑧ 最上階 5F 展望露天風呂「太古天泉 八百八島・五大觀」星空夜泡
+DESCRIPTION:【Day 10・🏨 頂級名宿】\n20:45 - 21:45【👑 階段⑧ 最上階 5F 展望露天風呂「太古天泉 八百八島・五大觀」星空夜泡】：\n前往最上階 5F 露天風呂（開放至 24:00），沉浸於地下 1\,500m 湧出之深層天然溫泉（低張性弱鹼性美人之湯）。\n無邊際浴池視線平接海平面，遠眺松島灣繁星與點點漁火，舒緩身心每一吋神經。湯上がり処備有冰涼健康茶飲。\n
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d10-it17@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261007T210000
+DTEND;TZID=Asia/Tokyo:20261007T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【宮城海景頂級名宿・已訂妥🌟
+DESCRIPTION:【Day 10・🏨 頂級名宿】\n住宿【宮城海景頂級名宿・已訂妥🌟】：松島一之坊 🚶 步行回飯店。\n\n\n🗺️ 松島一之坊: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E4%B8%80%E4%B9%8B%E5%9D%8A\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E6%9D%BE%E5%B3%B6%E4%B8%80%E4%B9%8B%E5%9D%8A&travelmode=walking
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-11-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 11・松島町】仁王丸・瑞嚴寺・伊達歷史館
+DESCRIPTION:行程：太古天泉海景日出 ➔ 青海波朝食吃好吃滿直到打烊 ➔ 藤田喬平玻璃美術館 ➔ 10:50免費送迎直達碼頭寄行李 ➔ 觀光船 ➔ 烤海鞘 ➔ 國寶瑞嚴寺 ➔ 歷史館 ➔ Check-in 東口天然溫泉 ➔ Welcome Bar 4小時暢飲 ➔ 泰山HANARE仙台牛燒肉（🌟已訂妥「お任せコース」代烤） ➔ 洗衣【宿：スーパーホテル仙台駅東口天然温泉🌟已訂】\n\n行李與換宿：🧳 換宿仙台東口：松島一之坊退房專車送至松島海岸碼頭，仁王丸巡航與參拜瑞嚴寺，下午搭仙石線至仙台站東口，入住「スーパーホテル仙台駅東口天然温泉（步行3分）」。\n\n完整行程：./itinerary.html#day-11
+LOCATION:松島町
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T052000
+DTEND;TZID=Asia/Tokyo:20261008T061500
+TRANSP:OPAQUE
+SUMMARY:🏨 👑 階段⑩ 太古天泉 5F 露天風呂：迎接 05:35 松島灣絕美海景日出（日出前 15~20 分鐘入池！）
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n05:20 - 06:15【👑 階段⑩ 太古天泉 5F 露天風呂：迎接 05:35 松島灣絕美海景日出（日出前 15~20 分鐘入池！）】：\n🌅 當日官方日出時間：約 05:35。\n於 5F 無邊際海景露天風呂中，靜靜守候金色晨光由松島灣 260 座奇岩松林島嶼群峰間緩緩升起，海天一色、雲霧繚繞，為全趟 20 天東北之旅最高光絕景！\n
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T073000
+DTEND;TZID=Asia/Tokyo:20261008T093000
+TRANSP:OPAQUE
+SUMMARY:🍴 👑 階段⑫「青海波」海景朝食 Order Buffet・專案已含朝食 🌟・07:30入座整整吃足 2 小時直到 09:30 打烊！
+DESCRIPTION:【Day 11・🥩 極上美食】\n07:30 - 09:30【👑 階段⑫「青海波」海景朝食 Order Buffet・專案已含朝食 🌟・07:30入座整整吃足 2 小時直到 09:30 打烊！】：\n專案已含朝食 🌟（All-Inclusive 全包式專案房價全含 0 円）。朝食營業時間：07:30 - 09:30（L.O. 09:15，09:30 打烊）。\n07:30 準時第一批入座！整整享用 2 小時吃好吃滿直到打烊！\n招牌料理大集合：鐵板慢火現煎法式吐司（佐宮城名物ずんだ毛豆泥、秋保野蜂蜜與冰淇淋）、藏王地養卵出汁玉子燒、現場手刨鹿兒島本枯節・出汁茶泡飯、三陸晨光海鮮自選丼、現烤酥脆牛角可頌，搭配朝光冰鎮氣泡酒！\n\n⏰ 營業時間：• 07:30 - 09:30 ｜ • LO 09:15 ｜ • 09:30 打烊\n🚫 公休日：年中無休 ｜ (All-Inclusive 房價全包)\n💡 備註：整整享用 2 小時吃好吃滿直到打烊！ 07:30 準時第一批開門入席，享受板前現點現做鐵板毛豆泥法式吐司（佐秋保野蜂蜜與冰淇淋）、藏王地養卵出汁玉子燒、現場手刨鹿兒島本枯節・極上出汁茶泡飯、三陸晨光海鮮自選丼，搭配現烤可頌與朝光冰鎮氣泡酒！吃飽直通玻璃美術館。
+LOCATION:松島一之坊 青海波 海景朝食
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T093000
+DTEND;TZID=Asia/Tokyo:20261008T103500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 👑 階段⑬ 藤田喬平玻璃美術館 ＆ 水上庭園深度鑑賞（🌟 住客憑房卡完全免費直通！）
+DESCRIPTION:【Day 11・🎯 需求景點】\n09:30 - 10:35【👑 階段⑬ 藤田喬平玻璃美術館 ＆ 水上庭園深度鑑賞（🌟 住客憑房卡完全免費直通！）】：\n🌟 住客尊享特權：憑房卡完全免費入館參觀（開館 09:30~13:30，原票價 1\,200 円/人，2人現省 2\,400 円！）。\n美術館 09:30 準時開館，吃飽走出餐廳穿過水上庭園連通橋直通入館！\n參觀相鄰的 藤田喬平玻璃美術館 (Fujita Kyohei Museum of Glass) 🚶 步行導航，欣賞日本文化勳章得主國寶級「飾筥」金箔琉璃流彩工藝與觀景露台。\n\n\n🗺️ 藤田喬平玻璃美術館 (Fujita Kyohei Museum of Glass): https://www.google.com/maps/search/?api=1&query=%E8%97%A4%E7%94%B0%E5%96%AC%E5%B9%B3%E3%82%AC%E3%83%A9%E3%82%B9%E7%BE%8E%E8%A1%93%E9%A4%A8\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E8%97%A4%E7%94%B0%E5%96%AC%E5%B9%B3%E3%82%AC%E3%83%A9%E3%82%B9%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=walking
+LOCATION:藤田喬平ガラス美術館
+CATEGORIES:🎯 需求景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T103500
+DTEND;TZID=Asia/Tokyo:20261008T104500
+TRANSP:OPAQUE
+SUMMARY:🏨 👑 階段⑭ 回房取行李 ＆ 1F 大廳辦理退房
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n10:35 - 10:45【👑 階段⑭ 回房取行李 ＆ 1F 大廳辦理退房】：\n回房取大行李，於 1F 大廳辦理退房（Check-out 11:00 前）。\n
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T105000
+DTEND;TZID=Asia/Tokyo:20261008T111000
+TRANSP:OPAQUE
+SUMMARY:🏨 👑 階段⑮ 🧳 松島一之坊 免費送迎巴士直達「松島海岸レストハウス」＆ 寄放行李
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n10:50 - 11:10【👑 階段⑮ 🧳 松島一之坊 免費送迎巴士直達「松島海岸レストハウス」＆ 寄放行李】：\n搭乘飯店上午定時送迎巴士（官方班次：09:20、09:50、10:20、10:50，搭乘 10:50 上午末班車）。\n乘車指引（飯店回信確認）：退房送行接駁無需事前預約，於發車前（約 10:45）直接前往 飯店 1F 大門玄關前（玄関前） 上車即可。\n送迎巴士停靠路線：松島一之坊 ➔ JR 松島站 ➔ 松島海岸レストハウス（遊覽船碼頭正門） ➔ JR 松島海岸站。\n專車直接送抵「松島海岸レストハウス (Matsushima Kaigan Rest House)」正門口！\n🧳 行李寄放：走進レストハウス內的 「一般社團法人 松島觀光協會」 櫃檯辦理專人手行李寄放（每件 700 円，09:00 - 17:00 受付），超大行李箱完全不怕寄物櫃額滿！館內亦設有 500 円投幣式置物櫃。\n
+LOCATION:松島一之坊
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T113000
+DTEND;TZID=Asia/Tokyo:20261008T125000
+TRANSP:OPAQUE
+SUMMARY:⛴️ 必去景點 ⑮：松島繞島觀光船 仁王丸（🌟已預約妥當！12:00 班次・🚨 提早排隊搶登 2 樓特別室觀景席！）
+DESCRIPTION:【Day 11・🌟 必去景點】\n11:30 - 12:50【必去景點 ⑮：松島繞島觀光船 仁王丸（🌟已預約妥當！12:00 班次・🚨 提早排隊搶登 2 樓特別室觀景席！）】：\n寄好行李走幾步路即達碼頭！搭乘 松島島巡觀光船 (仁王丸) 🚶 步行導航（🌟 已預約妥當！已訂妥 10/8 12:00 出航「仁王丸コース」，航程 50 分鐘，松島海岸發著周遊巡航 260 座奇岩島嶼，避開鹽釜片道地雷！）。\n🚨 仁王丸 2 樓特別席（グリーン室）現場加購、排隊與老饕搶位秘訣：\n排隊時間與加購機制：仁王丸 2 樓為開闊的高空景觀皮椅席（グリーン席），具備居高臨下 360 度俯瞰松島海灣的最佳視野；該席位無法於線上事前預訂，全數採登船現場加購制（大人加價 600 円，先到先得、額滿為止）！強烈建議 11:10 於 Rest House 寄好大行李與洗手間整頓後，於 11:30～11:35 前往中央棧橋乘船口就位排隊（提前 25～30 分鐘，穩排散客前列）。\n1\,200 円現鈔先備好：排隊時先將 1\,200 円現金（600 円 × 2 人） 準備在手上；11:45 一開放入閘檢票，步入船艙直奔 通往 2 樓的階梯口 秒付加購，免翻包找零錢被後方超車！\n老饕/攝影選位指南：登上 2 樓後為先到先選的自由席，請務必直奔「右側靠窗席（右舷）」，因仁王丸航程廣播導覽之核心奇岩（仁王島、鐘島、千貫島等）絕大部分皆位於船身前進方向的右側！航行中亦可隨時前往 2 樓專屬後方露天甲板，享受 360 度無玻璃反光的震撼視野與海風！12:00 準時啟航享受極致航程。\n\n\n🗺️ 松島繞島觀光船 仁王丸: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E5%B3%B6%E5%B7%A1%E3%82%8A%E8%A6%B3%E5%85%89%E8%88%B9%E6%A1%88%E5%86%85%E6%89%80\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%9D%BE%E5%B3%B6%E5%B3%B6%E5%B7%A1%E3%82%8A%E8%A6%B3%E5%85%89%E8%88%B9%E6%A1%88%E5%86%85%E6%89%80&travelmode=walking\n\n⚠️ 🚨 仁王丸 2 樓特別席（グリーン室）現場加購、排隊與老饕搶位秘訣：\n⚠️ 排隊時間與加購機制：仁王丸 2 樓為開闊的高空景觀皮椅席（グリーン席），具備居高臨下 360 度俯瞰松島海灣的最佳視野；該席位無法於線上事前預訂，全數採登船現場加購制（大人加價 600 円，先到先得、額滿為止）！強烈建議 11:10 於 Rest House 寄好大行李與洗手間整頓後，於 11:30～11:35 前往中央棧橋乘船口就位排隊（提前 25～30 分鐘，穩排散客前列）。
+LOCATION:松島島巡り観光船 仁王丸コース
+CATEGORIES:🌟 必去景點\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：必去景點 ⑮：松島繞島觀光船 仁王丸（🌟已預約妥當！12:0 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T133000
+DTEND;TZID=Asia/Tokyo:20261008T141500
+TRANSP:OPAQUE
+SUMMARY:🐟 午餐：松島さかな市場 焼がきハウス / 烤海鞘 ＆ 烤生蠔
+DESCRIPTION:【Day 11・🥩 極上美食】\n13:30 - 14:15【午餐：松島さかな市場 焼がきハウス / 烤海鞘 ＆ 烤生蠔】：\n自五大堂步行 5 分鐘抵達 松島さかな市場 (Matsushima Fish Market) 🚶 步行導航（營業時間：平日 10:00 - 15:00，L.O. 15:00）。\n品嚐宮城第一特色名物 「現烤海鞘 (焼きホヤ)」（炭烤鮮甜爆汁完全無腥味）、焼がきハウス炭火現烤肥嫩生蠔、三陸海鮮丼與松島牡蠣漢堡（停留 45 分鐘）。\n\n⏰ 營業時間：• 平日 10:00 - 15:00 ｜ • 土日祝 09:00 - 15:00 ｜ • LO 15:00 (無晚餐)\n🚫 公休日：年中無休 ｜ (全年正常營業)\n💡 備註：焼がきハウス提供 45 分鐘烤牡蠣吃到飽或單點現烤套餐；市場 1F 必點宮城第一名產「現烤海鞘串 (焼きホヤ串)」，鮮甜爆汁完全無腥味；牡蠣漢堡亦為名物。\n\n🗺️ 松島さかな市場 焼がきハウス / 烤海鞘: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E3%81%95%E3%81%8B%E3%81%AA%E5%B8%82%E5%A0%B4\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%9D%BE%E5%B3%B6%E3%81%95%E3%81%8B%E3%81%AA%E5%B8%82%E5%A0%B4&travelmode=walking
+LOCATION:松島さかな市場 焼がきハウス / 烤海鞘
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T142000
+DTEND;TZID=Asia/Tokyo:20261008T151000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 國寶名剎：奧州第一禪寺 國寶 瑞嚴寺 (瑞巌寺)
+DESCRIPTION:【Day 11・🏛️ 國寶古蹟】\n14:20 - 15:10【國寶名剎：奧州第一禪寺 國寶 瑞嚴寺 (瑞巌寺)】：\n步行 5 分鐘參觀伊達政宗菩提寺 【國寶 瑞嚴寺 (Zuiganji)】（10月秋季拜觀時間：08:30 - 16:30，最終受付 16:00，門票 1\,000 円【2026 最新改定拝観料：大人 1\,000 円、小人 500 円】，欣賞桃山建築雕樑畫棟與國寶本堂）與 圓通院 枯山水庭園（門票 500 円，停留 1 小時 10 分鐘）。\n\n\n🗺️ 瑞嚴寺 (瑞巌寺): https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E5%B7%8C%E5%AF%BA+%E6%9D%BE%E5%B3%B6
+LOCATION:国宝 瑞巌寺 / 五大堂
+CATEGORIES:🏛️ 國寶古蹟\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T151500
+DTEND;TZID=Asia/Tokyo:20261008T161500
+TRANSP:OPAQUE
+SUMMARY:🍴 必去景點 ⑱：陸奧伊達政宗歷史館 ＆ 幻視藝術展 / 伊達下午茶
+DESCRIPTION:【Day 11・🌟 必去景點】\n15:15 - 16:15【必去景點 ⑱：陸奧伊達政宗歷史館 ＆ 幻視藝術展 / 伊達下午茶】：\n步行 3~5 分鐘參觀 【陸奧伊達政宗歷史館 (みちのく伊達政宗歴史館)】（開館時間：09:00 - 17:00，最終入館 16:30，全年無休；現場單獨門票大人 1\,000 円 / 線上 8 折 800 円）。\n展示參觀（約 35 分鐘）：館內耗資巨資以 25 個經典歷史立體場景與 200 多尊等身大蠟像，重現「獨眼龍」伊達政宗自幼年失明、人取橋之戰、白衣死裝束見秀吉至仙台開府的傳奇一生，另有宮澤賢治、太宰治等東北偉人蠟像區。\n🎫 兩館共通券選配（推薦可考慮！）：現場可直接購買或加價升級為 「歷史館 ＋ 松島 Trick Art 幻視藝術展 兩館共通券」（大人現場 1\,200 円，現省 300 円；線上預售 1\,000 円），順道參觀 2025 年 9 月全新改裝的錯視幻相藝術展（依偏好合影拍照體驗直接跳過）。\n🍵 館內下午茶小憩、名湯足湯與伴手禮（約 25~30 分鐘）：參觀後可於館內戰國主題和風茶屋 【伊達かふぇ (Date Cafe)】（營業至 16:30，L.O. 16:00）享用插著金色弦月脆餅的招牌 「政宗聖代 (政宗パフェ)」 或仙台名物 「手作毛豆麻糬 (ずんだ餅)」；更可享受 2026 年全新增設之 「東根溫泉足湯コーナー」（引進山形名湯東根溫泉成分！），邊享用甜點邊享受暖呼呼足湯，洗滌上午登觀光船與走瑞嚴寺的行腳疲勞！離館前可於伊達家正規商標授權（許可番號 3080）的 【松島みやげ處 いだてや】 選購家紋專屬紀念品，整段停留約 1 小時 10 分鐘，動線從容愜意。\n\n\n🗺️ 陸奧伊達政宗歷史館: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8F%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%E6%AD%B4%E5%8F%B2%E9%A4%A8
+LOCATION:みちのく伊達政宗歴史館
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it16@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T173500
+DTEND;TZID=Asia/Tokyo:20261008T180000
+TRANSP:OPAQUE
+SUMMARY:🏨 🧳 首要行動・仙台東口天然溫泉名宿 Check-in 進房 ＆ 舒適整裝
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n17:35 - 18:00【🧳 首要行動・仙台東口天然溫泉名宿 Check-in 進房 ＆ 舒適整裝】：\n入住 【スーパーホテル仙台駅東口天然温泉】 🚶 步行導航（Check-in 15:00 / Check-out 10:00・已訂妥🌟）。\n整整 25 分鐘從容整裝緩衝：Check-in 取得客房密碼鎖、1F 選枕吧挑選專屬睡眠枕頭（8種先到先得）、女性自選 5 樣有機保養品；搭電梯進房放置大行李、洗手洗臉梳化、換上輕便外衣，完全消除趕路奔波壓力！\n\n\n🗺️ スーパーホテル仙台駅東口天然温泉: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it19@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T183000
+DTEND;TZID=Asia/Tokyo:20261008T201500
+TRANSP:OPAQUE
+SUMMARY:🥩 晚餐【頂級仙台牛私廚・1日限定2組】：焼肉 泰山 HANARE【🌟 已訂妥完封（JCB代訂 18:30「お任せコース」・專人桌邊代烤）
+DESCRIPTION:【Day 11・🥩 極上美食】\n18:30 - 20:15【晚餐【頂級仙台牛私廚・1日限定2組】：焼肉 泰山 HANARE【🌟 已訂妥完封（JCB代訂 18:30「お任せコース」・專人桌邊代烤）】】：\n焼肉 泰山 HANARE 🚶 步行/搭車導航（營業時間：18:00 - 23:00，L.O. 22:00，週四正常營業！地址：仙台市青葉区国分町2丁目8-1 18ビル 1F，電話 022-796-8029，🌟 已由 JCB 成功訂妥 18:30 席位 2 位，指定「店主お任せコース」）。\n極致私廚體驗：泰山品牌的最高峰別邸，1 天僅限定招待 2 組客人的完全預約制隱密私廚！品嚐由料理長精心掌杓的頂級 A5 仙台牛「店主お任せコース（約 13\,200 円/人）」，包含名震東北的花咲厚切牛舌、大判薄切「泰山焼き（薄切和牛佐山藥青海苔特調汁）」與極上赤身，由店主親自掌握火候，徹底免去自己動手烤肉的手忙腳亂，尊榮感十足！【🚫 重要註記：同行兩人均嚴格不吃芹菜、香菜、水芹】。\n(同日備案「炭火焼肉 福わらひ2」任務順利解除)。\n餐後飽足，可選擇沿著一番町拱廊商圈愜意散步 18 分鐘走回飯店消食；亦可於廣瀨通搭乘市營公車（150 円）或由勾當台公園站搭乘地下鐵 3 分鐘快速直達仙台站，從容返回飯店享受夜間放鬆。\n\n⏰ 營業時間：• 18:00 - 23:00 ｜ • 料理 LO 22:00 ｜ • 夜間專營無午餐\n🚫 公休日：日曜日、月曜日定休 ｜ (Day 11 週四正常營業)\n💡 備註：🌟 全店 1 日限定 2 組客人・頂級仙台牛私廚代烤訂妥完封！ 已由 JCB 成功訂妥 18:30 席位（2位），指定方案「店主お任せコース」（13\,200 円税込/人，全 12 品），店主親自全程桌邊代烤掌控最佳熟度，備註嚴格排除芹菜/香菜/水芹。同日備案炭火焼肉福わらひ2解除。\n\n🗺️ 焼肉 泰山 HANARE: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89+%E6%B3%B0%E5%B1%B1+HANARE+%E4%BB%99%E5%8F%B0\n🗺️ 步行/搭車導航: https://www.google.com/maps/dir/?api=1&destination=%E7%84%BC%E8%82%89+%E6%B3%B0%E5%B1%B1+HANARE+%E4%BB%99%E5%8F%B0\n\n⚠️ 極致私廚體驗：泰山品牌的最高峰別邸，1 天僅限定招待 2 組客人的完全預約制隱密私廚！品嚐由料理長精心掌杓的頂級 A5 仙台牛「店主お任せコース（約 13\,200 円/人）」，包含名震東北的花咲厚切牛舌、大判薄切「泰山焼き（薄切和牛佐山藥青海苔特調汁）」與極上赤身，由店主親自掌握火候，徹底免去自己動手烤肉的手忙腳亂，尊榮感十足！【🚫 重要註記：同行兩人均嚴格不吃芹菜、香菜、水芹】。
+LOCATION:焼肉 泰山 HANARE
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐【頂級仙台牛私廚・1日限定2組】：焼肉 泰山 HANAR 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it20@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T203500
+DTEND;TZID=Asia/Tokyo:20261008T215500
+TRANSP:OPAQUE
+SUMMARY:🏨 🍷 Welcome Bar 壓軸微醺 ＆ ♨️ 天然溫泉深度舒壓（今晚徹底放鬆・第 4 次洗衣移至明晨從容進行！）
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n20:35 - 21:55【🍷 Welcome Bar 壓軸微醺 ＆ ♨️ 天然溫泉深度舒壓（今晚徹底放鬆・第 4 次洗衣移至明晨從容進行！）】：\n今晚零家務・身心徹底放鬆：在【焼肉 泰山 HANARE】享受頂級 A5 仙台牛私廚代烤後，散步消食回飯店，今晚不洗衣服、零時間追趕壓力！\n20:40 ～ 21:00 享受 Welcome Bar 壓軸微醺（若當日開放至 21:00 暢飲續杯 / 若當日 20:00 閉吧則專注泡湯）：若當日 Lounge 開放至 21:00，悠閒坐在 1F 沙發小酌宮城地酒（浦霞/一之藏）或 Highball；若當日 20:00 閉吧，則直接前往男女分立 【天然溫泉 枝垂桜 美人的湯】 深度舒壓放鬆！\n♨️ 那須塩原天然溫泉通宵開放：享受溫暖滑順的美人湯，洗滌連日行腳疲勞，早點就寢充足休息（22:15 前舒服躺平入睡，享受席夢思名床 8 小時黃金修復睡眠！）。\n🧺 洗衣排程順延說明：原定第 4 次洗衣（清洗 Day 9~11 衣物）順延至明天（Day 12）清晨邊吃健康朝食邊利用 2F 免費瓦斯烘乾機進行，並安排 12:30 從容出門（跳過正午午餐）之極致悠閒節奏！\n
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d11-it21@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261008T210000
+DTEND;TZID=Asia/Tokyo:20261008T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟】：スーパーホテル仙台駅東口天然温泉 🚶 步行回飯店（連住第 1 晚）。\n### 【第四階段：仙台基地・高密度超前部署・後段預留 3 天黃金緩衝】（Day 12 - Day 20）\n#\n\n\n🗺️ スーパーホテル仙台駅東口天然温泉: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-12-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 12・仙台市】定禪寺通・媒體中心smt・壽喜燒かとう
+DESCRIPTION:行程：晨間洗烘衣 ＆ 悠閒客房深度補眠 ➔ 🌟 14:15 從容出發（跳過正午午餐・胃袋蓄力） ➔ 地下鐵南北線直達 ➔ 定禪寺通綠樹林蔭與媒體中心 smt深度建築巡禮 ➔ 漫步 800m 直達百年米其林「すき焼割烹 かとう」本格A5極上壽喜燒コース ➔ AER 展望テラス31F璀璨夜景 ➔ Welcome Bar 微醺 ➔ 天然溫泉【博物館與城跡移至Day 19平日包場・杜之都林蔭大道漫步・完全免折返跑！】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，客房充裕補眠放鬆至14:15出發，搭地下鐵南北線直達定禪寺通櫸木林蔭、媒體中心 smt 巡禮，晚間百年かとう壽喜燒、AER 31F 夜景！\n\n完整行程：./itinerary.html#day-12
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T070000
+DTEND;TZID=Asia/Tokyo:20261009T083500
+TRANSP:OPAQUE
+SUMMARY:🍴 早晨【🧺 第 4 次洗衣服（烘衣完全免費 0 円！）＆ 🥐 飯店健康有機早餐 Buffet（專案已含朝食 🌟）
+DESCRIPTION:【Day 12・🥩 極上美食】\n07:00 - 08:35【早晨【🧺 第 4 次洗衣服（烘衣完全免費 0 円！）＆ 🥐 飯店健康有機早餐 Buffet（專案已含朝食 🌟）】】：\n07:00 啟動洗衣：前往 2F 洗衣間投幣洗衣（清洗 Day 9~11 衣物，6 台洗衣機 200 円含洗劑，運轉約 35 分鐘，客房電視可隨時掌握運轉進度）。\n07:30 ～ 08:15 悠閒享用早餐：於 2F 餐廳享用 Super Hotel 招牌健康早餐（專案已含朝食 🌟，全館住客免費招待 0 円！營業時間：平日 06:30 - 08:30 / 假日 06:30 - 09:00）：現烤酥脆可頌與歐式麵包、JAS 認證有機生菜沙拉、特調健康沙拉醬、東北時令溫熱熟食與熱味噌湯，完全免出門覓食！\n08:15 移至烘衣機：將衣物移入 6 台完全免費 0 円 之強力瓦斯烘乾機（運轉 35～40 分鐘，瓦斯烘乾大風量極速烘透，客房電視連網查看烘乾倒數）。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T143000
+DTEND;TZID=Asia/Tokyo:20261009T153000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 定禪寺通綠樹林蔭大道漫步 ＆ 戶外世界級青銅雕塑（14:30～15:30，悠閒漫步 60m）
+DESCRIPTION:【Day 12・✨ 助理推薦】\n14:30 - 15:30【定禪寺通綠樹林蔭大道漫步 ＆ 戶外世界級青銅雕塑（14:30～15:30，悠閒漫步 60m）】：\n迎面即是仙台最著名之靈魂綠色地標——【定禪寺通】！寬敞綠道長約 700 公尺，兩側植有 166 株茂密日本櫸木交織成天然綠色拱形隧道。\n微風徐徐，欣賞中央人行道露天常設陳列之 Emilio Greco《夏之回憶 (夏の思い出)》、Venanzo Crocetti《水浴之女》等世界級青銅傑作。\n☕ 【周邊高質感咖啡名店選配】：\n① ホシヤマ珈琲店 本店（定禪寺通與一番町拱廊路口 かき徳ビル 3F）：仙台傳奇咖啡殿堂，吧台陳列逾 1\,000 套世界名瓷（Meissen/Royal Copenhagen/Hermès），咖啡師依客人氣質現場挑選專屬骨瓷杯沖煮虹吸咖啡！\n② カフェ・ド・ギャルソン (Café de Garçon)（定禪寺通 2F）：窗景老舖喫茶，吧台高度與櫸樹樹冠齊平，靜看綠葉隨風搖曳。\n\n\n🗺️ ホシヤマ珈琲店 本店: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%82%B7%E3%83%A4%E3%83%9E%E7%8F%88%E7%90%B2%E5%BA%97+%E6%9C%AC%E5%BA%97+%E4%BB%99%E5%8F%B0\n🗺️ カフェ・ド・ギャルソン (Café de Garçon): https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%89%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3+%E4%BB%99%E5%8F%B0
+LOCATION:定禅寺通ケヤキ並木
+CATEGORIES:✨ 助理推薦\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T153000
+DTEND;TZID=Asia/Tokyo:20261009T164500
+TRANSP:OPAQUE
+SUMMARY:☕ 伊東豊雄世界級建築「仙台媒體中心 (smt)」（15:30～16:45，停留 1h15m）＆ 1F 落地窗景咖啡歇腿
+DESCRIPTION:【Day 12・✨ 助理推薦】\n15:30 - 16:45【伊東豊雄世界級建築「仙台媒體中心 (smt)」（15:30～16:45，停留 1h15m）＆ 1F 落地窗景咖啡歇腿】：\n步行抵達普立茲克建築獎大師伊東豊雄代表作 【仙台媒體中心 (Sendai Mediatheque - smt)】（全棟以透明玻璃帷幕與 13 根宛如海草般管狀鋼柱構成的劃時代建築名作，免費自由參觀）。\n參觀 1F 開放挑高中庭、藝術選品店，搭乘透明電梯參觀 2F~4F 穿透樓地板的管狀鋼柱圖書館空間。\n於 1F「クレプスキュールカフェ (crépuscule café)」挑高透明大落地窗前點一杯單品咖啡或大吉嶺紅茶歇腿放鬆，坐看定禪寺通林蔭光影。\n🚨 【徹底剔除毛豆奶昔重複消費】：前天（Day 10）於仙台站已品嚐過「ずんだ茶寮」之毛豆麻糬與毛豆奶昔，今日徹底跳過重複門市，專注於大師建築美學與綠意窗景咖啡！\n\n\n🗺️ 仙台媒體中心 (smt): https://www.google.com/maps/search/?api=1&query=%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%BC%E3%82%AF\n\n⚠️ 🚨 【徹底剔除毛豆奶昔重複消費】：前天（Day 10）於仙台站已品嚐過「ずんだ茶寮」之毛豆麻糬與毛豆奶昔，今日徹底跳過重複門市，專注於大師建築美學與綠意窗景咖啡！
+LOCATION:せんだいメディアテーク
+CATEGORIES:✨ 助理推薦\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T170000
+DTEND;TZID=Asia/Tokyo:20261009T190000
+TRANSP:OPAQUE
+SUMMARY:🥩 晚餐【高級壽喜燒・頂級割烹饗宴】：百年精肉老舖「すき焼割烹 かとう」本格 A5 仙台牛壽喜燒コース【🌟 已於ぐるなび訂妥 17:00 テーブル席！
+DESCRIPTION:【Day 12・🥩 極上美食】\n17:00 - 19:00【晚餐【高級壽喜燒・頂級割烹饗宴】：百年精肉老舖「すき焼割烹 かとう」本格 A5 仙台牛壽喜燒コース【🌟 已於ぐるなび訂妥 17:00 テーブル席！】】：\n前往仙台在地名聞遐邇的壽喜燒最高殿堂 「すき焼割烹 かとう」（營業時間：17:00 - 21:30 L.O. 20:30，官方電話 022-225-4129，每週日與國定假日公休，週五正常營業！）。\n由創業近百年之「加藤精肉店」直營，榮獲《米其林指南宮城特別版》推薦名店！\n17:00 開門第一輪入座（🌟 已於ぐるなび訂妥確認！）：享受最頂級的從容服務與最新鮮現切之極品肉質！預約特別鎖定舒適的「テーブル席（一般桌席/椅子席）」（因個室和室需加收包廂服務費，テーブル席不僅免收包廂費，更免脫鞋、久坐兩小時腿部伸展最舒適！），享用已訂妥之晚間頂級名饌 「〈期間限定〉【仙台牛 多彩味わい すき焼堪能コース】全5品（13\,500 円/人）」，含先付旬彩前菜、精緻生魚片刺身/和牛冷涮、桌上特製鑄鐵鍋現煮頂級 A5 仙台牛霜降肉、特調百年秘傳割下醬汁、濃郁新鮮土雞蛋汁、時令野菜盛合、〆讚岐手打烏龍麵與極品甜點。\n免去單程 1 小時以上、來回 2.5 小時長途奔波米澤的疲累，在仙台市區即能享受最正統、最奢華的 A5 和牛壽喜燒！（整整享用 2 小時割烹盛宴）。\n⚠️【飲食禁忌嚴格備註】：預約時已嚴格指名排除芹菜（セロリ）、香菜（パクチー）、水芹（せり）。\n\n⏰ 營業時間：• 晝 11:00 - 14:00 (LO 13:30) ｜ • 準備中 14:00 - 17:00 ｜ • 夜 17:00 - 21:30 (LO 20:40)\n🚫 公休日：日曜日、祝日定休 ｜ (🚨10/11週日與10/12體育之日連假休！Day 12 週五營業完美避開)\n💡 備註：🌟 高級壽喜燒需求 100% 訂妥完封！ 17:00 開門首輪テーブル席入座（省去包廂服務費，久坐舒適好伸展），享用已訂妥之晚間頂級「〈期間限定〉【仙台牛 多彩味わい すき焼堪能コース】全5品（13\,500円/人）」，桌上特製鑄鐵鍋現煮頂級霜降仙台牛，沾新鮮土雞蛋汁。預約已備註嚴格排除芹菜、香菜、水芹。\n\n🗺️ すき焼割烹 かとう: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%8D%E7%84%BC%E5%89%B2%E7%83%B9+%E3%81%8B%E3%81%A8%E3%81%86+%E4%BB%99%E5%8F%B0%E5%B8%82\n\n⚠️ ⚠️【飲食禁忌嚴格備註】：預約時已嚴格指名排除芹菜（セロリ）、香菜（パクチー）、水芹（せり）。
+LOCATION:すき焼割烹 かとう
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it9@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T191500
+DTEND;TZID=Asia/Tokyo:20261009T195500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ㉕：AER 展望テラス (免費 31F 頂樓展望台俯瞰杜之都璀璨夜景)
+DESCRIPTION:【Day 12・🌟 必去景點】\n19:15 - 19:55【必去景點 ㉕：AER 展望テラス (免費 31F 頂樓展望台俯瞰杜之都璀璨夜景)】：\n搭乘高速電梯直達 31 樓 【AER 展望テラス（31 樓免費入場）】（開放時間：10:00 - 20:00）。\n滿足極致高空夜景需求！ 當日 17:09 日落，此時已完全入夜近 2.5 小時，整座仙台市區璀璨燈火通明！站在 31 樓雙側露台，360 度俯瞰廣瀨通璀璨街燈、遠方山海輪廓與新幹線列車如銀河穿梭進出仙台站的震撼夜景！（停留 40 分鐘，從容在 20:00 閉館前下樓）。\n🎉【至此，仙台最核心的 3 大必去景點（博物館 ⑳、仙台城跡 ㉑、AER 展望台 ㉕）全部在抵達仙台的第一個全天（Day 12）一口氣全數提前達成！】\n\n\n🗺️ AER 展望テラス: https://www.google.com/maps/search/?api=1&query=AER+%E5%B1%95%E6%9C%9B%E3%83%86%E3%83%A9%E3%82%B9+%E4%BB%99%E5%8F%B0
+LOCATION:AER 展望テラス
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T210000
+DTEND;TZID=Asia/Tokyo:20261009T223000
+TRANSP:OPAQUE
+SUMMARY:🏨 ♨️ 天然溫泉「枝垂桜 美人的湯」放鬆入浴 ＆ 就寢
+DESCRIPTION:【Day 12・🏨 頂級名宿】\n21:00 - 22:30【♨️ 天然溫泉「枝垂桜 美人的湯」放鬆入浴 ＆ 就寢】：\n於飯店男女分立天然溫泉大浴場（那須塩原天然源泉直送，通宵開放）舒緩全身，享受溫泉好眠。\n
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d12-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261009T210000
+DTEND;TZID=Asia/Tokyo:20261009T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟
+DESCRIPTION:【Day 12・🏨 頂級名宿】\n住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟】：スーパーホテル仙台駅東口天然温泉 🚶 步行回飯店（連住第 2 晚）。\n\n\n🗺️ スーパーホテル仙台駅東口天然温泉: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-13-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 13・山寺・作並】宮城峽威士忌・山寺・洋食HACHI漢堡排
+DESCRIPTION:行程：有機健康早餐 ➔ JR 仙山線直通 ➔ Nikka 威士忌 宮城峽蒸餾所(晨間酒廠見學與品酩) ➔ 仙山線接駁 ➔ 山寺參道名物手打生蕎麥麵 ➔ 山寺 (立石寺)千階石梯登山健行(午後代謝酒精) ➔ 普通電車直達返仙台 ➔ 天然溫泉舒緩 ➔ 1F Lounge Welcome Bar 地酒暢飲 ➔ 🎯【指定美食需求：頂級洋食漢堡排】日本漢堡排大賽冠軍「洋食 HACHI (ハチ) 仙台站店」(黃金比例手打噴汁漢堡排 ＆ 鐵板拿坡里義大利麵・仙台站構內直達) ➔ 回飯店繼續 Welcome Bar 微醺暢飲 ＆ 天然溫泉【蒸餾所移至晨間・間隔 5.5 小時無酒精連環負擔・直達電車零空窗！】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，全日輕裝搭乘 JR 仙山線跨縣出擊 Nikka 宮城峽威士忌蒸餾所、山形山寺（立石寺）千階登頂。\n\n完整行程：./itinerary.html#day-13
+LOCATION:山寺・作並
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T071500
+DTEND;TZID=Asia/Tokyo:20261010T075500
+TRANSP:OPAQUE
+SUMMARY:🍴 🥐 飯店健康早餐 Buffet（專案已含朝食 🌟）
+DESCRIPTION:【Day 13・🥩 極上美食】\n07:15 - 07:55【🥐 飯店健康早餐 Buffet（專案已含朝食 🌟）】：\n於 2F 餐廳享用現烤麵包與有機沙拉、熱咖啡（專案已含朝食 🌟・住客免費招待 0 円），充足營養為整天行程儲備活力！
+LOCATION:山寺・作並
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T092000
+DTEND;TZID=Asia/Tokyo:20261010T112000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑲：Nikka 威士忌 宮城峽蒸餾所（🌟已預約妥當！10:00～11:10 蒸餾廠導覽 ＆ 晨間威士忌品酩）
+DESCRIPTION:【Day 13・🌟 必去景點】\n09:20 - 11:20【必去景點 ⑲：Nikka 威士忌 宮城峽蒸餾所（🌟已預約妥當！10:00～11:10 蒸餾廠導覽 ＆ 晨間威士忌品酩）】：\nNikka 威士忌 宮城峽蒸餾所 (Nikka Whisky Miyagikyo)（見學受付：09:00 - 11:30 / 12:30 - 14:30，商店與試飲 09:15 - 16:15）。\n🌟 已預約妥當！已訂妥 2026/10/10 (週六) 10:00～11:10 梯次「蒸溜所ガイドツアー」！09:20 搭乘接駁車抵達酒廠正門後，擁有整整 40 分鐘（09:20～10:00）超充裕餘裕！慢條斯理在遊客中心辦理報到手續、寄放大外套與隨身背包、欣賞迎賓大廳歷史展示與巨大蒸餾器模型、上洗手間，徹底告別趕場焦慮！\n10:00 準時由專人導覽展開 70 分鐘見學行程：漫步綠意盎然的新川與廣瀨川交會處紅磚酒廠、參觀傳統單式蒸餾器（Pot Still）與橡木桶熟成庫（約 50 分鐘），隨後前往品酩大廳享受 免費威士忌試飲（單一麥芽宮城峽、Super Nikka、蘋果酒等 3 款約 20 分鐘）。約 11:10 見學結束後，有 20 分鐘於特產店選購限定威士忌與 Key Malt 原酒，隨後搭乘 11:30 免費接駁車返回作並站！\n🚨 極致 Gastro-Logistics 飲酒配速調節：將威士忌品酩安排於晨間（約 10:50~11:10），與傍晚 17:00 飯店 Welcome Bar 地酒之間維持整整 5.5 小時長效消化代謝間隔，徹底告別午後連環飲酒的生理負擔！\n\n\n🗺️ Nikka 威士忌 宮城峽蒸餾所: https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%83%E3%82%AB%E3%82%A6%E3%83%9F%E3%82%B9%E3%82%AD%E3%83%BC+%E5%AE%AE%E5%9F%8E%E5%B3%A1%E8%92%B8%E6%BA%9C%E6%89%80\n\n⚠️ 🚨 極致 Gastro-Logistics 飲酒配速調節：將威士忌品酩安排於晨間（約 10:50~11:10），與傍晚 17:00 飯店 Welcome Bar 地酒之間維持整整 5.5 小時長效消化代謝間隔，徹底告別午後連環飲酒的生理負擔！
+LOCATION:ニッカウヰスキー 宮城峡蒸溜所
+CATEGORIES:🌟 必去景點\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：必去景點 ⑲：Nikka 威士忌 宮城峽蒸餾所（🌟已預約妥當 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T121000
+DTEND;TZID=Asia/Tokyo:20261010T125500
+TRANSP:OPAQUE
+SUMMARY:🍜 午餐【山寺參道名物手打生蕎麥麵】：美登屋 / 瀧不動生そば
+DESCRIPTION:【Day 13・🥩 極上美食】\n12:10 - 12:55【午餐【山寺參道名物手打生蕎麥麵】：美登屋 / 瀧不動生そば】：\n正好在正午黃金用餐時間抵達山寺站前參道老舖名店 「美登屋」 或 「瀧不動生そば」！\n品嚐山形名物手打生蕎麥麵（十割板蕎麥麵）、名物力餅（ずんだ毛豆泥麻糬）與現炸秋季野菜天婦羅。\n極致 gastro-logistics 調節：蕎麥麵優質碳水化合物與熱熱的高湯即時補充水分與糖分，加速晨間微量酒精代謝，為下午登山蓄積飽滿體能！（停留 45 分鐘）。\n\n⏰ 營業時間：• 10:30 - 16:00 ｜ • 售完為止 ｜ • 無下午中休み\n🚫 公休日：不定休 ｜ (連假 10/10 登山旺季全力營業)\n💡 備註：晨間酒廠見學後搭仙山線直達山寺參道正午享用！ 品嚐手打十割板蕎麥麵（板そば）、名物力餅（ずんだ毛豆泥麻糬）與現炸當季野菜天婦羅。優質碳水與熱湯補充水分加速代謝晨間酒精，為下午征服千階蓄積飽滿體能！\n\n🗺️ 美登屋: https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E7%99%BB%E5%B1%8B+%E5%B1%B1%E5%AF%BA\n🗺️ 瀧不動生そば: https://www.google.com/maps/search/?api=1&query=%E7%80%A7%E4%B8%8D%E5%8B%95%E7%94%9F%E3%81%9D%E3%81%B0+%E5%B1%B1%E5%AF%BA
+LOCATION:山寺 美登屋
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it9@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T130000
+DTEND;TZID=Asia/Tokyo:20261010T151500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 松尾芭蕉名剎：山寺 (寶珠山立石寺) 千層石階 ＆ 五大堂絕景（午後登山深度代謝）
+DESCRIPTION:【Day 13・🏛️ 文化名勝】\n13:00 - 15:15【松尾芭蕉名剎：山寺 (寶珠山立石寺) 千層石階 ＆ 五大堂絕景（午後登山深度代謝）】：\n山寺 (寶珠山立石寺)（參拜時間：08:00 - 17:00，最終入山 16:00，入山門票 500 円【2026 最新改定入山料：大人 500 円、小人 200 円】）。\n登上 1015 階清幽石梯，穿過仁王門、開山堂，登上奇岩絕壁 「五大堂」 居高臨下懸空俯瞰整座山谷壯麗秋色！\n午後健行有氧運動大量排汗，使晨間酒精完全代謝一空，登頂後神清氣爽！（停留 2 小時 15 分鐘）。\n\n\n🗺️ 山寺 (寶珠山立石寺): https://www.google.com/maps/search/?api=1&query=%E5%AE%9D%E7%8F%A0%E5%B1%B1+%E7%AB%8B%E7%9F%B3%E5%AF%BA+%E5%B1%B1%E5%AF%BA
+LOCATION:宝珠山 立石寺
+CATEGORIES:🏛️ 文化名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T164000
+DTEND;TZID=Asia/Tokyo:20261010T171500
+TRANSP:OPAQUE
+SUMMARY:🏨 🍶 登山後的極致犒賞：天然溫泉「枝垂桜 美人的湯」＆ 飯店 1F Welcome Bar 首輪品酩
+DESCRIPTION:【Day 13・🏨 頂級名宿】\n16:40 - 17:15【🍶 登山後的極致犒賞：天然溫泉「枝垂桜 美人的湯」＆ 飯店 1F Welcome Bar 首輪品酩】：\n步行 3 分鐘回到【スーパーホテル仙台駅東口】。\n先於天然溫泉大浴場洗淨汗水、舒緩今日登山乳酸堆積。\n17:00 準時至 1F Lounge 享用免費 Welcome Bar，小酌第一輪宮城在地地酒（浦霞、一之藏 等純米酒）或 Highball，輕鬆開胃（停留約 35 分鐘）。\n
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T171500
+DTEND;TZID=Asia/Tokyo:20261010T183500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【🎯 需求檢核】：日式頂級漢堡排・日本漢堡排大賽冠軍「洋食 HACHI (ハチ) 仙台站店」【🟢 現場排隊入座・黃金比例手打噴汁漢堡排 ＆ 鐵板拿坡里義大利麵
+DESCRIPTION:【Day 13・🥩 極上美食】\n17:15 - 18:35【晚餐【🎯 需求檢核】：日式頂級漢堡排・日本漢堡排大賽冠軍「洋食 HACHI (ハチ) 仙台站店」【🟢 現場排隊入座・黃金比例手打噴汁漢堡排 ＆ 鐵板拿坡里義大利麵】】：\n自 Super Hotel 步出穿過 2F 東西連絡通路天橋僅步行 3~4 分鐘，直達仙台站 3F 構內（牛舌通/壽司通旁）名店 「洋食 HACHI 仙台站店」（營業時間：10:00 - 22:30，無休）。\n【🌟 連假週六神級調度・提早入座避峰】：\n1. 對調享用【頂級漢堡排】需求：原定 Day 15 享用，因陽だまり食堂今日臨時店休，果斷與 Day 15 晚餐順序對調！\n2. 超近距離 ＆ 零奔波：洋食 HACHI 位於仙台站 3F 構內，離東口 Super Hotel 步行僅 3 分鐘，完全不用冒雨或吹風遠行。\n3. 品嚐傳奇冠軍風味：大啖日本漢堡排大賽奪冠之「招牌黃金比例 7:3 手打噴汁漢堡排」，淋上傳承半世紀的濃厚多蜜醬汁與太陽蛋，鐵板滋滋作響、肉汁豐沛狂湧，搭配經典鐵板拿坡里義大利麵，極致噴香滿足！\n【🥩 頂級洋食漢堡排指定美食需求順利達成！】（停留約 1 小時 20 分鐘）。\n\n⏰ 營業時間：• 10:00 - 21:30 ｜ • LO 21:00 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休 ｜ (連假正常營業)\n💡 備註：🎯 達成指定需求【頂級洋食漢堡排】！ 位於仙台站 3F 構內（牛舌通旁，自 Super Hotel 穿過自由通路步行僅 3 分鐘）。大啖日本漢堡排大賽冠軍手打 7:3 噴汁漢堡排與鐵板拿坡里義大利麵。吃飽 18:40 輕鬆散步回飯店，18:45～21:00 悠閒享受 1F Lounge Welcome Bar 地酒暢飲整整 2 小時 15 分鐘！\n\n🗺️ 洋食 HACHI (ハチ) 仙台站店: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%83%81+%E4%BB%99%E5%8F%B0%E9%A7%85%E5%BA%97\n\n⚠️ 【🌟 連假週六神級調度・提早入座避峰】：
+LOCATION:洋食 HACHI
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it15@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T210000
+DTEND;TZID=Asia/Tokyo:20261010T223000
+TRANSP:OPAQUE
+SUMMARY:🥩 ♨️ 天然溫泉「枝垂桜 美人的湯」深層舒緩腿部肌肉 ＆ 就寢
+DESCRIPTION:【Day 13・🏨 頂級名宿】\n21:00 - 22:30【♨️ 天然溫泉「枝垂桜 美人的湯」深層舒緩腿部肌肉 ＆ 就寢】：\n於天然溫泉大浴場泡湯，徹底消除登山乳酸堆積，享受優質好眠。\n
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d13-it16@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261010T210000
+DTEND;TZID=Asia/Tokyo:20261010T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟
+DESCRIPTION:【Day 13・🏨 頂級名宿】\n住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟】：スーパーホテル仙台駅東口天然温泉 🚶 步行回飯店（連住第 3 晚）。\n\n\n🗺️ スーパーホテル仙台駅東口天然温泉: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-14-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 14・仙台市】瑞鳳殿・だし廊・Welcome Bar
+DESCRIPTION:行程：伊達政宗靈廟「瑞鳳殿」➔ 飛魚高湯拉麵だし廊 ➔ 仙台市區悠閒散策 ＆ AER 展望台 ➔ 🌟 16:30 離峰早晚餐ガスト Gusto 仙台名掛丁店(爆漿起司漢堡排・避開三連休塞車潮) ➔ 17:40 早歸飯店 ＆ 提早洗衣(避開夜間尖峰零等待) ➔ 1F Lounge 免費 Welcome Bar 地酒微醺暢飲 ➔ 天然溫泉「枝垂桜 美人的湯」【離峰美饌・零折返順向動線・提早洗衣極度從容】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，全日輕裝參觀瑞鳳殿、品嚐だし廊飛魚拉麵、享受飯店 4 小時 Welcome Bar 地酒暢飲與 Gusto 家庭餐廳晚宴！\n\n完整行程：./itinerary.html#day-14
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T081500
+DTEND;TZID=Asia/Tokyo:20261011T093000
+TRANSP:OPAQUE
+SUMMARY:🍴 🥐 飯店健康有機早餐 Buffet（專案已含朝食 🌟・從容享用）
+DESCRIPTION:【Day 14・🥩 極上美食】\n08:15 - 09:30【🥐 飯店健康有機早餐 Buffet（專案已含朝食 🌟・從容享用）】：\n於 2F 悠閒享用現烤有機麵包、有機野菜沙拉、熱咖啡（專案已含朝食 🌟・住客免費招待 0 円），免外出覓食輕鬆無負擔。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T100000
+DTEND;TZID=Asia/Tokyo:20261011T113000
+TRANSP:OPAQUE
+SUMMARY:🏛️ / 11:45【伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・雙節奏自由彈性）
+DESCRIPTION:【Day 14・🏛️ 文化名勝】\n10:00 - 11:30 / 11:45【伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・雙節奏自由彈性）】：\n瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。\n【🌟 智慧避峰：告別三連休動物園家庭喧囂狂潮】：日本秋季三連休中日（週日），八木山動物公園湧入海量家庭與幼童推擠塞車；特將動物園調至平日，改排幽靜莊嚴之伊達政宗長眠聖地「瑞鳳殿」！\n穿過兩旁高聳蔽日的百年巨杉參道與深邃石階，參觀極盡安土桃山奢華藝術之正殿（瑞鳳殿）、二代忠宗感仙殿與三代綱宗善應殿，以及展示政宗公頭骨復原模型之資料館。極彩五色雕刻、金箔飾件與黑漆沈穩典雅，秋風吹拂杉林沙沙作響，靜謐洗滌身心（停留約 85~105 分鐘，時間綽綽有餘！）。\n\n\n🗺️ 瑞鳳殿 (Zuihoden): https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E9%B3%B3%E6%AE%BF+%E4%BB%99%E5%8F%B0%E5%B8%82\n\n⚠️ 瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。
+LOCATION:瑞鳳殿
+CATEGORIES:🏛️ 文化名勝\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T115000
+DTEND;TZID=Asia/Tokyo:20261011T130000
+TRANSP:OPAQUE
+SUMMARY:🍜 / 12:10 - 13:00【特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休
+DESCRIPTION:【Day 14・🥩 極上美食】\n11:50 / 12:10 - 13:00【特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休】】：\n步行 3 分鐘抵達仙台拉麵百名店第一名 「だし廊 -DASHIRO- 仙台南町通り本店」（Tabelog 3.68，營業時間：11:00 - 21:00 全日通し営業無中休，無休）。\n品嚐招牌飛魚貝類熟成醬油拉麵（飛魚だし醤油らーめん），天然海味高湯鮮甜甘美，搭配自家製細麵，層次深邃回味無窮！（停留約 50~60 分鐘）。\n\n⏰ 營業時間：• 11:00 - 21:00 ｜ • LO 20:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休 ｜ (連假正常營業)\n💡 備註：仙台拉麵美學代表，以天然飛魚乾、三陸貝類熬製黃金澄清高湯，搭配自製小麥細麵與舒肥叉燒，湯頭層次豐富細膩，全日無中休好排隊。\n\n🗺️ だし廊 -DASHIRO- 本店: https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%97%E5%BB%8A+%E6%9C%AC%E5%BA%97+%E4%BB%99%E5%8F%B0
+LOCATION:だし廊 -DASHIRO- 本店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T130000
+DTEND;TZID=Asia/Tokyo:20261011T133000
+TRANSP:OPAQUE
+SUMMARY:🏛️ / 13:10 - 16:20【午後悠閒市區散策 ＆ AER 31F 展望台 ＆ 名掛丁拱廊漫步
+DESCRIPTION:【Day 14・🌟 必去景點】\n13:00 / 13:10 - 16:20【午後悠閒市區散策 ＆ AER 31F 展望台 ＆ 名掛丁拱廊漫步】：\n漫步名掛丁拱廊、S-PAL 百貨或一番町商圈，登上 AER 31F 展望台俯瞰秋日杜之都全景，享受午後購物與生活雜貨採買（依然保有整整 3 小時 10 分鐘以上充裕時間，步調極度悠閒！）。\n
+LOCATION:AER 展望テラス
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T163000
+DTEND;TZID=Asia/Tokyo:20261011T173000
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【日本家庭餐廳特色體驗】：ガスト Gusto 仙台名掛丁店 🚶 步行導航【🟢 16:30 離峰早晚餐・免排隊出餐極速・零折返跑順向回飯店
+DESCRIPTION:【Day 14・🥩 極上美食】\n16:30 - 17:30【晚餐【日本家庭餐廳特色體驗】：ガスト Gusto 仙台名掛丁店 🚶 步行導航【🟢 16:30 離峰早晚餐・免排隊出餐極速・零折返跑順向回飯店】】：\n於 16:30 步入名掛丁拱廊內的 【ガスト Gusto 仙台名掛丁店】（營業時間：07:00 - 23:30 全日通し営業，青葉區中央 1-8-25）。\n【🌟 提早至 16:30 用餐四大神級優勢】：\n1. 避開三連休週日晚間客滿塞車：日本連假週日 18:00 以後家庭客與遊客大量湧入，提早於 16:30 離峰入座完全零等待，隨到隨進！\n2. 生理胃容量完美配速：中午 12:45 吃完だし廊拉麵，間隔近 4 小時消食，胃袋輕鬆無負擔，大啖招牌超濃爆漿起司漢堡排（チーズINハンバーグ）、可愛貓咪送餐機器人、無限冷熱飲品吧與平價聖代！\n3. 零折返跑順向動線：在名掛丁拱廊逛完街直接進店用餐，吃飽後沿自由通路步行 6 分鐘直達飯店，一回飯店從此不用再出門！\n4. 為晚間提早洗烘衣物釋放黃金時間（停留 1 小時）。\n\n⏰ 營業時間：• 06:00/07:00 - 23:00 ｜ • LO 22:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休 ｜ (連假正常營業)\n💡 備註：🌟 連假週日離峰早晚餐 ＆ 順向早歸洗衣泡湯！ 日本三連休週日晚間市區餐飲嚴重客滿塞車，提早至 16:30 離峰進場零等待入座，大啖爆漿起司漢堡排與飲品吧；17:30 完食順向步行 6 分鐘直達飯店，17:35 早歸從容展開第 5 次洗衣、享用 1F Welcome Bar 地酒暢飲與枝垂櫻美人湯！\n\n🗺️ ガスト Gusto 仙台名掛丁店: https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%82%B9%E3%83%88+%E4%BB%99%E5%8F%B0%E5%90%8D%E6%8E%9B%E4%B8%81%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%AC%E3%82%B9%E3%83%88+%E4%BB%99%E5%8F%B0%E5%90%8D%E6%8E%9B%E4%B8%81%E5%BA%97&travelmode=walking\n\n⚠️ 1. 避開三連休週日晚間客滿塞車：日本連假週日 18:00 以後家庭客與遊客大量湧入，提早於 16:30 離峰入座完全零等待，隨到隨進！
+LOCATION:ガスト Gusto 仙台名掛丁店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T200000
+DTEND;TZID=Asia/Tokyo:20261011T213000
+TRANSP:OPAQUE
+SUMMARY:🏨 ♨️ 天然溫泉「枝垂桜 美人的湯」極上夜間泡湯放鬆 ＆ 優質好眠
+DESCRIPTION:【Day 14・🏨 頂級名宿】\n20:00 - 21:30【♨️ 天然溫泉「枝垂桜 美人的湯」極上夜間泡湯放鬆 ＆ 優質好眠】：\n於 2F 天然溫泉大浴場悠閒享受美人湯溫泉入浴，徹底舒緩身心肌肉疲勞。\n回房悠閒看電視放鬆，22:00 前舒適躺床安睡，時間極度充裕從容！\n
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d14-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261011T210000
+DTEND;TZID=Asia/Tokyo:20261011T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟
+DESCRIPTION:【Day 14・🏨 頂級名宿】\n住宿【城市基地 ③ 仙台東口天然溫泉名宿・已訂妥🌟】：スーパーホテル仙台駅東口天然温泉 🚶 步行回飯店（連住第 4 晚）。\n\n\n🗺️ スーパーホテル仙台駅東口天然温泉: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9B%E3%83%86%E3%83%AB%E4%BB%99%E5%8F%B0%E9%A7%85%E6%9D%B1%E5%8F%A3%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-15-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 15・仙台市】國寶大崎八幡宮・Richmond午茶・陽だまり食堂蛋包飯
+DESCRIPTION:行程：退房轉移行李 ➔ 仙台唯一國寶「大崎八幡宮」➔ 14:00入住極上商務名宿 ➔ 迎賓手作馬芬下午茶 ＆ 霜淇淋 ➔ 🎯【需求檢核：日式蛋包飯】名物蛋包飯專門店「陽だまり食堂」(備案：ぴかぴかぶー / ORANGE TREE) ➔ 5F免費現煮鴨蕎麥麵宵夜【市區直達國寶古蹟・免除偏鄉遠程舟車勞頓・100%大眾運輸零計程車・純享名宿頂級禮遇】\n\n行李與換宿：🧳 同城換宿仙台西口：Super Hotel 退房，行李推過仙台站直達西口「リッチモンドホテル プレミア仙台駅前（直通拱廊街）」提前寄存，搭乘市區公車直達參拜國寶大崎八幡宮，下午14:00提早入住享用免費下午茶霜淇淋與手作馬芬！\n\n完整行程：./itinerary.html#day-15
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T074500
+DTEND;TZID=Asia/Tokyo:20261012T083500
+TRANSP:OPAQUE
+SUMMARY:🍴 🥐 飯店健康早餐 Buffet（專案已含朝食 🌟）
+DESCRIPTION:【Day 15・🥩 極上美食】\n07:45 - 08:35【🥐 飯店健康早餐 Buffet（專案已含朝食 🌟）】：\n於 2F 享用現烤可頌麵包、有機野菜沙拉與熱湯（專案已含朝食 🌟・住客免費招待 0 円）。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T084000
+DTEND;TZID=Asia/Tokyo:20261012T090000
+TRANSP:OPAQUE
+SUMMARY:🏨 🧳 Super Hotel 退房 ＆ 大行李轉移至新飯店寄存
+DESCRIPTION:【Day 15・🏨 頂級名宿】\n08:40 - 09:00【🧳 Super Hotel 退房 ＆ 大行李轉移至新飯店寄存】：\n辦理 Super Hotel 退房（東口），推大行李經由仙台站東西連絡通路步行 6~8 分鐘至西口 【リッチモンドホテル プレミア仙台駅前】 🚶 步行導航（仙台東寶大樓 5F 大廳）辦理預先入住手續並寄存大行李（仙台站西口步行僅 3 分鐘，直通拱廊商圈！）。\n\n\n🗺️ リッチモンドホテル プレミア仙台駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:スーパーホテル仙台駅東口天然温泉
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T093500
+DTEND;TZID=Asia/Tokyo:20261012T113500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 仙台唯一的日本國寶建築：大崎八幡宮 (Osaki Hachimangu)（💡 行程國寶古蹟・非必去/非檢核表）
+DESCRIPTION:【Day 15・🏛️ 國寶古蹟】\n09:35 - 11:35【仙台唯一的日本國寶建築：大崎八幡宮 (Osaki Hachimangu)（💡 行程國寶古蹟・非必去/非檢核表）】：\n大崎八幡宮（境內 24 小時自由開放，社務所 09:00 - 17:00，全年無休，境內自由參拜完全免費 0 円）。\n慶長 12 年（1607 年）由伊達政宗延攬京都當代頂級工匠建造之總鎮守名剎。本殿與拜殿以「石の間」相連，為全日本現存最古老之「權現造」神殿（日光東照宮之藍本原型）。安土桃山黑漆基調、金箔鑲嵌與極彩花鳥人物雕刻兼具豪放武風與京都雅韻，漫步大杉林蔭石階參拜祈求厄除開運與勝運（停留整整 2 小時，深度慢遊古剎靈氣）。\n\n\n🗺️ 大崎八幡宮 (Osaki Hachimangu): https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%B4%8E%E5%85%AB%E5%B9%A1%E5%AE%AE+%E4%BB%99%E5%8F%B0%E5%B8%82
+LOCATION:国宝 大崎八幡宮
+CATEGORIES:🏛️ 國寶古蹟\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it6@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T120000
+DTEND;TZID=Asia/Tokyo:20261012T135000
+TRANSP:OPAQUE
+SUMMARY:🍴 仙台站前商圈悠閒午餐 ＆ 站前漫步採買
+DESCRIPTION:【Day 15・🥩 極上美食】\n12:00 - 13:50【仙台站前商圈悠閒午餐 ＆ 站前漫步採買】：\n返回仙台站西口，於 S-PAL 仙台地下街或 Clis Road 拱廊商圈悠閒享用午餐與咖啡甜點，逛逛日系生活雜貨，從容等待 14:00 開放入住（停留 1 小時 50 分鐘）。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T135000
+DTEND;TZID=Asia/Tokyo:20261012T140000
+TRANSP:OPAQUE
+SUMMARY:🏨 步行返回飯店大廳等候開放入住
+DESCRIPTION:【Day 15・🏨 頂級名宿】\n13:50 - 14:00【步行返回飯店大廳等候開放入住】：\n散步返回飯店 5F 大廳等候準時開放入住。\n
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T140000
+DTEND;TZID=Asia/Tokyo:20261012T153000
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 準時 Check-in 進房 ＆ 5F プレミアラウンジ 迎賓下午茶 ＆ 霜淇淋 🧁🍦
+DESCRIPTION:【Day 15・🏨 頂級名宿】\n14:00 - 15:30【🏨 準時 Check-in 進房 ＆ 5F プレミアラウンジ 迎賓下午茶 ＆ 霜淇淋 🧁🍦】：\n抵達 【リッチモンドホテル プレミア仙台駅前】 準時進房（尊享 14:00 提早入住特權，比一般飯店提早 1 小時！）。\n大行李直接推進寬敞客房，稍作梳洗後至 5F プレミアラウンジ (Premier Lounge) 享受頂級住宿專屬禮遇：\n迎賓手作甜點（14:00 - 17:30 提供）：免費享用名店「Mrs. Elizabeth Muffin」每日限量出爐的手作現烤馬芬蛋糕！\n免費軟飲 ＆ 特製霜淇淋（12:00 - 23:00 開放）：無限享用濃郁北海道生乳霜淇淋、研磨現煮咖啡、精選茶飲與各類冷飲。\nWelcome Drink 迎賓酒水：每位房客可免費兌換專屬迎賓酒精飲品（生啤酒、紅白酒）或特調飲品 1 杯！\n
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T165000
+DTEND;TZID=Asia/Tokyo:20261012T170000
+TRANSP:OPAQUE
+SUMMARY:🍴 步行 3 分鐘前往陽だまり食堂（提前卡位 17:00 開門首輪第一組）
+DESCRIPTION:【Day 15・🥩 極上美食】\n16:50 - 17:00【步行 3 分鐘前往陽だまり食堂（提前卡位 17:00 開門首輪第一組）】：\n自 Richmond Hotel Premier 走出大門即為 Clis Road 拱廊街，步行僅 3 分鐘（250m）即達豊榮堂大樓 B1F，16:55 門前就位，成為晚間開門第一組客人！\n\n⏰ 營業時間：• 午間 11:00 起 ｜ • 晚間 17:00 - 21:00 ｜ • LO 20:15 ｜ • (官方 IG 核實晚間 17:00 開門)\n🚫 公休日：不定休 ｜ (連假正常營業)\n💡 備註：🎯 達成指定需求【日式洋食蛋包飯】！ 位於青葉區中央 2-6-19 豊榮堂大樓 B1F（離 Richmond Premier 步行僅 3 分鐘 / 250m 出門直通 Clis Road）。官方 IG 最新公告晚間自 17:00 開始營業，安排 16:55 抵達卡位 17:00 開門首輪第一組直進入座，分秒不差免排隊！必點招牌「紅酒牛肉多蜜醬半熟爆漿蛋包飯【指名：ふわふわ卵（タンポポ風）】」。出餐僅 5~8 分鐘，約 17:45 完食，享受整整 2 小時拱廊街夜間漫步消食，回飯店完美銜接 20:00 限量免費現煮鴨蕎麥麵宵夜！備案為一番町「ぴかぴかぶー」（刀切流派）或「ORANGE TREE」。
+LOCATION:陽だまり食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T170000
+DTEND;TZID=Asia/Tokyo:20261012T174500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【🎯 需求檢核】：日式洋食蛋包飯 (オムライス)・仙台第一名物蛋包飯專門店「陽だまり食堂」【🌟 17:00開門首輪第一組直進・出餐神速零等待・達成指定美食需求
+DESCRIPTION:【Day 15・🥩 極上美食】\n17:00 - 17:45【晚餐【🎯 需求檢核】：日式洋食蛋包飯 (オムライス)・仙台第一名物蛋包飯專門店「陽だまり食堂」【🌟 17:00開門首輪第一組直進・出餐神速零等待・達成指定美食需求】】：\n於 17:00 準時入座 位於青葉區中央 2-6-19 豊榮堂大樓 B1F 的仙台第一名物蛋包飯專門店 「陽だまり食堂」（營業時間：午間 11:00 起 / 晚間 17:00 - 21:00，LO 20:15，電話：022-399-7721，官方 Instagram 最新核實晚間 17:00 開始營業）。\n【🌟 連假收假日完美用餐策略】：\n1. 正選：陽だまり食堂【指名：ふわふわ卵（タンポポ風）】：圓滾滾半熟蛋包端坐炒飯上，附專用小刀，親自劃開享受金黃蛋液「パッカーン！」向兩側崩塌流淌的極致療癒感！佐以熬煮數日的濃厚紅酒牛肉多蜜醬（牛ほほ肉デミグラスソース）。\n2. 開門首輪極速出餐 ＆ 徹底解放消化時間：成為晚間開門第一組客人，完全免排隊，入座點餐後僅 5~8 分鐘熱騰騰出餐！約 17:45 完食，距離 20:00 飯店免費現煮鴨蕎麥麵宵夜整整留出 長達 2 小時 15 分鐘的黃金消化消食空檔，徹底杜絕腸胃過飽負擔！\n3. 雙保險備案名店（若遇排隊或休業）：\n備案 A【隱家洋食の店 ぴかぴかぶー】：沿拱廊街步行 5 分鐘至一番町 2-7-3 サンモールCityビル 2F（營業時間 17:00-23:00，電話 022-200-6244），同樣為刀切流動系歐姆蛋包飯！\n備案 B【ORANGE TREE】：陽だまり食堂轉角 30m（庄文堂大樓 2F，白石產藏王地養卵極致滑蛋）。\n\n⏰ 營業時間：• 午間 11:00 起 ｜ • 晚間 17:00 - 21:00 ｜ • LO 20:15 ｜ • (官方 IG 核實晚間 17:00 開門)\n🚫 公休日：不定休 ｜ (連假正常營業)\n💡 備註：🎯 達成指定需求【日式洋食蛋包飯】！ 位於青葉區中央 2-6-19 豊榮堂大樓 B1F（離 Richmond Premier 步行僅 3 分鐘 / 250m 出門直通 Clis Road）。官方 IG 最新公告晚間自 17:00 開始營業，安排 16:55 抵達卡位 17:00 開門首輪第一組直進入座，分秒不差免排隊！必點招牌「紅酒牛肉多蜜醬半熟爆漿蛋包飯【指名：ふわふわ卵（タンポポ風）】」。出餐僅 5~8 分鐘，約 17:45 完食，享受整整 2 小時拱廊街夜間漫步消食，回飯店完美銜接 20:00 限量免費現煮鴨蕎麥麵宵夜！備案為一番町「ぴかぴかぶー」（刀切流派）或「ORANGE TREE」。\n\n🗺️ 陽だまり食堂: https://www.google.com/maps/search/?api=1&query=%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%E9%A3%9F%E5%A0%82+%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E4%B8%AD%E5%A4%AE\n🗺️ 隱家洋食の店 ぴかぴかぶー: https://www.google.com/maps/search/?api=1&query=%E9%9A%A0%E3%82%8C%E5%AE%B6%E6%B4%8B%E9%A3%9F%E3%81%AE%E5%BA%97+%E3%81%B4%E3%81%8B%E3%81%B4%E3%81%8B%E3%81%B4%E3%83%BC+%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E4%B8%80%E7%95%AA%E7%94%BA\n\n⚠️ 【🌟 連假收假日完美用餐策略】：
+LOCATION:陽だまり食堂
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T174500
+DTEND;TZID=Asia/Tokyo:20261012T195500
+TRANSP:OPAQUE
+SUMMARY:🎯 一番町 ＆ Clis Road 拱廊街夜間漫步採買消食 ＆ 返回飯店
+DESCRIPTION:【Day 15・🎯 特色體驗】\n17:45 - 19:55【一番町 ＆ Clis Road 拱廊街夜間漫步採買消食 ＆ 返回飯店】：\n吃完從容在拱廊街散步逛逛日系生活雜貨、藥妝店或書店，享受連假最後一晚仙台市區燈火通明的夜間商圈氛圍（充裕消食近 2 小時），步行 3 分鐘返抵【リッチモンドホテル プレミア仙台駅前】。\n\n⚠️ 吃完從容在拱廊街散步逛逛日系生活雜貨、藥妝店或書店，享受連假最後一晚仙台市區燈火通明的夜間商圈氛圍（充裕消食近 2 小時），步行 3 分鐘返抵【リッチモンドホテル プレミア仙台駅前】。
+LOCATION:仙台市
+CATEGORIES:🎯 特色體驗\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d15-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261012T210000
+DTEND;TZID=Asia/Tokyo:20261012T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟
+DESCRIPTION:【Day 15・🏨 頂級名宿】\n住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟】：リッチモンドホテル プレミア仙台駅前 🚶 步行回飯店（Check-in 14:00 / Check-out 11:00・連住第 1 晚）。\n\n\n🗺️ リッチモンドホテル プレミア仙台駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-16-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 16・仙台市】仙台朝市・水族館・ちからや仙台牛
+DESCRIPTION:行程：仙台朝市(尋找もうかの星) ➔ ヨドバシカメラ マルチメディア仙台(宮城限定吉伊卡哇＆現場退稅) ➔ 辛味噌拉麵みそ壱 ➔ 仙台海洋森林水族館(平日極致舒適) ➔ 🌟 焼肉ダイニング ちからや 仙台駅前店(A5仙台牛＆厚切牛舌極上吃到飽・平日出菜神速！) ➔ 回飯店放鬆休息【宮城限定吉伊卡哇免稅到手・A5銘柄牛吃到飽100%達成・全席禁煙】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝漫步仙台朝市、水族館、ちからや A5 仙台牛吃到飽，晚間享受飯店免費霜淇淋與鴨蕎麥麵宵夜！\n\n完整行程：./itinerary.html#day-16
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T083000
+DTEND;TZID=Asia/Tokyo:20261013T094500
+TRANSP:OPAQUE
+SUMMARY:🐟 必去景點 ㉒：仙台朝市 (尋找三陸限定珍味「もうかの星」)
+DESCRIPTION:【Day 16・🌟 必去景點】\n08:30 - 09:45【必去景點 ㉒：仙台朝市 (尋找三陸限定珍味「もうかの星」)】：\n漫步 【仙台朝市】（營業時間：08:00 - 18:00，每週日公休，週二全面開市熱鬧非凡！）。\n品嚐現炸齋藤可樂餅、秋季水梨與麝香葡萄；在鮮魚攤尋找氣仙沼夢幻珍味 「もうかの星 (鼠鯊心臟刺身)」 沾麻油鹽或生薑醬油鮮脆生食（停留 1 小時 15 分鐘）。\n\n\n🗺️ 仙台朝市: https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E6%9C%9D%E5%B8%82
+LOCATION:仙台朝市
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T113500
+DTEND;TZID=Asia/Tokyo:20261013T114500
+TRANSP:OPAQUE
+SUMMARY:🍴 步行 2 分鐘前往 LOFT 準備享用午餐
+DESCRIPTION:【Day 16・🥩 極上美食】\n11:35 - 11:45【步行 2 分鐘前往 LOFT 準備享用午餐】：\n放好戰利品後下樓，經站前空橋步行 2 分鐘前往站前 LOFT B1F。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T114500
+DTEND;TZID=Asia/Tokyo:20261013T124500
+TRANSP:OPAQUE
+SUMMARY:🍜 特色拉麵 ⑤：仙台辛味噌拉麵名店「仙臺ラーメン みそ壱 仙台ロフト店」【🟢 純現場食券排隊・予約不可
+DESCRIPTION:【Day 16・🥩 極上美食】\n11:45 - 12:45【特色拉麵 ⑤：仙台辛味噌拉麵名店「仙臺ラーメン みそ壱 仙台ロフト店」【🟢 純現場食券排隊・予約不可】】：\n散步 2 分鐘至站前 LOFT B1F 名店 「仙臺ラーメン みそ壱」（營業時間：11:00 - 23:00，無休）。\n品嚐仙台最具代表性的濃厚「黑辛味噌拉麵」或「野菜辛味噌拉麵」，以仙台在地赤味噌融和大蒜、辣油與大火快炒高麗菜豆芽，湯頭極為厚實暖胃（停留 1 小時）。\n\n⏰ 營業時間：• 11:00 - 22:00/23:00 ｜ • LO 21:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休\n💡 備註：散步 2 分鐘至站前 LOFT B1F。品嚐仙台赤味噌融合大蒜、特調辣油與大火爆炒高麗菜豆芽之「黑辛味噌拉麵」，湯頭濃郁香醇，暖胃抗秋涼。\n\n🗺️ 仙臺ラーメン みそ壱 仙台ロフト店: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%9D%E5%A3%B1+%E4%BB%99%E5%8F%B0%E3%83%AD%E3%83%95%E3%83%88%E5%BA%97
+LOCATION:仙臺ラーメン みそ壱 仙台ロフト店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T124500
+DTEND;TZID=Asia/Tokyo:20261013T131500
+TRANSP:OPAQUE
+SUMMARY:☕ 5F プレミアラウンジ 解辣霜淇淋 🍦＆ 現磨咖啡 ☕（12:00 開放・絕妙銜接！）
+DESCRIPTION:【Day 16・🥩 極上美食】\n12:45 - 13:15【5F プレミアラウンジ 解辣霜淇淋 🍦＆ 現磨咖啡 ☕（12:00 開放・絕妙銜接！）】：\n吃完熱辣濃厚的辛味噌拉麵，步行 2 分鐘回飯店 5F 【プレミアラウンジ (Premier Lounge)】（常時服務於 12:00 正式開放！）。\n現場自壓免費冰涼香濃的 北海道特製生乳霜淇淋、倒杯現磨冰咖啡或冷飲去油解辣歇腿，稍作梳洗後再出發，身心無比清爽！
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T140000
+DTEND;TZID=Asia/Tokyo:20261013T162500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ㉔：仙台海洋森林水族館 (Sendai Umino-Mori Aquarium)（三連休後首個平日午後・極致舒適觀賞品質！）
+DESCRIPTION:【Day 16・🌟 必去景點】\n14:00 - 16:25【必去景點 ㉔：仙台海洋森林水族館 (Sendai Umino-Mori Aquarium)（三連休後首個平日午後・極致舒適觀賞品質！）】：\n仙台海洋森林水族館（營業時間：09:00 - 17:30，最終入館 17:00，年中無休，門票 2\,400 円。🌟【直入場免排隊秘訣】：強烈建議出發前於 Asoview！ 或 KKday 線上購買「WEB入館券（直入場 QR Code）」，現場直接於改札口掃碼入館，100% 跳過售票窗口排隊購票！）。\n【🌟 平日極致舒適・免受推擠干擾】：\n與 Day 18 的動物園完全錯開 2 整天，身心零審美疲乏！\n連假結束後首個平日午後，館內遊客極少，三陸大水槽 25000 尾沙丁魚 "Sparkling of Life" 震撼巡遊獨享第一排最佳視野；海豚與海獅戶外劇場輕鬆入座、國王企鵝與黑白海豚自在悠游，觀賞品質全面登頂！（停留 2 小時 25 分鐘，16:20 悠閒步出大門候車）。\n\n\n🗺️ 仙台海洋森林水族館 (Sendai Umino-Mori Aquarium): https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E3%81%86%E3%81%bf%E3%81%AE%E6%9D%9C%E6%B0%B4%E6%97%8F%E9%A4%A8\n\n⚠️ 連假結束後首個平日午後，館內遊客極少，三陸大水槽 25000 尾沙丁魚 "Sparkling of Life" 震撼巡遊獨享第一排最佳視野；海豚與海獅戶外劇場輕鬆入座、國王企鵝與黑白海豚自在悠游，觀賞品質全面登頂！（停留 2 小時 25 分鐘，16:20 悠閒步出大門候車）。
+LOCATION:仙台うみの杜水族館
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T175500
+DTEND;TZID=Asia/Tokyo:20261013T180000
+TRANSP:OPAQUE
+SUMMARY:🥩 步行 3 分鐘前往燒肉店
+DESCRIPTION:【Day 16・🥩 極上美食】\n17:55 - 18:00【步行 3 分鐘前往燒肉店】：\n出飯店步行 3 分鐘前往ちからや。
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T180000
+DTEND;TZID=Asia/Tokyo:20261013T200000
+TRANSP:OPAQUE
+SUMMARY:🥩 重頭戲【A5 銘柄牛吃到飽需求 100% 達標】：焼肉ダイニング ちからや 仙台駅前店 🚶 步行導航（🌟已預約妥當・官方 LINE 預訂・18:00～20:00・全席完全禁煙！）
+DESCRIPTION:【Day 16・🥩 極上美食】\n18:00 - 20:00【重頭戲【A5 銘柄牛吃到飽需求 100% 達標】：焼肉ダイニング ちからや 仙台駅前店 🚶 步行導航（🌟已預約妥當・官方 LINE 預訂・18:00～20:00・全席完全禁煙！）】：\n從飯店散步至中央 1-8-25 マジェスティビル 4F 僅需 3 分鐘，抵達 Google 4.2 星超好評之燒肉名店 「焼肉ダイニング ちからや 仙台駅前店」（平日營業時間：17:00 - 23:00，無休，電話 022-398-7529）。\n🌟【已透過官方 LINE 訂妥確認（予約完了）】：已成功透過官方 LINE 預約 2026年10月13日（火）18:00 ～ 20:00 席位（2 位），方案鎖定官方特惠：「＜LINEで予約限定＞期間限定！！【特選食べ飲み放題・仙台牛三昧】→10\,000円＜歓迎会・送別会＞」！\n【🌟 平日調度避坑大勝】：刻意避開三連休假日的廚房出菜塞車地雷，平日下單切肉出菜神速，120 分鐘用餐時間絕不被拖延卡單！\n【🌟 全席完全禁煙・下吸式無煙烤爐】：徹底排除一般放題店二手菸瀰漫痛點，環境乾淨優雅，吃完身上完全無烤肉異味。\n痛快無限續點頂級 A5 ランク仙台牛特選牛五花、特選仙台牛排、名物特選厚切牛舌（厚切り牛タン）、牛橫膈膜、石鍋拌飯、盛岡冷麵與精緻甜點，搭配生啤地酒沙瓦無限暢飲，真正 100% 實現「A5 銘柄牛吃到飽」極致渴望！（停留 2 小時）。\n（💡 吃到飽備案：若ちからや客滿，備選為同在站前、全席禁煙個室的「和牛焼肉 土古里 仙台店」A5黑毛和牛吃到飽）\n\n⏰ 營業時間：• 平日 15:00 - 23:00 ｜ • 土日祝 11:30 - 23:00 ｜ • 料理 LO 22:00\n🚫 公休日：元旦休 ｜ (平日出菜神速)\n💡 備註：🌟 A5仙台牛吃到飽 100% 訂妥完封！ 已透過官方 LINE 成功訂妥 10/13（週二）18:00～20:00 專屬優惠方案「〈LINEで予約限定〉期間限定！！【特選食べ飲み放題・仙台牛三昧】→10\,000円〈歓迎会・送別会〉」！排在三連休結束後的週二平日，避開連假人潮，100 分鐘狂吃 A5 仙台牛特選牛五花、牛排與厚切牛舌，出菜神速、全席禁煙環境極佳。吃飽散步回飯店享受 5F Lounge 迎賓調酒與解膩霜淇淋！\n\n🗺️ 焼肉ダイニング ちからや 仙台駅前店: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0+%E3%81%A1%E3%81%8B%E3%82%89%E3%82%84+%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E7%84%BC%E8%82%89%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0+%E3%81%A1%E3%81%8B%E3%82%89%E3%82%84+%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D%E5%BA%97&travelmode=walking\n\n⚠️ 【🌟 平日調度避坑大勝】：刻意避開三連休假日的廚房出菜塞車地雷，平日下單切肉出菜神速，120 分鐘用餐時間絕不被拖延卡單！\n⚠️ （💡 吃到飽備案：若ちからや客滿，備選為同在站前、全席禁煙個室的「和牛焼肉 土古里 仙台店 ↗」A5黑毛和牛吃到飽）
+LOCATION:焼肉ダイニング ちからや 仙台駅前店
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：重頭戲【A5 銘柄牛吃到飽需求 100% 達標】：焼肉ダイニ 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d16-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261013T210000
+DTEND;TZID=Asia/Tokyo:20261013T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟
+DESCRIPTION:【Day 16・🏨 頂級名宿】\n住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟】：リッチモンドホテル プレミア仙台駅前 🚶 步行回飯店（連住第 2 晚）。\n\n\n🗺️ リッチモンドホテル プレミア仙台駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-17-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 17・仙台市】客房休息消食・卡拉OK暢唱・閣牛舌刺身
+DESCRIPTION:行程：客房悠閒補眠消食（跳過午餐重置胃袋） ➔ 🎤 卡拉OK館 一番町本店(享平日昼Free Time超值方案・JOYSOUND MAX GO 旗艦機台支援羅馬字歌詞・12:30~18:20 盡情暢唱近6小時消食) ➔ 🚶 拱廊步行1分鐘直達 18:30 🌟【全新指定美饌提前完封】：始祖炙燒牛舌刺身牛たん料理 閣 ブランドーム本店 ➔ 5F現煮鴨蕎麥麵宵夜 ＆ 享受純放鬆優質睡眠【胃袋充分重置・平日Free Time近6小時極致歡唱・老舖牛舌刺身極致盛宴】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，早晨客房悠閒補眠消食重置胃袋，午後一番町卡拉OK包廂歡唱消食近6小時、晚間閣炙燒牛舌刺身。\n\n完整行程：./itinerary.html#day-17
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it0@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T093000
+DTEND;TZID=Asia/Tokyo:20261014T121500
+TRANSP:OPAQUE
+SUMMARY:🍴 客房悠閒補眠消食 ＆ 胃袋充分重置・策略性跳過午餐
+DESCRIPTION:【Day 17・🥩 極上美食】\n09:30 - 12:15【客房悠閒補眠消食 ＆ 胃袋充分重置・策略性跳過午餐】：\n【🌟 胃袋策略性重置・消化昨晚 A5 和牛大餐】：昨晚在「ちからや」享用頂級 A5 仙台牛與厚切牛舌吃到飽，份量十足，今日早晨於客房充分補眠、飲用茶水與純淨水促進消化，策略性跳過今日午餐！\n原定明治 23 年百年老舖「うなぎ 開盛庵」完美順延至 Day 19（週五）晚餐（避開平日午間商務人潮，晚間免排隊享用）。\n【🌟 洗衣節奏靈活調整】：洗衣排程已靈活調整為昨晚（Day 16 夜）與明晚（Day 18 夜），今日全天完全零洗衣負擔，在客房內盡享寧靜放鬆。\n（💡 飯店朝食資訊：【リッチモンドホテル プレミア仙台駅前】房價未含朝食，今日依規劃讓腸胃充分休養，準備迎向午後近 6 小時歡唱與晚間炙燒牛舌盛宴）\n\n⚠️ （💡 飯店朝食資訊：【リッチモンドホテル プレミア仙台駅前】房價未含朝食，今日依規劃讓腸胃充分休養，準備迎向午後近 6 小時歡唱與晚間炙燒牛舌盛宴）
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T121500
+DTEND;TZID=Asia/Tokyo:20261014T123000
+TRANSP:OPAQUE
+SUMMARY:🎤 漫步前往一番町卡拉OK商圈
+DESCRIPTION:【Day 17・🎯 需求景點】\n12:15 - 12:30【漫步前往一番町卡拉OK商圈】：\n12:15 輕裝步出飯店，向西沿中央通與一番町拱廊商店街悠閒漫步約 8 分鐘（約 600m），直達卡拉OK館一番町本店。\n
+LOCATION:カラオケ館 一番町本店
+CATEGORIES:🎯 需求景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T123000
+DTEND;TZID=Asia/Tokyo:20261014T182000
+TRANSP:OPAQUE
+SUMMARY:🎤 娛樂時段極致享受：🎤 日系卡拉OK（🌟已預約妥當！平日午後整整近 6 小時（5h50m）暢唱大包廂・享全週最划算「平日昼 Free Time (至20:00)」超值方案 ＋「1350飲放」酒精無限暢飲・JOYSOUND MAX GO 旗艦機台支援羅馬字歌詞！）
+DESCRIPTION:【Day 17・🎯 需求景點】\n12:30 - 18:20【娛樂時段極致享受：🎤 日系卡拉OK（🌟已預約妥當！平日午後整整近 6 小時（5h50m）暢唱大包廂・享全週最划算「平日昼 Free Time (至20:00)」超值方案 ＋「1350飲放」酒精無限暢飲・JOYSOUND MAX GO 旗艦機台支援羅馬字歌詞！）】：\n進入拱廊內的 卡拉OK館 (カラオケ館 一番町本店) 🚶 步行導航（地址：青葉區一番町 3-10-15，電話 022-722-1020）。\n【🌟 預訂完封：鎖定全週最划算「平日昼 Free Time (11:00～20:00)」＋「1350飲放」酒精暢飲・暢唱近 6 小時！】：\n🌟 已完成線上預約！ 預約時段：2026/10/14（週三）12:30 入場，方案：「フリータイム (11:00～20:00)」（室料會員僅 500 円/一般 666 円），加購專屬 「1350飲放」酒精飲料無限暢飲（1\,350 円/人，含檸檬沙瓦、Jim Beam Highball、各式經典調酒與 Tequila Shot）。\n【💡 零折返跑老饕動線・免回飯店直接唱好唱滿】：因預訂為 Free Time 方案（可用至 20:00），完全無超時跳表壓力！根本無須提早中斷退房奔波折返跑回飯店，直接從 12:30 一路盡情歡唱狂飲到 18:20（整整 5 小時 50 分鐘，近 6 小時大滿足！）。\n【🌟 唯一原生支援羅馬字歌詞機種：JOYSOUND MAX GO 旗艦機台】：\n預約時已指名指定 「JOYSOUND MAX GO」 旗艦機台！獨家支援「ローマ字表記（Romaji）」歌詞功能（點歌選單內設定顯示 Romaji 拼音，非日語母語者也能輕鬆跟著節奏流暢演唱日文金曲）。\n【🌟 絕妙動線消食閉環】：早晨充分休養重置胃袋後，漫步至包廂暢唱近 6 小時，享受頂級旗艦音響與微醺暢飲，唱跳同樂徹底消耗體力熱量，身心極度暢快！（歡唱 5 小時 50 分鐘）。\n\n\n🗺️ 卡拉OK館 (カラオケ館 一番町本店): https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E9%A4%A8+%E4%B8%80%E7%95%AA%E7%94%BA%E6%9C%AC%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E9%A4%A8+%E4%B8%80%E7%95%AA%E7%94%BA%E6%9C%AC%E5%BA%97&travelmode=walking\n\n⚠️ 【💡 零折返跑老饕動線・免回飯店直接唱好唱滿】：因預訂為 Free Time 方案（可用至 20:00），完全無超時跳表壓力！根本無須提早中斷退房奔波折返跑回飯店，直接從 12:30 一路盡情歡唱狂飲到 18:20（整整 5 小時 50 分鐘，近 6 小時大滿足！）。
+LOCATION:カラオケ館 一番町本店
+CATEGORIES:🎯 需求景點\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：娛樂時段極致享受：🎤 日系卡拉OK（🌟已預約妥當！平日午後整 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T182000
+DTEND;TZID=Asia/Tokyo:20261014T183000
+TRANSP:OPAQUE
+SUMMARY:🥩 唱完出門沿一番町拱廊向南漫步 2~3 分鐘（180m）直達牛たん始祖名店
+DESCRIPTION:【Day 17・🥩 極上美食】\n18:20 - 18:30【唱完出門沿一番町拱廊向南漫步 2~3 分鐘（180m）直達牛たん始祖名店】：\n18:20 歡唱盡興後於櫃檯快速結帳，18:24 步出卡拉OK館一番町本店。\n兩家名店位於同一條一番町拱廊街上，向南漫步約 180 公尺（約 2~3 分鐘），18:27 抵達「牛たん料理 閣 ブランドーム本店」B1F，從容無縫入座 18:30 JCB 代訂之官方旗艦「牛たん／Bコース」預約席！
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T183000
+DTEND;TZID=Asia/Tokyo:20261014T200000
+TRANSP:OPAQUE
+SUMMARY:🥩 晚餐【🎯 指定美食需求：炙燒牛舌刺身】：仙台始祖名店「牛たん料理 閣」【🌟 JCB 已訂妥確認・18:30 Bコース
+DESCRIPTION:【Day 17・🥩 極上美食】\n18:30 - 20:00【晚餐【🎯 指定美食需求：炙燒牛舌刺身】：仙台始祖名店「牛たん料理 閣」【🌟 JCB 已訂妥確認・18:30 Bコース】】：\n前往一番町商店街內的 「牛たん料理 閣 ブランドーム本店」（青葉區一番町 3-8-14 地下 1F，夜間營業時間：17:00 - 22:30 (LO 22:00)，無休，電話 022-268-7067；【🌟 已由 JCB 訂妥確認 18:30 席位：JCB 來電確認已訂妥 10/14 18:30（2位），方案鎖定官方旗艦「牛たん／Bコース」（8\,800 円税込/人，全 9 品），禁煙席】）。\n【🌟 JCB 預約官方極上方案：牛たん／Bコース（8\,800 円税込/人，全 9 品）】：\n品嚐全仙台首創、榮獲 Tabelog 百名店第一名之傳奇名物 「牛たんタタキ (炙燒半熟牛舌刺身)」（表面微炙帶炭火焦香、內層粉嫩多汁如生魚片般滑嫩，佐特調微酸洋蔥醬汁與爆量細蔥花，人間絕味！）＋ 招牌「厚切炭烤牛舌 (たん焼き 3枚6切)」＋ 頂級「仙台黑毛和牛牛排 (仙台黒毛和牛ステーキ)」，一次吃遍三大天花板名物（停留 1 小時 30 分鐘）。\n💡 老饕主食升級密技（+550 円歐風牛舌咖哩・雙人分食超滿足！）：官方菜單明訂「おじやor麦飯・テールスープ(＋550円でカレーに変更可)」！單點要價 1\,870 円的名物「歐風牛たんカリー」（燉煮 6~8 小時、大塊牛舌軟嫩化口、特調印度香料濃郁中辛），套餐換購僅需 +550 円！強烈推薦一位維持鮮甜清爽的牛尾湯雜炊（おじや），另一位加價 550 円升級為歐風牛舌咖哩，入座點餐時直接向店員告知即可，兩人分食共享，既暖胃解膩又能大啖招牌濃郁咖哩，CP 值極高！\n💡 指定美食需求達成：將「牛たん料理 閣」排在 Day 17 晚間享用，順利達成「炙燒牛舌刺身」指定美饌需求，更為 Day 18 迎向粉嫩炸豬排與壓軸痛風鍋鋪平完美道路！\n\n⏰ 營業時間：• 晝 11:30 - 14:30 (LO 14:00) ｜ • 準備中 14:30 - 17:00 ｜ • 夜 17:00 - 22:30 (LO 22:00)\n🚫 公休日：年末年始除外無休 ｜ (週三正常營業)\n💡 備註：🌟 平日夜間限定預約特權！已由 JCB 成功訂妥 18:30 席位（2位）！ 指定方案鎖定官方極上套餐【牛たん／Bコース 8\,800円/人（全9品）】，一次吃遍炙燒半熟牛舌刺身＋厚切炭烤牛舌＋仙台黑毛和牛牛排三大名物CP值頂天！💡 主食升級密技：每人可 +550 円將雜炊/麥飯升級為燉煮 6~8 小時之「歐風牛舌咖哩」，強烈推薦一人維持雜炊、一人升級咖哩分食共享；吃飽散步回飯店銜接 20:15 鴨蕎麥麵！\n\n🗺️ 牛たん料理 閣: https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E3%81%9F%E3%82%93%E6%96%99%E7%90%86+%E9%96%A3+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%E6%9C%AC%E5%BA%97\n\n⚠️ 💡 老饕主食升級密技（+550 円歐風牛舌咖哩・雙人分食超滿足！）：官方菜單明訂「おじやor麦飯・テールスープ(＋550円でカレーに変更可)」！單點要價 1\,870 円的名物「歐風牛たんカリー」（燉煮 6~8 小時、大塊牛舌軟嫩化口、特調印度香料濃郁中辛），套餐換購僅需 +550 円！強烈推薦一位維持鮮甜清爽的牛尾湯雜炊（おじや），另一位加價 550 円升級為歐風牛舌咖哩，入座點餐時直接向店員告知即可，兩人分食共享，既暖胃解膩又能大啖招牌濃郁咖哩，CP 值極高！\n⚠️ 💡 指定美食需求達成：將「牛たん料理 閣」排在 Day 17 晚間享用，順利達成「炙燒牛舌刺身」指定美饌需求，更為 Day 18 迎向粉嫩炸豬排與壓軸痛風鍋鋪平完美道路！
+LOCATION:牛たん料理 閣 ブランドーム本店
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐【🎯 指定美食需求：炙燒牛舌刺身】：仙台始祖名店「牛たん 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d17-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261014T210000
+DTEND;TZID=Asia/Tokyo:20261014T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟
+DESCRIPTION:【Day 17・🏨 頂級名宿】\n住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟】：リッチモンドホテル プレミア仙台駅前 🚶 步行回飯店（連住第 3 晚）。\n\n\n🗺️ リッチモンドホテル プレミア仙台駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-18-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 18・仙台市】鯛きち鯛魚燒・牡丹炸豬排・八木山動物公園・斎太郎
+DESCRIPTION:行程：🌟【仙台黃金美饌日】鯛きち 名掛丁本店現烤薄皮脆皮鯛魚燒 ➔ 熟成ロゼとんかつ牡丹 (粉嫩炸豬排完美達標) ➔ 地下鐵直達八木山動物公園 フジサキの杜(平日午後避開連假狂潮・包場級悠閒體驗) ➔ 迎賓午茶霜淇淋 ➔ 🎯【需求檢核：痛風鍋與生海鞘】元祖痛風鍋名店「地酒と宮城のうまいもん処 斎太郎」(🎉今晚全行程美饌100%正式大滿貫完封！) ➔ 鴨蕎麥麵宵夜【全行程美饌大滿貫完封・平日午後生態漫步・痛風鍋壓軸巨獻！】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝鯛きち現烤薄皮鯛魚燒、牡丹低溫熟成炸豬排、八木山動物公園、16:05 長榮 BR117 開搶回程機位、斎太郎痛風鍋居酒屋美食全達成！\n\n完整行程：./itinerary.html#day-18
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261015T104500
+DTEND;TZID=Asia/Tokyo:20261015T110000
+TRANSP:OPAQUE
+SUMMARY:🍴 漫步一番町拱廊商圈 ＆ とんかつ牡丹開門前 15 分鐘提前卡位排隊
+DESCRIPTION:【Day 18・🥩 極上美食】\n10:45 - 11:00【漫步一番町拱廊商圈 ＆ とんかつ牡丹開門前 15 分鐘提前卡位排隊】：\n穿過名掛丁拱廊 ➔ Clis Road ➔ Marble Road ➔ 一番町拱廊（全覆蓋拱廊步道步行 8 分鐘），於 10:45 準時抵達とんかつ牡丹門前卡位排隊搶首輪！\n\n⏰ 營業時間：• 11:00 - 16:00 ｜ • 肉品售完提早打烊 ｜ • 週四午後打烊無中休\n🚫 公休日：毎週水曜、第2/4火曜定休 ｜ (Day 18 10/15 週四正常營業)\n💡 備註：搶第一輪黃金秘訣：務必於 10:45（開門前 15 分鐘）抵達門口排隊！ 搶 11:00 首輪入座免等 40 分鐘，並搶到每日限量 10 份的「極厚ロースかつ丼」 與低溫櫻花粉嫩特上腰內豬排（ロゼとんかつ）。
+LOCATION:とんかつ牡丹 一番町本店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it3@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261015T110000
+DTEND;TZID=Asia/Tokyo:20261015T123000
+TRANSP:OPAQUE
+SUMMARY:🍴 午餐【頂級極厚粉嫩低溫炸豬排：仙台人氣名店「とんかつ牡丹」🚶 步行導航或熟成名店【🟢 純現場排隊・開門前15分卡位
+DESCRIPTION:【Day 18・🥩 極上美食】\n11:00 - 12:30【午餐【頂級極厚粉嫩低溫炸豬排：仙台人氣名店「とんかつ牡丹」🚶 步行導航或熟成名店【🟢 純現場排隊・開門前15分卡位】】】：\n前往仙台當前最炙手可熱的低溫粉嫩ロゼ炸豬排排隊名店 「とんかつ牡丹 一番町本店」（仙台頂級預約困難居酒屋「氏ノ木」同門姊妹店，專攻低溫慢炸、肉質水嫩如櫻花粉紅的極上炸豬排！營業時間：11:00 - 15:00，每週三及第 2/4 週二公休，今日週四正常營業！ 距離飯店步行僅約 8 分鐘）。\n必點招牌：「特上低溫慢炸粉嫩腰內豬排 (ヒレかつ)」 或 「限量 10 份厚切炸豬排丼」，粉嫩多汁、外衣細緻酥脆，沾少許岩鹽即能感受肉質本身的鮮甜原味！\n（備選推薦名單）：\n① 「熟成とんかつ フライ家」（米其林必比登推薦名店姊妹店，嚴選宮城藏王香美豚 14 天熟成低溫慢炸，優雅精緻，位於一番町）。\n② 「ニューベイブ ヨドバシ仙台店」（千葉產「林SPF」銘柄豚極厚切低溫炸豬排，肉汁豐沛清甜，位於仙台站東口 Yodobashi 6F）。\n【🐷 ロゼとんかつ（低溫粉嫩炸豬排）需求完美達成！】：今日 12:30 正式享用完「とんかつ牡丹」粉嫩炸豬排後，指定美食清單中的「低溫粉嫩炸豬排」項目完美達標！全行程指定美食僅剩今晚的元祖痛風鍋與三陸極鮮生海鞘名店「斎太郎」最後一塊拼圖，蓄勢待發迎接今晚 100% 歷史性大滿貫完封！（停留 1 小時 30 分鐘）。\n\n⏰ 營業時間：• 11:00 - 16:00 ｜ • 肉品售完提早打烊 ｜ • 週四午後打烊無中休\n🚫 公休日：毎週水曜、第2/4火曜定休 ｜ (Day 18 10/15 週四正常營業)\n💡 備註：搶第一輪黃金秘訣：務必於 10:45（開門前 15 分鐘）抵達門口排隊！ 搶 11:00 首輪入座免等 40 分鐘，並搶到每日限量 10 份的「極厚ロースかつ丼」 與低溫櫻花粉嫩特上腰內豬排（ロゼとんかつ）。\n\n🗺️ とんかつ牡丹: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E7%89%A1%E4%B8%B9+%E4%BB%99%E5%8F%B0%E5%B8%82\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E7%89%A1%E4%B8%B9+%E4%BB%99%E5%8F%B0%E5%B8%82&travelmode=walking
+LOCATION:とんかつ牡丹 一番町本店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261015T130000
+DTEND;TZID=Asia/Tokyo:20261015T153000
+TRANSP:OPAQUE
+SUMMARY:🎯 必去景點 ㉓：八木山動物公園 フジサキの杜（平日午後包場級生態體驗・避開連假狂潮！）
+DESCRIPTION:【Day 18・🌟 必去景點】\n13:00 - 15:30【必去景點 ㉓：八木山動物公園 フジサキの杜（平日午後包場級生態體驗・避開連假狂潮！）】：\n八木山動物公園（開園時間：09:00 - 16:45，最終入園 16:00，門票大人 480 円，小中學生 120 円）。\n【🌟 智慧避開三連休與小學秋假人潮・極致清幽觀賞體驗】：\n🚨 官方一手事實查核（依據仙台市官方《休園日一覧》）：動物園原則上每週三定休，但 2026 年 10 月休園日僅為 7日、21日、28日！10月14日（水曜日）因適逢仙台市小中學校「秋休み」（秋假）而特別開園！\n為何堅持排在 Day 18（10/15 週四）而非 10/14（週三）？：\n1. 避開秋假學童潮：10/14（週三）雖然特別開園，但當天為仙台市全體中小學秋假，放假學童與家庭眾多；而 10/15（週四）秋假結束、學生全面返校上課，園內遊客銳減，享受真正包場般的幽靜觀賞體驗！\n2. 美食與胃袋動線完美配合：Day 17（週三）「とんかつ牡丹」固定公休；排在 Day 18（週四）剛好 10:30 在飯店旁買到剛出爐的「鯛きち」薄皮脆皮鯛魚燒、11:00 吃到週四營業的牡丹粉嫩炸豬排，正午吃飽後搭地下鐵 10 分鐘直達動物園悠閒散步消食，動線與節奏最完美！\n與 Day 16（週二）的仙台海洋森林水族館相隔 2 整天，徹底消除同質性審美疲勞。\n\n\n🗺️ 八木山動物公園 フジサキの杜: https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E6%9C%A8%E5%B1%B1%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92%E3%83%95%E3%82%B8%E3%82%B5%E3%82%AD%E3%81%AE%E6%9D%9C\n\n⚠️ 🚨 官方一手事實查核（依據仙台市官方《休園日一覧》）：動物園原則上每週三定休，但 2026 年 10 月休園日僅為 7日、21日、28日！10月14日（水曜日）因適逢仙台市小中學校「秋休み」（秋假）而特別開園！
+LOCATION:八木山動物公園 フジサキの杜
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261015T180000
+DTEND;TZID=Asia/Tokyo:20261015T193000
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【🎯 需求檢核】：宮城痛風鍋始祖「地酒と宮城のうまいもん処 斎太郎」【🌟 已由 JCB 訂妥確認・18:00 席位保留・純享三陸極鮮生海鞘與地酒
+DESCRIPTION:【Day 18・🥩 極上美食】\n18:00 - 19:30【晚餐【🎯 需求檢核】：宮城痛風鍋始祖「地酒と宮城のうまいもん処 斎太郎」【🌟 已由 JCB 訂妥確認・18:00 席位保留・純享三陸極鮮生海鞘與地酒】】：\n前往國分町知名海鮮名店 「地酒と宮城のうまいもん処 斎太郎」（青葉區國分町 2-15-20 よごろうビル 3F，電話 022-263-1276，距離 Richmond Premier 步行約 11 分鐘 / 850m，漫步經過一番町商店街）。\n營業時間：17:00 - 24:00（L.O. 料理 22:30 / 飲品 23:30），每週日定休。今日 10/15（週四）正常營業！\n【🌟 訂位確認與用餐定調】：\n預約已確定保留：已明確告知 JCB 秘書「不用取消斎太郎的訂位」，維持 10/15（週四）18:00 兩人席位已訂妥確認！\n現場美饌純享：雖然店家回報當日無痛風鍋、白子與鮟鱇魚肝料理，但仍可大啖宮城特產「海之鳳梨」三陸極鮮生海鞘刺身（生ホヤ刺身）、炭火烤金華鯖魚、現流時旬海鮮刺身盛合與宮城代表地酒（乾坤一、伯樂星、日高見），享受國分町老舖居酒屋的道地微醺風情！\n【🎉 歷史性大滿貫里程碑：全行程所有指定美饌正式完封！】：今晚在斎太郎品嚐三陸極鮮生海鞘與地酒，全行程 39 大核心餐飲美饌與所有指定美食需求（味噌咖哩牛奶拉麵、煮干拉麵、八甲田軍雞、生羔羊成吉思汗、吉兆特上馬刺與義經鍋、天草櫻肉鍋、八食炭火燒海鮮、三陸いちご煮、みなと食堂平目漬丼、八戶酒造陸奧八仙品酩、花枝飯、松島烤海鞘、泰山A5仙台牛、どん亭秋限定鮭魚卵蒸飯(はらこ飯)、かとう百年壽喜燒、美登屋手打蕎麥麵、陽だまり食堂日式蛋包飯、だし廊飛魚拉麵、Gusto漢堡排、洋食HACHI漢堡排、ちからやA5仙台牛吃到飽、仙台朝市もうかの星、みそ壱辛味噌拉麵、開盛庵鰻魚飯、閣炙燒牛舌刺身、鯛きち現烤鯛魚燒、牡丹粉嫩炸豬排、三陸生海鞘與時令海鮮）正式全數大滿貫完封！ 明日 Day 19 晚間將以最尊榮從容之心情，迎向回國前夕奢華自由晚宴！（停留 1 小時 30 分鐘）。\n\n⏰ 營業時間：• 17:00 - 24:00 ｜ • LO 22:30 ｜ • 夜間專營無午餐\n🚫 公休日：日曜日定休 ｜ (Day 18 10/15 週四常態營業)\n💡 備註：🎉 今晚全行程所有指定美食需求正式大滿貫完封！ 🌟 已確認保留 18:00 訂位！雖然店家回報當日無痛風鍋、白子與鮟鱇魚肝，但已告知 JCB 維持訂位不用取消，現場大啖宮城特產「海之鳳梨」三陸極鮮生海鞘（生ホヤ刺し）、炭火烤金華鯖魚海鮮與宮城在地地酒，吃飽微醺散步回飯店銜接 19:55 鴨蕎麥麵宵夜！\n\n🗺️ 地酒と宮城のうまいもん処 斎太郎: https://www.google.com/maps/search/?api=1&query=%E5%9C%B0%E9%85%92%E3%81%A8%E5%AE%AE%E5%9F%8E%E3%81%AE%E3%81%86%E3%81%BE%E3%81%84%E3%82%82%E3%82%93%E5%87%A6+%E6%96%8E%E5%A4%AA%E9%83%8E+%E4%BB%99%E5%8F%B0%E5%B8%82
+LOCATION:地酒と宮城のうまいもん処 斎太郎
+CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：晚餐【🎯 需求檢核】：宮城痛風鍋始祖「地酒と宮城のうまいもん 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it11@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261015T210000
+DTEND;TZID=Asia/Tokyo:20261015T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟
+DESCRIPTION:【Day 18・🏨 頂級名宿】\n住宿【城市基地 ④ 仙台西口極上首選・已訂妥🌟】：リッチモンドホテル プレミア仙台駅前 🚶 步行回飯店（連住第 4 晚結束）。\n\n\n🗺️ リッチモンドホテル プレミア仙台駅前: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&travelmode=walking
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-19-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 19・仙台市】漢堡排・青葉城・仙台博物館・開盛庵鰻魚
+DESCRIPTION:行程：晨間睡到自然醒 ➔ 10:45 退房寄存行李 ➔ 11:20 避開人潮日系漢堡排びっくりドンキー クリスロード店 ➔ 🚌【るーぷる仙台直攻山頂・0爬坡極致省力】仙台城跡(伊達政宗騎馬像・杜之都全景) ➔ 🚶【古城林蔭純下坡漫步】仙台市博物館(2024新館・國寶慶長遣歐使節史料) ➔ 地鐵東西線返市區 ➔ 16:30 🌟【壓軸名饌】134年老舖「うなぎ 開盛庵 (一番町)」極上蒲燒鰻重 ➔ 18:00 順路入住天然溫泉 杜都之湯 御宿 野乃 仙台 ＆ 14F天然溫泉/桑拿/雪糕 ➔ 2F旅籠免費夜鳴拉麵【公車直攻山頂免爬陡坡・純下坡逛博物館・開門首輪大啖蒲燒鰻魚・進房後享受天然溫泉徹底不出門】\n\n行李與換宿：🧳 壓軸名宿換宿：Richmond 退房寄存行李於御宿野乃，11:20 提前享用避開人潮之びっくりドンキー漢堡排，午後搭乘「るーぷる仙台」直攻仙台城跡（免爬70m大陡坡），下坡漫步至仙台市博物館，16:30 先至一番町大啖老舖「開盛庵」蒲燒鰻魚飯，18:00 順路入住御宿野乃享受 14F 天然溫泉桑拿與夜鳴拉麵！\n\n完整行程：./itinerary.html#day-19
+LOCATION:仙台市
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T104500
+DTEND;TZID=Asia/Tokyo:20261016T111500
+TRANSP:OPAQUE
+SUMMARY:🏨 🧳 退房 Richmond Premier ＆ 步行 4 分鐘至御宿野乃預辦入住與寄存大行李
+DESCRIPTION:【Day 19・🏨 頂級名宿】\n10:45 - 11:15【🧳 退房 Richmond Premier ＆ 步行 4 分鐘至御宿野乃預辦入住與寄存大行李】：\n10:45 辦理【リッチモンドホテル プレミア仙台駅前】退房（Check-out 11:00 前，時間極為從容）。\n推大行李沿愛宕上杉通向北漫步 4 分鐘（約 350m）至相鄰街區的 【天然溫泉 杜都之湯 御宿 野乃 仙台】 🚶 步行導航 櫃檯辦理預先入住手續並寄存大行李（Check-in 15:00 / Check-out 11:00）。\n\n\n🗺️ 天然溫泉 杜都之湯 御宿 野乃 仙台: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0&travelmode=walking
+LOCATION:リッチモンドホテル プレミア仙台駅前
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it2@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T111500
+DTEND;TZID=Asia/Tokyo:20261016T123500
+TRANSP:OPAQUE
+SUMMARY:🍴 午餐【日系經典家庭漢堡排】：連鎖名店「びっくりドンキー クリスロード店」🚶 步行導航（【🟢 11:20 提前入座・完美錯開 12:00 上班族人潮幾近零排隊！】招牌巨大木質立牌菜單・熱騰騰爆汁起司漢堡排定食盤）
+DESCRIPTION:【Day 19・🥩 極上美食】\n11:15 - 12:35【午餐【日系經典家庭漢堡排】：連鎖名店「びっくりドンキー クリスロード店」🚶 步行導航（【🟢 11:20 提前入座・完美錯開 12:00 上班族人潮幾近零排隊！】招牌巨大木質立牌菜單・熱騰騰爆汁起司漢堡排定食盤）】：\n寄放大行李後輕裝步出御宿野乃，步行 4~5 分鐘（約 350m）直達 Clis Road（クリスロード）拱廊商店街ガレリアクリスロード B1F 的 「びっくりドンキー クリスロード店」（營業時間：08:00 - 23:00，LO 22:30，全日通し營業無中休）。\n【🌟 11:20 提前入座避開人潮黃金策略】：11:20 抵達店內，完美搶在 12:00～12:45 上班族外出午餐尖峰前入座，完全零排隊！\n翻開經典懷舊的「巨大木質折疊菜單立牌」，點選招牌人氣第一的 「起司漢堡排盤 (チーズバーグディッシュ)」（黃金特調切達起司交叉覆蓋於多汁漢堡排上）或 「蘿蔔泥柚子醋漢堡排盤 (おろしそバーグディッシュ)」，搭配獨家特調和風醬汁白飯與爽脆生菜沙拉，熱氣騰騰、肉汁四溢！（停留 1 小時 20 分鐘，吃完約 12:35）。\n\n⏰ 營業時間：• 08:00 - 23:00 ｜ • LO 22:30 ｜ • 全日通し營業無中休\n🚫 公休日：全年無休\n💡 備註：🌟 杜之都經典家庭漢堡排巡禮！ 10:45 退房並寄放大行李至御宿野乃後，步行 4 分鐘至 Clis Road 拱廊街地下 1 樓。11:20 提前入座完美搶在 12:00 上班族人潮前零排隊！ 展開招牌復古木質折疊大菜單立牌，大啖熱騰騰現煎爆汁起司漢堡排定食盤（チーズバーグディッシュ），吃飽搭地鐵前往青葉山參觀仙台市博物館與仙台城跡！\n\n🗺️ びっくりドンキー クリスロード店: https://www.google.com/maps/search/?api=1&query=%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E5%BA%97\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E5%BA%97&travelmode=walking
+LOCATION:びっくりドンキー クリスロード店
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it5@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T131000
+DTEND;TZID=Asia/Tokyo:20261016T141500
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ㉑：仙台城跡 (青葉城跡) ＆ 伊達政宗騎馬像・杜之都壯麗全景
+DESCRIPTION:【Day 19・🌟 必去景點】\n13:10 - 14:15【必去景點 ㉑：仙台城跡 (青葉城跡) ＆ 伊達政宗騎馬像・杜之都壯麗全景】：\n仙台城跡（全日開放，免費參觀）。\n下車即直通天守台！迎著青葉山頂的清爽秋風，瞻仰威風凜凜的地標 「伊達政宗騎馬像」，俯瞰廣瀨川峽谷與杜之都仙台摩天大樓天際線；參觀青葉城資料展示館周邊與宮城縣護國神社（停留 1 小時 05 分鐘）。\n🎉 【至此，全行程所有必去景點 100% 正式全數大滿貫達成！】\n\n\n🗺️ 仙台城跡 (青葉城跡): https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%9F%8E%E8%B7%A1
+LOCATION:仙台城跡 / 青葉城跡
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it7@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T143000
+DTEND;TZID=Asia/Tokyo:20261016T155000
+TRANSP:OPAQUE
+SUMMARY:🏛️ 必去景點 ⑳：仙台市博物館 (2024全新盛大開館！UNESCO 世界記憶名錄 國寶慶長遣歐使節史料 ＆ 秋季常設特展)
+DESCRIPTION:【Day 19・🌟 必去景點】\n14:30 - 15:50【必去景點 ⑳：仙台市博物館 (2024全新盛大開館！UNESCO 世界記憶名錄 國寶慶長遣歐使節史料 ＆ 秋季常設特展)】：\n仙台市博物館（開館時間：09:00 - 16:45，最終入館 16:15，常設展門票 460 円）。\n🌟 平日午後舒適室內觀展歇腿：下坡抵達博物館後，在空調舒適的高雅展廳中優雅歇腿、細細瞻仰常設展特集展示室之 UNESCO「世界記憶名錄」/ 日本國寶「慶長遣歐使節關係資料」（支倉常長肖像畫、羅馬市公民權證書等），以及伊達政宗傳世黑漆五枚胴具足大鎧與伊達家珍貴文化財（停留 1 小時 20 分鐘）。\n\n\n🗺️ 仙台市博物館: https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A4%A8
+LOCATION:仙台市博物館
+CATEGORIES:🌟 必去景點\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it10@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T163000
+DTEND;TZID=Asia/Tokyo:20261016T174500
+TRANSP:OPAQUE
+SUMMARY:🍴 晚餐【百年老舖鰻魚盛宴・回補 Day 17 名饌】：仙台 134 年老店「うなぎ 開盛庵 (一番町)」🚶 步行導航【🟢 16:30 開門第一組入座・零排隊・炭火直烤極上蒲燒鰻重
+DESCRIPTION:【Day 19・🥩 極上美食】\n16:30 - 17:45【晚餐【百年老舖鰻魚盛宴・回補 Day 17 名饌】：仙台 134 年老店「うなぎ 開盛庵 (一番町)」🚶 步行導航【🟢 16:30 開門第一組入座・零排隊・炭火直烤極上蒲燒鰻重】】：\n創業於明治 23 年（1890 年）的百年鰻魚名店 「うなぎ 開盛庵 (Kaiseian)」（青葉區一番町 1-2-21，晚間營業時間：16:30 - 20:00，LO 19:30，無休，電話 022-266-2520）。\n【🌟 16:30 開門第一組入座的極致優勢】：16:30 開門第一分鐘入座，不僅完全零排隊，店內氣氛極其清幽靜謐，師傅炭火剛生好、烤得最專注，出餐迅速美味！\n品嚐傳承百年的「極上蒲燒鰻重」，嚴選日本國產三河一色產肥美鰻魚，先蒸後炭火直烤，外皮微焦酥脆、魚肉蓬鬆細緻入口即化，淋上百年濃厚秘傳老醬汁，搭配鮮美鰻魚肝吸與奈良漬，作為回國前夕的壓軸奢華大餐，暖心暖胃、極致享受！（停留 1 小時 15 分鐘，吃完約 17:45）。\n\n⏰ 營業時間：• 11:00 - 20:00 ｜ • 平日中休 15:00 - 16:30 ｜ • LO 19:30\n🚫 公休日：年中無休 ｜ (週五正常營業)\n💡 備註：🌟 回補 Day 17 百年蒲燒鰻魚盛宴・下山極致順路首選！ 嚴選日本國產三河一色產鰻魚，關東風先蒸後炭火直烤，外酥肉嫩入口即化，淋上百年老醬汁。下午仙台城跡下山搭地鐵直達青葉通一番町，16:30 晚間剛開門搶先第一批入座完全免排隊！大快朵頤後悠閒散步 850m 穿過 Clis Road 拱廊街直達御宿野乃辦理 Check-in，徹底省去 1.8km 折返跑，晚間足不出戶盡情享受 14F 天然溫泉與夜鳴拉麵！\n\n🗺️ うなぎ 開盛庵 (一番町): https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%AA%E3%81%8E+%E9%96%8B%E7%9B%9B%E5%BA%B5+%E4%BB%99%E5%8F%B0\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E3%81%86%E3%81%AA%E3%81%8E+%E9%96%8B%E7%9B%9B%E5%BA%B5+%E4%BB%99%E5%8F%B0&travelmode=walking
+LOCATION:うなぎ 開盛庵
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it12@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T180000
+DTEND;TZID=Asia/Tokyo:20261016T213000
+TRANSP:OPAQUE
+SUMMARY:🏨 🏨 順路入住・和風旗艦名宿「御宿野乃」極上享受（完全足不出戶！14F 天然溫泉「杜都之湯」＆ Auto-Loyly 桑拿 ＆ 免費雪糕 ＆ 客房深度放鬆）
+DESCRIPTION:【Day 19・🏨 頂級名宿】\n18:00 - 21:30【🏨 順路入住・和風旗艦名宿「御宿野乃」極上享受（完全足不出戶！14F 天然溫泉「杜都之湯」＆ Auto-Loyly 桑拿 ＆ 免費雪糕 ＆ 客房深度放鬆）】：\n18:00 抵達御宿野乃大廳 Check-in！ 避開 15:00 大廳入住高峰，隨到隨領秒速進房！\n入住 天然溫泉 杜都之湯 御宿 野乃 仙台 🚶 步行導航（Check-in 15:00 / Check-out 11:00・已訂妥🌟）。\n全館榻榻米和風體驗：進門脫鞋置入鞋櫃，專人擦拭早上寄存的行李箱輪送回客房，赤足踩在天然榻榻米上。\n吃飽直奔 14F 天然溫泉「杜都之湯」：換上館內服直奔 14F！享受自家源泉檜木內湯、半露天風呂、高溫 Auto-Loyly 乾桑拿（98~100℃）與超強冷水風呂（12~14℃），洗去登山健行疲憊，享受三次三溫暖「整う (Totono-u)」極致境界！\n免費甜品：泡完湯在休息區大啖 免費冰棒 / 巧克力雪糕（15:00 - 25:00 提供）。\n🌟 足不出戶極致尊榮感：泡完溫泉身心徹底舒坦，完全不用再穿戴整齊跑出門找晚餐！可以直接在客房軟爛休息、悠閒打包 20 天戰利品行李箱，徹底沉浸在頂級和風溫泉名宿的慵懶時光中。（享受 3 小時 30 分鐘）。\n\n\n🗺️ 天然溫泉 杜都之湯 御宿 野乃 仙台: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0&travelmode=walking
+LOCATION:天然溫泉 杜都之湯 御宿 野乃 仙台
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it13@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T213000
+DTEND;TZID=Asia/Tokyo:20261016T230000
+TRANSP:OPAQUE
+SUMMARY:🍜 2F 旅籠 免費現煮夜鳴拉麵 (夜鳴きそば)
+DESCRIPTION:【Day 19・🥩 極上美食】\n21:30 - 23:00【2F 旅籠 免費現煮夜鳴拉麵 (夜鳴きそば)】：\n穿著館內便服悠閒下樓至 2F 旅籠餐廳，享用 Dormy Inn 系列招牌特製醬油拉麵（21:30 - 23:00 現煮，若超過 23:00 可向櫃檯索取「ご麺なさい」特製杯麵）。吃完後可再度登上 14F 享受深夜露天溫泉，身心徹底放鬆入眠。\n\n⏰ 營業時間：• 06:30 - 09:30 ｜ • 最終入場 09:00 ｜ • 09:30 打烊\n🚫 公休日：全年無休 ｜ (專案已含奢華朝食)\n💡 備註：整整吃滿 3 小時吃好吃滿直到打烊！ 生鮭魚卵無限制自盛海鮮丼（鋪滿干貝、甜蝦、鮭魚刺身）、廚師鐵板現煎厚切仙台牛舌、現炸旬天婦羅，劃下全趟美食旅程最奢華句點。
+LOCATION:御宿野乃 仙台 2F 旅籠「Hatago」
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d19-it14@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261016T210000
+DTEND;TZID=Asia/Tokyo:20261016T235900
+TRANSP:OPAQUE
+SUMMARY:🏨 住宿【回國前夕和風奢華壓軸・已訂妥🌟
+DESCRIPTION:【Day 19・🏨 頂級名宿】\n住宿【回國前夕和風奢華壓軸・已訂妥🌟】：天然溫泉 杜都之湯 御宿 野乃 仙台 🚶 步行回飯店。\n\n\n🗺️ 天然溫泉 杜都之湯 御宿 野乃 仙台: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0\n🗺️ 步行回飯店: https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89+%E6%9D%9C%E9%83%BD%E3%81%AE%E6%B9%AF+%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E4%BB%99%E5%8F%B0&travelmode=walking
+LOCATION:天然溫泉 杜都之湯 御宿 野乃 仙台
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-day-20-banner@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+TRANSP:TRANSPARENT
+SUMMARY:🍁【Day 20・仙台機場】豪華早餐・返抵台灣
+DESCRIPTION:行程：野乃現煎牛舌與生鮭魚卵奢華早餐 ➔ 伴手禮最後衝刺 ➔ 仙台機場 (SDJ) 賦歸\n\n行李與換宿：🧳 歸國返台：御宿野乃享用 3 小時生鮭魚卵厚切牛舌極上早餐後退房，攜行行李步行至仙台站，搭乘仙台機場 Access 線直達仙台機場返台！\n\n完整行程：./itinerary.html#day-20
+LOCATION:仙台機場
+CATEGORIES:全天行程概覽\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d20-it1@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261017T063000
+DTEND;TZID=Asia/Tokyo:20261017T093000
+TRANSP:OPAQUE
+SUMMARY:🍴 早晨【御宿野乃 仙台 奢華海陸早餐 Buffet・專案已含朝食 🌟・06:30開門整整吃滿 3 小時直到 09:30 打烊！
+DESCRIPTION:【Day 20・🥩 極上美食】\n06:30 - 09:30【早晨【御宿野乃 仙台 奢華海陸早餐 Buffet・專案已含朝食 🌟・06:30開門整整吃滿 3 小時直到 09:30 打烊！】】：\n御宿野乃 仙台 奢華海陸早餐 Buffet（專案已含朝食 🌟・免額外付費！官方現場定價 3\,000 円/人且僅限住客，官方營業時間：06:30 - 09:30，最終入場 09:00，09:30 打烊）。\n06:30 準時第一批開放入座！完整享受整整 3 小時（06:30 - 09:30）吃好吃滿直到打烊！\n極致三大天王無限暢吃：\n1. 生鮭魚卵無限制自夾 (いくら無制限かけ放題) 豪華海鮮丼：鋪滿晶瑩剔透三陸鮭魚卵、鮮干貝、甜蝦、鮭魚刺身！\n2. 廚師鐵板現煎厚切仙台牛舌：現煎熱騰噴香、鮮嫩脆彈！\n3. 現炸旬野菜與海老天婦羅、藏王白石溫麵、手作毛豆麻糬 (ずんだ餅)。\n預留整整 3 小時無拘無束大啖美食，劃下全趟旅程最奢華美味的句點！\n\n⏰ 營業時間：• 06:30 - 09:30 ｜ • 最終入場 09:00 ｜ • 09:30 打烊\n🚫 公休日：全年無休 ｜ (專案已含奢華朝食)\n💡 備註：整整吃滿 3 小時吃好吃滿直到打烊！ 生鮭魚卵無限制自盛海鮮丼（鋪滿干貝、甜蝦、鮭魚刺身）、廚師鐵板現煎厚切仙台牛舌、現炸旬天婦羅，劃下全趟美食旅程最奢華句點。
+LOCATION:御宿野乃 仙台 2F 旅籠「Hatago」
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d20-it4@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261017T110000
+DTEND;TZID=Asia/Tokyo:20261017T111500
+TRANSP:OPAQUE
+SUMMARY:🏨 辦理退房 ＆ 漫步前往仙台站
+DESCRIPTION:【Day 20・🏨 頂級名宿】\n11:00 - 11:15【辦理退房 ＆ 漫步前往仙台站】：\n辦理退房（Check-out 11:00），推行李漫步至仙台站。\n
+LOCATION:天然溫泉 杜都之湯 御宿 野乃 仙台
+CATEGORIES:🏨 頂級名宿\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d20-it8@antigravity
+DTSTAMP:20261018T164258Z
+DTSTART;TZID=Asia/Tokyo:20261017T133700
+DTEND;TZID=Asia/Tokyo:20261017T152000
+TRANSP:OPAQUE
+SUMMARY:🎯 機場櫃檯報到 ＆ 出境免稅購物
+DESCRIPTION:【Day 20・🎯 特色體驗】\n13:37 - 15:20【機場櫃檯報到 ＆ 出境免稅購物】：\n抵達仙台機場 (SDJ)國際線長榮航空櫃檯辦理登機手續、行李托運、安檢出境與免稅店購物（起飛前 2.5 小時抵達，停留 1 小時 43 分鐘）。\n\n🗺️ 仙台機場 (SDJ): https://www.google.com/maps/search/?api=1&query=%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF
+LOCATION:仙台機場 (SDJ)
+CATEGORIES:🎯 特色體驗\,2026東北行
+END:VEVENT
+END:VCALENDAR

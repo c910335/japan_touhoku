@@ -1,0 +1,2512 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>🍁 2026 日本東北 20 天深度漫遊行程 | 互動時間軸</title>
+  <meta name="description" content="2026年秋季日本東北20天自由行完整互動行程網頁：一天一Tab、上下垂直滑動時間軸、自動偵測現在時間定位行程、折疊詳細卡片與Google Maps一鍵導航。">
+  
+  <!-- PWA & Mobile Web App Meta -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="東北20天">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;900&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --navy-900: #090d16;
+      --navy-800: #0f172a;
+      --navy-700: #1e293b;
+      --navy-600: #334155;
+      
+      --maple-600: #b91c1c;
+      --maple-500: #dc2626;
+      --maple-400: #ef4444;
+      
+      --amber-500: #f59e0b;
+      --amber-400: #fbbf24;
+      --amber-100: #fef3c7;
+      
+      --emerald-600: #059669;
+      --emerald-500: #10b981;
+      --emerald-100: #d1fae5;
+      
+      --sky-600: #0284c7;
+      --sky-500: #0ea5e9;
+      --sky-100: #e0f2fe;
+      
+      --purple-600: #7c3aed;
+      --purple-100: #ede9fe;
+      
+      --bg-body: #f8fafc;
+      --bg-surface: #ffffff;
+      --bg-surface-elevated: #ffffff;
+      --bg-subtle: #f1f5f9;
+      --border-subtle: #e2e8f0;
+      --border-focus: #3b82f6;
+      
+      --text-main: #0f172a;
+      --text-muted: #475569;
+      --text-soft: #64748b;
+      --text-inverse: #ffffff;
+      
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 18px;
+      --radius-pill: 9999px;
+      
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      --shadow-md: 0 4px 12px -1px rgba(0, 0, 0, 0.08), 0 2px 6px -1px rgba(0, 0, 0, 0.04);
+      --shadow-lg: 0 12px 24px -4px rgba(0, 0, 0, 0.1), 0 4px 10px -2px rgba(0, 0, 0, 0.05);
+      --shadow-active: 0 0 0 2px var(--maple-500), 0 8px 20px -2px rgba(220, 38, 38, 0.25);
+      
+      --font-base: 'Noto Sans TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-display: 'Outfit', 'Noto Sans TC', sans-serif;
+    }
+
+    [data-theme="dark"] {
+      --bg-body: #090d16;
+      --bg-surface: #131b2e;
+      --bg-surface-elevated: #1a243d;
+      --bg-subtle: #1e2942;
+      --border-subtle: #24304c;
+      
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-soft: #64748b;
+      --shadow-md: 0 4px 14px -1px rgba(0, 0, 0, 0.35);
+      --shadow-lg: 0 14px 28px -4px rgba(0, 0, 0, 0.45);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    html, body {
+      max-width: 100vw;
+      overflow-x: clip;
+      position: relative;
+    }
+
+    body {
+      font-family: var(--font-base);
+      background-color: var(--bg-body);
+      color: var(--text-main);
+      line-height: 1.55;
+      padding-bottom: calc(90px + env(safe-area-inset-bottom, 0px));
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    em {
+      font-style: italic;
+      font-weight: 600;
+      color: inherit;
+    }
+
+    /* Top Compact App Bar (48px + safe-area-inset-top) */
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: rgba(15, 23, 42, 0.98);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      color: var(--text-inverse);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+      width: 100%;
+      max-width: 100vw;
+      padding-top: constant(safe-area-inset-top);
+      padding-top: env(safe-area-inset-top, 0px);
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 48px;
+      padding: 0 max(12px, env(safe-area-inset-right, 0px)) 0 max(12px, env(safe-area-inset-left, 0px));
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .brand-title {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 1.02rem;
+      letter-spacing: -0.01em;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .header-controls {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .btn-now {
+      background: linear-gradient(135deg, #10b981, #059669);
+      border: none;
+      color: white;
+      font-family: var(--font-base);
+      font-weight: 600;
+      font-size: 0.78rem;
+      padding: 5px 11px;
+      border-radius: var(--radius-pill);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .btn-now:hover {
+      filter: brightness(1.1);
+    }
+
+    .pulse-dot {
+      width: 7px;
+      height: 7px;
+      background-color: #ffffff;
+      border-radius: 50%;
+      animation: pulse-ring 1.8s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite;
+    }
+
+    @keyframes pulse-ring {
+      0% { transform: scale(0.9); opacity: 0.9; }
+      50% { transform: scale(1.4); opacity: 0.4; }
+      100% { transform: scale(0.9); opacity: 0.9; }
+    }
+
+    .btn-icon {
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: white;
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-pill);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 0.88rem;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .btn-icon:hover {
+      background: rgba(255, 255, 255, 0.25);
+    }
+
+    /* Status Sub-strip (28px) */
+    .status-banner {
+      background: #090e1a;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 0 max(12px, env(safe-area-inset-right, 0px)) 0 max(12px, env(safe-area-inset-left, 0px));
+      height: 28px;
+      font-size: 0.72rem;
+      color: #94a3b8;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .status-banner-left {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      color: #cbd5e1;
+      font-weight: 600;
+      flex-shrink: 0;
+      font-family: var(--font-display);
+    }
+
+    .status-banner-right {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow: hidden;
+      white-space: nowrap;
+      min-width: 0;
+      flex: 1;
+      justify-content: flex-end;
+    }
+
+    #statusMessageText {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      min-width: 0;
+      flex: 1;
+      text-align: right;
+    }
+
+    .sim-tag {
+      background: var(--amber-500);
+      color: #000;
+      font-weight: 800;
+      font-size: 0.65rem;
+      padding: 1px 5px;
+      border-radius: 3px;
+    }
+
+    .sim-toggle-btn {
+      color: #38bdf8;
+      background: transparent;
+      border: 1px solid rgba(56, 189, 248, 0.4);
+      padding: 1px 6px;
+      border-radius: var(--radius-pill);
+      font-size: 0.7rem;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    /* Sticky Horizontal Day Tabs (top: 76px + safe area) */
+    .day-tabs-container {
+      position: sticky;
+      top: calc(76px + constant(safe-area-inset-top));
+      top: calc(76px + env(safe-area-inset-top, 0px));
+      z-index: 990;
+      background: var(--bg-surface);
+      border-bottom: 1px solid var(--border-subtle);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      width: 100%;
+      max-width: 100vw;
+    }
+
+    .day-tabs-container::-webkit-scrollbar {
+      display: none;
+    }
+
+    .day-tabs-track {
+      display: flex;
+      padding: 6px max(10px, env(safe-area-inset-right, 0px)) 6px max(10px, env(safe-area-inset-left, 0px));
+      gap: 6px;
+      width: max-content;
+    }
+
+    .day-tab-btn {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-width: 74px;
+      padding: 5px 8px;
+      border-radius: 10px;
+      background: var(--bg-subtle);
+      border: 1px solid transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .day-tab-btn:hover {
+      background: var(--border-subtle);
+      color: var(--text-main);
+    }
+
+    .day-tab-btn.active {
+      background: linear-gradient(135deg, var(--navy-800), var(--navy-700));
+      color: white;
+      border-color: rgba(255, 255, 255, 0.15);
+      box-shadow: 0 3px 10px rgba(15, 23, 42, 0.25);
+    }
+
+    [data-theme="dark"] .day-tab-btn.active {
+      background: linear-gradient(135deg, var(--maple-600), #991b1b);
+      box-shadow: 0 3px 10px rgba(220, 38, 38, 0.4);
+    }
+
+    .day-num {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 0.86rem;
+      line-height: 1.1;
+    }
+
+    .day-date {
+      font-size: 0.65rem;
+      opacity: 0.85;
+      white-space: nowrap;
+      margin-top: 1px;
+    }
+
+    .day-city {
+      font-size: 0.62rem;
+      font-weight: 600;
+      padding: 1px 5px;
+      border-radius: var(--radius-pill);
+      background: rgba(0, 0, 0, 0.06);
+      margin-top: 3px;
+      white-space: nowrap;
+    }
+
+    .day-tab-btn.active .day-city {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    /* Main Content Container */
+    .main-content {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 14px 12px;
+    }
+
+    /* Category Filter Chips */
+    .filter-bar {
+      display: flex;
+      gap: 6px;
+      overflow-x: auto;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .filter-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .filter-chip {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      font-size: 0.76rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: var(--radius-pill);
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .filter-chip.active {
+      background: var(--text-main);
+      color: var(--bg-surface);
+      border-color: var(--text-main);
+    }
+
+    /* Day Hero Card */
+    .day-hero {
+      background: var(--bg-surface);
+      border-radius: var(--radius-md);
+      padding: 14px 16px;
+      margin-bottom: 16px;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border-subtle);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .day-hero::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--maple-500), var(--amber-500), var(--sky-500));
+    }
+
+    .day-hero-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .hero-badge-group {
+      display: flex;
+      gap: 5px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .hero-pill {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: var(--radius-pill);
+      background: var(--bg-subtle);
+      color: var(--text-muted);
+    }
+
+    .hero-pill.highlight {
+      background: var(--amber-100);
+      color: #92400e;
+    }
+
+    .hero-pill.wakeup {
+      background: #fef3c7;
+      color: #92400e;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+    }
+
+    [data-theme="dark"] .hero-pill.highlight {
+      background: #78350f;
+      color: #fde68a;
+    }
+
+    [data-theme="dark"] .hero-pill.wakeup {
+      background: #78350f;
+      color: #fde68a;
+      border-color: rgba(245, 158, 11, 0.5);
+    }
+
+    .hero-title {
+      font-size: 1.05rem;
+      font-weight: 800;
+      line-height: 1.45;
+      color: var(--text-main);
+      margin: 6px 0;
+    }
+
+    /* Luggage & Hotel Transition Callout Banner */
+    .luggage-callout {
+      background: #fefce8;
+      border: 1px solid #fef08a;
+      border-left: 4px solid #eab308;
+      padding: 8px 11px;
+      border-radius: var(--radius-sm);
+      margin: 8px 0;
+      font-size: 0.81rem;
+      color: #854d0e;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      line-height: 1.45;
+    }
+
+    [data-theme="dark"] .luggage-callout {
+      background: #201e09;
+      border-color: #423b0c;
+      color: #fef08a;
+    }
+
+    .luggage-callout-icon {
+      font-size: 1rem;
+      flex-shrink: 0;
+      margin-top: -1px;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+      border-top: 1px solid var(--border-subtle);
+      padding-top: 8px;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .btn-text-action {
+      background: none;
+      border: none;
+      color: var(--sky-600);
+      font-weight: 600;
+      font-size: 0.78rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .btn-hero-route {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: linear-gradient(135deg, #0284c7, #0369a1);
+      color: white !important;
+      font-size: 0.76rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: var(--radius-pill);
+      text-decoration: none;
+      box-shadow: 0 1px 6px rgba(2, 132, 199, 0.3);
+      transition: all 0.2s ease;
+    }
+
+    .btn-hero-route:hover {
+      filter: brightness(1.1);
+      transform: translateY(-1px);
+    }
+
+    /* Vertical Timeline */
+    .timeline {
+      position: relative;
+      padding-left: 18px;
+    }
+
+    .timeline::before {
+      content: "";
+      position: absolute;
+      top: 15px;
+      bottom: 20px;
+      left: 6px;
+      width: 2px;
+      background: var(--border-subtle);
+      border-radius: 2px;
+    }
+
+    /* Timeline Item Node */
+    .timeline-node {
+      position: relative;
+      margin-bottom: 16px;
+      scroll-margin-top: calc(140px + constant(safe-area-inset-top));
+      scroll-margin-top: calc(140px + env(safe-area-inset-top, 0px));
+      transition: all 0.3s ease;
+    }
+
+    .timeline-node.hidden-by-filter {
+      display: none !important;
+    }
+
+    .timeline-dot {
+      position: absolute;
+      left: -18px;
+      top: 16px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--bg-surface);
+      border: 3px solid var(--text-soft);
+      z-index: 2;
+      transition: all 0.3s ease;
+    }
+
+    .timeline-node.active-now .timeline-dot {
+      background: var(--maple-500);
+      border-color: #fecaca;
+      box-shadow: 0 0 0 4px rgba(220, 38, 38, 0.3);
+      animation: pulse-node 1.6s infinite;
+    }
+
+    @keyframes pulse-node {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+
+    .timeline-card {
+      background: var(--bg-surface);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-subtle);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+      transition: all 0.2s ease;
+    }
+
+    .timeline-card:hover {
+      border-color: var(--border-focus);
+      box-shadow: var(--shadow-md);
+    }
+
+    .timeline-node.active-now .timeline-card {
+      border: 2px solid var(--maple-500);
+      box-shadow: var(--shadow-active);
+    }
+
+    .timeline-node.search-target-highlight .timeline-card {
+      animation: highlightFlash 2.5s ease;
+    }
+
+    @keyframes highlightFlash {
+      0% { box-shadow: 0 0 0 4px #fbbf24, 0 0 20px rgba(251, 191, 36, 0.6); }
+      50% { box-shadow: 0 0 0 4px #f59e0b, 0 0 15px rgba(245, 158, 11, 0.4); }
+      100% { box-shadow: var(--shadow-sm); }
+    }
+
+    /* Card Header */
+    .card-header {
+      padding: 13px 14px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      user-select: none;
+    }
+
+    .card-header-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .time-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-family: var(--font-display);
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--text-main);
+      background: var(--bg-subtle);
+      padding: 2px 7px;
+      border-radius: var(--radius-sm);
+    }
+
+    .timeline-node.active-now .time-badge {
+      background: #fee2e2;
+      color: var(--maple-600);
+    }
+
+    [data-theme="dark"] .timeline-node.active-now .time-badge {
+      background: #7f1d1d;
+      color: #fecaca;
+    }
+
+    .category-tag {
+      font-size: 0.68rem;
+      font-weight: 600;
+      padding: 1px 7px;
+      border-radius: var(--radius-pill);
+    }
+
+    .category-tag.dining { background: var(--amber-100); color: #92400e; }
+    .category-tag.transit { background: var(--sky-100); color: #0369a1; }
+    .category-tag.spot { background: #fef2f2; color: #991b1b; }
+    .category-tag.hotel { background: var(--purple-100); color: #6b21a8; }
+    .category-tag.activity { background: var(--emerald-100); color: #065f46; }
+    .category-tag.wakeup { background: #fef3c7; color: #92400e; }
+    .category-tag.general { background: var(--bg-subtle); color: var(--text-muted); }
+
+    [data-theme="dark"] .category-tag.dining { background: #78350f; color: #fde68a; }
+    [data-theme="dark"] .category-tag.transit { background: #075985; color: #bae6fd; }
+    [data-theme="dark"] .category-tag.spot { background: #7f1d1d; color: #fecaca; }
+    [data-theme="dark"] .category-tag.hotel { background: #581c87; color: #e9d5ff; }
+    [data-theme="dark"] .category-tag.activity { background: #064e3b; color: #a7f3d0; }
+    [data-theme="dark"] .category-tag.wakeup { background: #78350f; color: #fde68a; }
+
+    .card-title-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .card-title {
+      font-size: 0.98rem;
+      font-weight: 700;
+      line-height: 1.4;
+      color: var(--text-main);
+    }
+
+    .chevron-icon {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+      margin-top: 2px;
+      transition: transform 0.25s ease;
+      color: var(--text-soft);
+    }
+
+    .timeline-card.is-expanded .chevron-icon {
+      transform: rotate(180deg);
+    }
+
+    .card-badges-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      align-items: center;
+    }
+
+    .badge-pill {
+      font-size: 0.68rem;
+      font-weight: 600;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: rgba(0, 0, 0, 0.05);
+      color: var(--text-muted);
+    }
+
+    .badge-pill.status-now {
+      background: var(--maple-500);
+      color: white;
+      font-weight: 700;
+    }
+
+    /* One-Click Copy Japanese Name Button */
+    .btn-copy-jp {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .btn-copy-jp:hover {
+      background: var(--border-subtle);
+      color: var(--text-main);
+      border-color: #cbd5e1;
+    }
+
+    /* Card Details Section */
+    .card-details {
+      display: none;
+      padding: 0 14px 14px 14px;
+      border-top: 1px dashed var(--border-subtle);
+      background: rgba(0, 0, 0, 0.01);
+    }
+
+    .timeline-card.is-expanded .card-details {
+      display: block;
+      animation: fadeIn 0.25s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Structured Fact Sections (Spot, Dining, Hotel) */
+    .fact-section {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      margin: 10px 0;
+      font-size: 0.83rem;
+      line-height: 1.48;
+    }
+
+    .spot-fact-section {
+      border-left: 4px solid var(--maple-500);
+    }
+
+    .dining-fact-section {
+      border-left: 4px solid var(--amber-500);
+    }
+
+    .hotel-fact-section {
+      border-left: 4px solid var(--purple-600);
+    }
+
+    .fact-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 7px;
+      border-bottom: 1px dashed var(--border-subtle);
+      padding-bottom: 5px;
+    }
+
+    .fact-badge {
+      font-weight: 700;
+      font-size: 0.82rem;
+      color: var(--text-main);
+    }
+
+    .fact-tag {
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 1px 6px;
+      border-radius: 4px;
+      background: rgba(0, 0, 0, 0.06);
+      color: var(--text-muted);
+    }
+
+    .fact-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 5px;
+      margin-bottom: 6px;
+    }
+
+    .fact-cell {
+      font-size: 0.81rem;
+      color: var(--text-muted);
+    }
+
+    .fact-cell strong {
+      color: var(--text-main);
+    }
+
+    .fact-rules-list {
+      padding-left: 16px;
+      margin: 4px 0 6px 0;
+      font-size: 0.81rem;
+      color: var(--text-muted);
+    }
+
+    .fact-rules-list li {
+      margin-bottom: 3px;
+    }
+
+    .fact-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    /* Cautions & Notes Box */
+    .caution-box {
+      background: #fffbeb;
+      border: 1px solid #fef3c7;
+      border-left: 4px solid var(--amber-500);
+      padding: 9px 12px;
+      border-radius: var(--radius-sm);
+      margin: 10px 0;
+      font-size: 0.82rem;
+      color: #92400e;
+    }
+
+    [data-theme="dark"] .caution-box {
+      background: #271a06;
+      border-color: #452a0a;
+      color: #fde68a;
+    }
+
+    .caution-title {
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-bottom: 3px;
+    }
+
+    /* Google Maps Link Buttons */
+    .maps-btn-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 10px 0 4px 0;
+    }
+
+    .btn-maps {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #ea4335;
+      color: white !important;
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 5px 11px;
+      border-radius: var(--radius-pill);
+      text-decoration: none;
+      box-shadow: 0 1px 5px rgba(234, 67, 53, 0.25);
+      transition: all 0.2s ease;
+    }
+
+    .btn-maps:hover {
+      background: #d93025;
+    }
+
+    .btn-maps.btn-dir {
+      background: #1a73e8;
+      box-shadow: 0 1px 5px rgba(26, 115, 232, 0.25);
+    }
+
+    .btn-maps.btn-dir:hover {
+      background: #1557b0;
+    }
+
+    /* Rich Markdown Output & Hierarchical Sublist Styling */
+    .card-rich-body {
+      margin-top: 10px;
+    }
+
+    .it-sublist {
+      margin: 6px 0;
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .it-sublist-item {
+      position: relative;
+      margin-bottom: 6px;
+      line-height: 1.55;
+    }
+
+    /* Top-Level Section / Option Box (e.g. 方案 A, 方案 B, or major option containers) */
+    .it-sublist-item-level-1.it-has-children {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-subtle);
+      border-left: 4px solid var(--sky-500);
+      border-radius: var(--radius-md);
+      padding: 12px 14px 10px 14px;
+      margin: 12px 0 14px 0;
+      box-shadow: var(--shadow-sm);
+      list-style: none;
+    }
+
+    /* Distinct contextual accent colors for option cards */
+    .it-sublist-item-level-1.it-has-children:nth-of-type(1) {
+      border-left-color: var(--emerald-500);
+    }
+    .it-sublist-item-level-1.it-has-children:nth-of-type(2) {
+      border-left-color: var(--sky-500);
+    }
+    .it-sublist-item-level-1.it-has-children:nth-of-type(3) {
+      border-left-color: var(--amber-500);
+    }
+    .it-sublist-item-level-1.it-has-children:nth-of-type(4) {
+      border-left-color: var(--purple-600);
+    }
+
+    /* Top-level list item without children (Standard clean bullet list) */
+    .it-sublist-item-level-1:not(.it-has-children) {
+      padding-left: 20px;
+      margin-bottom: 7px;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
+    .it-sublist-item-level-1:not(.it-has-children)::before {
+      content: "•";
+      position: absolute;
+      left: 6px;
+      top: -1px;
+      color: var(--sky-500);
+      font-size: 1.15rem;
+      line-height: 1.4;
+    }
+
+    /* Level 1 Title (when item has children) */
+    .it-item-title-level-1 {
+      font-size: 0.94rem;
+      font-weight: 700;
+      color: var(--text-main);
+      padding-bottom: 8px;
+      margin-bottom: 8px;
+      border-bottom: 1px dashed var(--border-subtle);
+      display: block;
+      line-height: 1.5;
+    }
+
+    /* Level 2 Sublist (Children inside option box or under top item) */
+    .it-sublist-level-2 {
+      padding-left: 4px;
+      margin: 4px 0;
+    }
+
+    .it-sublist-item-level-2 {
+      font-size: 0.86rem;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .it-sublist-item-level-2:not(.it-has-children) {
+      padding-left: 18px;
+    }
+    .it-sublist-item-level-2:not(.it-has-children)::before {
+      content: "▸";
+      position: absolute;
+      left: 3px;
+      top: 0px;
+      color: var(--amber-500);
+      font-size: 0.84rem;
+    }
+
+    /* Level 2 Sub-section with children (e.g. 第 1 段、第 2 段、第 3 段) */
+    .it-sublist-item-level-2.it-has-children {
+      margin-top: 10px;
+      margin-bottom: 8px;
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .it-item-title-level-2 {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--text-main);
+      margin-bottom: 6px;
+      display: inline-block;
+      line-height: 1.45;
+      background: rgba(14, 165, 233, 0.08);
+      border: 1px solid rgba(14, 165, 233, 0.22);
+      padding: 3px 9px;
+      border-radius: 6px;
+    }
+
+    [data-theme="light"] .it-item-title-level-2 {
+      background: rgba(14, 165, 233, 0.1);
+      border-color: rgba(14, 165, 233, 0.3);
+      color: #0369a1;
+    }
+
+    /* Level 3 items (Detail steps under sub-sections) */
+    .it-sublist-level-3 {
+      padding-left: 10px;
+      margin: 4px 0 8px 6px;
+      border-left: 2px solid var(--border-subtle);
+    }
+
+    .it-sublist-item-level-3 {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      margin-bottom: 5px;
+    }
+
+    .it-sublist-item-level-3:not(.it-has-children) {
+      padding-left: 16px;
+    }
+    .it-sublist-item-level-3:not(.it-has-children)::before {
+      content: "–";
+      position: absolute;
+      left: 4px;
+      top: 0px;
+      color: var(--text-soft);
+      font-weight: 700;
+    }
+
+    .it-item-title-level-3 {
+      font-size: 0.84rem;
+      font-weight: 600;
+      color: var(--text-main);
+      margin-bottom: 4px;
+    }
+
+    /* Level 4 items (Fine schedule details / alternatives) */
+    .it-sublist-level-4 {
+      padding-left: 10px;
+      margin: 3px 0 5px 6px;
+      border-left: 1.5px dashed var(--border-subtle);
+    }
+
+    .it-sublist-item-level-4 {
+      padding-left: 14px;
+      font-size: 0.82rem;
+      color: var(--text-soft);
+      margin-bottom: 4px;
+    }
+    .it-sublist-item-level-4::before {
+      content: "•";
+      position: absolute;
+      left: 4px;
+      top: -1px;
+      color: var(--sky-400);
+      font-size: 0.95rem;
+    }
+
+    .it-sublist-ol {
+      list-style-type: decimal;
+      padding-left: 22px;
+    }
+
+    .it-para {
+      font-size: 0.86rem;
+      color: var(--text-muted);
+      margin: 6px 0;
+    }
+
+    .it-quote {
+      border-left: 3px solid var(--sky-500);
+      padding-left: 10px;
+      margin: 6px 0;
+      font-style: italic;
+      color: var(--text-soft);
+      font-size: 0.84rem;
+    }
+
+    .it-link {
+      color: var(--sky-600);
+      text-decoration: none;
+      font-weight: 500;
+      word-break: break-all;
+    }
+
+    .it-link:hover {
+      text-decoration: underline;
+    }
+
+    .it-code {
+      background: var(--bg-subtle);
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-size: 0.84em;
+      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+      color: var(--maple-600);
+    }
+
+    /* Bottom Quick Nav Bar */
+    .bottom-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(15, 23, 42, 0.94);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 8px max(14px, env(safe-area-inset-right, 0px)) calc(8px + env(safe-area-inset-bottom, 0px)) max(14px, env(safe-area-inset-left, 0px));
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 950;
+      max-width: 860px;
+      margin: 0 auto;
+      border-radius: 16px 16px 0 0;
+    }
+
+    .nav-btn {
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: white;
+      font-family: var(--font-base);
+      font-weight: 600;
+      font-size: 0.8rem;
+      padding: 6px 13px;
+      border-radius: var(--radius-pill);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.2s ease;
+    }
+
+    .nav-btn:hover:not(:disabled) {
+      background: rgba(255, 255, 255, 0.22);
+    }
+
+    .nav-btn:disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+    }
+
+    .bottom-day-indicator {
+      color: white;
+      font-weight: 700;
+      font-size: 0.86rem;
+      font-family: var(--font-display);
+    }
+
+    /* Modals & Drawers */
+    .modal-backdrop {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(4px);
+      z-index: 2000;
+      display: none;
+      align-items: flex-end;
+      justify-content: center;
+    }
+
+    .modal-backdrop.open {
+      display: flex;
+    }
+
+    .modal-drawer {
+      background: var(--bg-surface);
+      width: 100%;
+      max-width: 580px;
+      border-radius: 20px 20px 0 0;
+      padding: 20px max(20px, env(safe-area-inset-right, 0px)) calc(20px + env(safe-area-inset-bottom, 0px)) max(20px, env(safe-area-inset-left, 0px));
+      box-shadow: var(--shadow-lg);
+      max-height: calc(88vh - env(safe-area-inset-top, 0px));
+      margin-top: env(safe-area-inset-top, 0px);
+      overflow-y: auto;
+      animation: slideUp 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to { transform: translateY(0); }
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .modal-title {
+      font-size: 1.06rem;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Search Drawer Styles */
+    .search-input-wrapper {
+      position: relative;
+      margin-bottom: 10px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 10px 36px 10px 14px;
+      border-radius: var(--radius-md);
+      border: 1.5px solid var(--border-subtle);
+      background: var(--bg-subtle);
+      color: var(--text-main);
+      font-size: 0.95rem;
+      font-family: inherit;
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    .search-input:focus {
+      border-color: var(--maple-500);
+      box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.15);
+      background: var(--bg-surface);
+    }
+
+    .btn-clear-search {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-soft);
+      font-size: 0.9rem;
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+    }
+
+    .search-stats {
+      font-size: 0.78rem;
+      color: var(--text-soft);
+      margin-bottom: 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .search-results-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-height: 56vh;
+      overflow-y: auto;
+    }
+
+    .search-result-item {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      cursor: pointer;
+      transition: all 0.18s ease;
+      text-align: left;
+    }
+
+    .search-result-item:hover {
+      border-color: var(--maple-500);
+      background: rgba(220, 38, 38, 0.04);
+      transform: translateY(-1px);
+    }
+
+    .search-result-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      margin-bottom: 4px;
+      font-size: 0.72rem;
+      font-weight: 700;
+    }
+
+    .search-result-day {
+      color: var(--maple-600);
+      background: rgba(220, 38, 38, 0.1);
+      padding: 1px 6px;
+      border-radius: 4px;
+    }
+
+    .search-result-title {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 3px;
+    }
+
+    .search-result-desc {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.4;
+    }
+
+    mark {
+      background-color: #fef08a;
+      color: #854d0e;
+      padding: 1px 3px;
+      border-radius: 2px;
+      font-weight: 700;
+    }
+
+    [data-theme="dark"] mark {
+      background-color: #854d0e;
+      color: #fef08a;
+    }
+
+    .preset-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 7px;
+      margin: 10px 0;
+    }
+
+    .preset-btn {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-main);
+      padding: 8px 9px;
+      border-radius: var(--radius-md);
+      font-size: 0.76rem;
+      text-align: left;
+      cursor: pointer;
+      line-height: 1.35;
+      transition: all 0.2s ease;
+    }
+
+    .preset-btn:hover {
+      border-color: var(--maple-500);
+      background: rgba(220, 38, 38, 0.05);
+    }
+
+    .preset-time {
+      font-weight: 700;
+      color: var(--maple-500);
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      bottom: calc(75px + env(safe-area-inset-bottom, 0px));
+      left: 50%;
+      transform: translateX(-50%) translateY(20px);
+      background: rgba(15, 23, 42, 0.96);
+      color: white;
+      padding: 8px 16px;
+      border-radius: var(--radius-pill);
+      font-size: 0.8rem;
+      font-weight: 600;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      z-index: 3000;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      max-width: 90vw;
+      white-space: normal;
+      text-align: center;
+      box-sizing: border-box;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    @media print {
+      .app-header, .day-tabs-container, .bottom-bar, .filter-bar, .modal-backdrop {
+        display: none !important;
+      }
+      body {
+        padding: 0;
+        background: white;
+        color: black;
+      }
+      .card-details {
+        display: block !important;
+      }
+      .timeline-card {
+        border: 1px solid #ccc;
+        box-shadow: none;
+        break-inside: avoid;
+        margin-bottom: 12px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .timeline {
+        padding-left: 15px;
+      }
+      .timeline::before {
+        left: 5px;
+      }
+      .timeline-dot {
+        left: -15px;
+        width: 12px;
+        height: 12px;
+      }
+      .card-header {
+        padding: 12px 13px;
+      }
+      .day-tab-btn {
+        min-width: 70px;
+        padding: 4px 7px;
+      }
+      .preset-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body data-theme="light">
+
+  <!-- Compact Top Header (48px) -->
+  <header class="app-header">
+    <div class="header-top">
+      <div class="brand-title">
+        <span>🍁 東北 20 天</span>
+      </div>
+      <div class="header-controls">
+        <a href="maps_places.html" class="btn-icon" style="text-decoration:none; display:flex; align-items:center; justify-content:center;" title="Google Maps 地點清單中心">🗺️</a>
+        <a href="calendar_export.html" class="btn-icon" style="text-decoration:none; display:flex; align-items:center; justify-content:center;" title="Google Calendar 日曆匯出與同步中心">📅</a>
+        <button class="btn-icon" id="btnOpenSearch" title="全行程關鍵字搜尋 (快捷鍵 /)">🔍</button>
+        <button class="btn-now" id="btnJumpNow" title="自動定位至當前行程">
+          <div class="pulse-dot"></div>
+          <span>現在行程</span>
+        </button>
+        <button class="btn-icon" id="btnThemeToggle" title="切換深淺色模式">🌙</button>
+        <button class="btn-icon" id="btnOpenSim" title="時間模擬器">⏱️</button>
+      </div>
+    </div>
+
+    <!-- Status Sub-strip (28px) -->
+    <div class="status-banner">
+      <div class="status-banner-left">
+        <span id="clockDisplay">2026/09/17 00:00</span>
+        <span id="simActiveBadge" style="display:none;" class="sim-tag">模擬</span>
+      </div>
+      <div class="status-banner-right">
+        <span id="statusMessageText">載入中...</span>
+        <button class="sim-toggle-btn" id="btnQuickSim">變更時間</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sticky Horizontal Day Tabs (Day 1 ~ Day 20) -->
+  <nav class="day-tabs-container" id="tabsNav">
+    <div class="day-tabs-track" id="tabsTrack">
+      <!-- Generated by JavaScript -->
+    </div>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main class="main-content">
+
+    <!-- Category Filter Chips -->
+    <div class="filter-bar">
+      <button class="filter-chip active" data-filter="all">全部</button>
+      <button class="filter-chip" data-filter="spot">🌟 必去景點</button>
+      <button class="filter-chip" data-filter="dining">🥩 極上美食</button>
+      <button class="filter-chip" data-filter="transit">🚌 交通銜接</button>
+      <button class="filter-chip" data-filter="hotel">🏨 頂級名宿</button>
+      <button class="filter-chip" data-filter="activity">🎯 特色體驗</button>
+    </div>
+
+    <!-- Day Hero Banner -->
+    <section class="day-hero" id="dayHero">
+      <div class="day-hero-header">
+        <div class="hero-badge-group">
+          <span class="hero-pill highlight" id="heroDayBadge">Day 1</span>
+          <span class="hero-pill" id="heroDateBadge">9/28 (週一)</span>
+          <span class="hero-pill" id="heroRegionBadge">青森市</span>
+          <span class="hero-pill wakeup" id="heroWakeupBadge" style="display:none;">⏰ 起床 --:--</span>
+        </div>
+      </div>
+      
+      <h1 class="hero-title" id="heroTitle">載入行程標題中...</h1>
+
+      <!-- Luggage & Hotel Transition Banner -->
+      <div class="luggage-callout" id="heroLuggageCallout" style="display:none;">
+        <span class="luggage-callout-icon">🧳</span>
+        <span id="heroLuggageText">換宿動線提示</span>
+      </div>
+
+      <div class="hero-actions">
+        <span style="font-size: 0.76rem; color: var(--text-soft);" id="heroItemCount">共 11 個行程節點</span>
+        <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+          <a href="#" target="_blank" rel="noopener noreferrer" class="btn-hero-route" id="heroRouteBtn">
+            <span>🗺️ 當日全景路線</span>
+            <span>↗</span>
+          </a>
+          <a href="https://www.city.hachinohe.aomori.jp/section/bus/onecoin_uminekogou.html" target="_blank" rel="noopener noreferrer" class="btn-hero-route btn-hero-timetable" id="heroTimetableBtn" style="display:none; background: rgba(30, 64, 175, 0.08); border-color: rgba(30, 64, 175, 0.28); color: #1d4ed8;" title="八戶市營巴士「うみねこ號」官方時刻表與運行資訊">
+            <span>🚌 うみねこ號時刻表</span>
+            <span>↗</span>
+          </a>
+          <button class="btn-text-action" id="btnToggleAllCards">
+            <span>展開當日全部詳細</span>
+            <span>▼</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Vertical Timeline Container -->
+    <section class="timeline" id="timelineContainer">
+      <!-- Generated by JavaScript -->
+    </section>
+
+  </main>
+
+  <!-- Bottom Floating Navigation -->
+  <footer class="bottom-bar">
+    <button class="nav-btn" id="btnPrevDay">
+      <span>‹ 前一天</span>
+    </button>
+    <div class="bottom-day-indicator" id="bottomDayIndicator">
+      Day 1 / 20
+    </div>
+    <button class="nav-btn" id="btnNextDay">
+      <span>後一天 ›</span>
+    </button>
+  </footer>
+
+  <!-- Search Drawer Modal -->
+  <div class="modal-backdrop" id="searchModal">
+    <div class="modal-drawer">
+      <div class="modal-header">
+        <h2 class="modal-title">🔍 全行程即時關鍵字搜尋</h2>
+        <button class="btn-icon" style="color: var(--text-main); background: var(--bg-subtle); border:none;" id="btnCloseSearch">✕</button>
+      </div>
+      <div class="search-input-wrapper">
+        <input type="text" id="searchInput" class="search-input" placeholder="輸入景點、餐廳、交通、拉麵、牛舌、溫泉、Lounge、行李..." autocomplete="off">
+        <button id="btnClearSearch" class="btn-clear-search">✕</button>
+      </div>
+      <div class="search-stats" id="searchStats">請輸入關鍵字以快速搜尋全 20 天行程</div>
+      <div class="search-results-list" id="searchResultsList"></div>
+    </div>
+  </div>
+
+  <!-- Time Simulator Modal -->
+  <div class="modal-backdrop" id="simModal">
+    <div class="modal-drawer">
+      <div class="modal-header">
+        <h2 class="modal-title">⏱️ 時間旅行模擬器</h2>
+        <button class="btn-icon" style="color: var(--text-main); background: var(--bg-subtle); border:none;" id="btnCloseSim">✕</button>
+      </div>
+      <p style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 12px;">
+        點選以下「行程關鍵高光時刻」或自訂時間，網頁將自動視為該時刻、自動切換至對應 Tab 並捲動高亮現在進行中的行程！
+      </p>
+
+      <div style="margin-bottom: 12px;">
+        <label style="font-size: 0.78rem; font-weight: 700; display: block; margin-bottom: 5px;">自選模擬日期與時間：</label>
+        <input type="datetime-local" id="customDatetimeInput" style="width: 100%; padding: 8px; border-radius: 8px; border: 1px solid var(--border-subtle); background: var(--bg-subtle); color: var(--text-main); font-family: inherit;">
+        <button class="btn-now" style="width: 100%; justify-content: center; margin-top: 8px;" id="btnApplyCustomTime">套用自訂時間並跳轉</button>
+      </div>
+
+      <div style="border-top: 1px solid var(--border-subtle); padding-top: 12px;">
+        <label style="font-size: 0.78rem; font-weight: 700; display: block; margin-bottom: 5px;">⚡ 快速情境實戰預設：</label>
+        <div class="preset-grid">
+          <button class="preset-btn" data-time="2026-09-28T14:30:00">
+            <span class="preset-time">Day 1 14:30</span>
+            抵達青森機場・出境提行李
+          </button>
+          <button class="preset-btn" data-time="2026-09-29T11:30:00">
+            <span class="preset-time">Day 2 11:30</span>
+            奧入瀨溪流・十和田湖一日遊
+          </button>
+          <button class="preset-btn" data-time="2026-09-30T15:00:00">
+            <span class="preset-time">Day 3 15:00</span>
+            淺虫溫泉 海扇閣 Check-in
+          </button>
+          <button class="preset-btn" data-time="2026-10-01T09:45:00">
+            <span class="preset-time">Day 4 09:45</span>
+            海扇閣免費專車直達水族館
+          </button>
+          <button class="preset-btn" data-time="2026-10-06T10:00:00">
+            <span class="preset-time">Day 9 10:00</span>
+            八戶酒造 陸奧八仙紅磚酒藏見學
+          </button>
+          <button class="preset-btn" data-time="2026-10-07T14:30:00">
+            <span class="preset-time">Day 10 14:30</span>
+            松島一之坊 接駁專車圓環迎接！
+          </button>
+          <button class="preset-btn" data-time="2026-10-08T11:35:00">
+            <span class="preset-time">Day 11 11:35</span>
+            仁王丸 2 樓特別席卡位排隊！
+          </button>
+          <button class="preset-btn" data-time="2026-10-08T15:00:00">
+            <span class="preset-time">Day 11 15:00</span>
+            伊達政宗歷史館 ＆ 伊達下午茶
+          </button>
+          <button class="preset-btn" data-time="2026-10-10T10:00:00">
+            <span class="preset-time">Day 13 10:00</span>
+            Nikka 宮城峽威士忌蒸餾所見學
+          </button>
+          <button class="preset-btn" data-time="2026-10-13T18:00:00">
+            <span class="preset-time">Day 16 18:00</span>
+            ちからや A5仙台牛三昧吃到飽
+          </button>
+          <button class="preset-btn" data-time="2026-10-16T15:00:00">
+            <span class="preset-time">Day 19 15:00</span>
+            御宿野乃 仙台 Check-in 享天然溫泉
+          </button>
+          <button class="preset-btn" data-time="2026-10-17T07:30:00">
+            <span class="preset-time">Day 20 07:30</span>
+            御宿野乃 海陸早餐生鮭魚卵吃到飽
+          </button>
+        </div>
+
+        <button style="width: 100%; padding: 8px; border-radius: var(--radius-pill); border: 1px solid var(--border-subtle); background: var(--bg-subtle); color: var(--text-main); font-weight: 600; cursor: pointer; margin-top: 6px; font-size: 0.8rem;" id="btnResetRealTime">
+          🔄 恢復為當前實際系統時間
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="appToast">已自動定位至當前行程</div>
+
+  <!-- Raw Data Embedded -->
+  <script>
+    const ITINERARY_DATA = __JSON_DATA__;
+  </script>
+
+  <!-- PWA Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').then(reg => {
+          console.log('SW registered successfully:', reg.scope);
+        }).catch(err => {
+          console.log('SW registration failed:', err);
+        });
+      });
+    }
+  </script>
+
+  <!-- Application Logic -->
+  <script>
+    let currentDay = 1;
+    let currentFilter = 'all';
+    let simulatedTime = null;
+    let isAllExpanded = false;
+
+    // DOM Elements
+    const tabsTrack = document.getElementById('tabsTrack');
+    const timelineContainer = document.getElementById('timelineContainer');
+    const heroTitle = document.getElementById('heroTitle');
+    const heroDayBadge = document.getElementById('heroDayBadge');
+    const heroDateBadge = document.getElementById('heroDateBadge');
+    const heroRegionBadge = document.getElementById('heroRegionBadge');
+    const heroWakeupBadge = document.getElementById('heroWakeupBadge');
+    const heroLuggageCallout = document.getElementById('heroLuggageCallout');
+    const heroLuggageText = document.getElementById('heroLuggageText');
+    const heroRouteBtn = document.getElementById('heroRouteBtn');
+    const heroTimetableBtn = document.getElementById('heroTimetableBtn');
+    const heroItemCount = document.getElementById('heroItemCount');
+    const bottomDayIndicator = document.getElementById('bottomDayIndicator');
+    const btnPrevDay = document.getElementById('btnPrevDay');
+    const btnNextDay = document.getElementById('btnNextDay');
+    const btnJumpNow = document.getElementById('btnJumpNow');
+    const btnToggleAllCards = document.getElementById('btnToggleAllCards');
+    const clockDisplay = document.getElementById('clockDisplay');
+    const statusMessageText = document.getElementById('statusMessageText');
+    const simActiveBadge = document.getElementById('simActiveBadge');
+    const btnThemeToggle = document.getElementById('btnThemeToggle');
+    const simModal = document.getElementById('simModal');
+    const btnOpenSim = document.getElementById('btnOpenSim');
+    const btnQuickSim = document.getElementById('btnQuickSim');
+    const btnCloseSim = document.getElementById('btnCloseSim');
+    const customDatetimeInput = document.getElementById('customDatetimeInput');
+    const btnApplyCustomTime = document.getElementById('btnApplyCustomTime');
+    const btnResetRealTime = document.getElementById('btnResetRealTime');
+    const appToast = document.getElementById('appToast');
+    const filterChips = document.querySelectorAll('.filter-chip');
+
+    // Search Elements
+    const btnOpenSearch = document.getElementById('btnOpenSearch');
+    const searchModal = document.getElementById('searchModal');
+    const btnCloseSearch = document.getElementById('btnCloseSearch');
+    const searchInput = document.getElementById('searchInput');
+    const btnClearSearch = document.getElementById('btnClearSearch');
+    const searchStats = document.getElementById('searchStats');
+    const searchResultsList = document.getElementById('searchResultsList');
+
+    function showToast(msg) {
+      appToast.textContent = msg;
+      appToast.classList.add('show');
+      setTimeout(() => appToast.classList.remove('show'), 3500);
+    }
+
+    window.copyJpText = function(e, text) {
+      if (e) e.stopPropagation();
+      if (!text) return;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          showToast(`📋 已複製日文「${text}」，可出示給司機或店員！`);
+        }).catch(() => {
+          fallbackCopyText(text);
+        });
+      } else {
+        fallbackCopyText(text);
+      }
+    };
+
+    function fallbackCopyText(text) {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      try {
+        document.execCommand('copy');
+        showToast(`📋 已複製日文「${text}」，可出示給司機或店員！`);
+      } catch (err) {
+        showToast(`複製失敗，請手動選取：${text}`);
+      }
+      document.body.removeChild(ta);
+    }
+
+    function getNow() {
+      return simulatedTime ? new Date(simulatedTime) : new Date();
+    }
+
+    function updateClock() {
+      const now = getNow();
+      const y = now.getFullYear();
+      const m = String(now.getMonth() + 1).padStart(2, '0');
+      const d = String(now.getDate()).padStart(2, '0');
+      const hh = String(now.getHours()).padStart(2, '0');
+      const mm = String(now.getMinutes()).padStart(2, '0');
+      clockDisplay.textContent = `${y}/${m}/${d} ${hh}:${mm}`;
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+
+    // Render Tabs
+    function renderTabs() {
+      tabsTrack.innerHTML = '';
+      ITINERARY_DATA.forEach(day => {
+        const btn = document.createElement('button');
+        btn.className = `day-tab-btn ${day.day === currentDay ? 'active' : ''}`;
+        btn.id = `tab-btn-day-${day.day}`;
+        btn.innerHTML = `
+          <span class="day-num">Day ${day.day}</span>
+          <span class="day-date">${day.date_info.split(' ')[0]}</span>
+          <span class="day-city">${day.region}</span>
+        `;
+        btn.addEventListener('click', () => {
+          switchDay(day.day, false);
+        });
+        tabsTrack.appendChild(btn);
+      });
+    }
+
+    // Switch Day
+    function switchDay(dayNum, shouldScrollTimeline = false) {
+      currentDay = dayNum;
+      isAllExpanded = false;
+      btnToggleAllCards.innerHTML = '<span>展開當日全部詳細</span> <span>▼</span>';
+
+      document.querySelectorAll('.day-tab-btn').forEach(btn => btn.classList.remove('active'));
+      const activeTab = document.getElementById(`tab-btn-day-${dayNum}`);
+      if (activeTab) {
+        activeTab.classList.add('active');
+        activeTab.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }
+
+      const dayData = ITINERARY_DATA.find(d => d.day === dayNum);
+      if (dayData) {
+        heroDayBadge.textContent = `Day ${dayData.day}`;
+        heroDateBadge.textContent = dayData.date_info;
+        heroRegionBadge.textContent = dayData.region;
+        if (dayData.wake_up_time) {
+          heroWakeupBadge.style.display = 'inline-flex';
+          heroWakeupBadge.textContent = `⏰ 起床 ${dayData.wake_up_time}`;
+          heroWakeupBadge.title = dayData.wake_up_note ? `預計起床：${dayData.wake_up_note}` : '預計起床時間';
+        } else {
+          heroWakeupBadge.style.display = 'none';
+        }
+
+        heroTitle.textContent = dayData.title;
+
+        // Luggage Callout
+        if (dayData.luggage_note) {
+          heroLuggageCallout.style.display = 'flex';
+          heroLuggageText.textContent = dayData.luggage_note;
+        } else {
+          heroLuggageCallout.style.display = 'none';
+        }
+
+        // Day Route URL
+        if (dayData.route_url) {
+          heroRouteBtn.style.display = 'inline-flex';
+          heroRouteBtn.href = dayData.route_url;
+        } else {
+          heroRouteBtn.style.display = 'none';
+        }
+
+        // Timetable Button (Day 8 Umineko-go / Day 9 Hasshoku 150-yen Bus)
+        if (dayData.day === 8) {
+          heroTimetableBtn.style.display = 'inline-flex';
+          heroTimetableBtn.href = "https://www.city.hachinohe.aomori.jp/section/bus/onecoin_uminekogou.html";
+          heroTimetableBtn.querySelector('span:first-child').textContent = "🚌 うみねこ號時刻表";
+          heroTimetableBtn.title = "八戶市營巴士「うみねこ號」官方時刻表與運行資訊";
+        } else if (dayData.day === 9) {
+          heroTimetableBtn.style.display = 'inline-flex';
+          heroTimetableBtn.href = "https://www.849net.com/access/bus150_202604.pdf";
+          heroTimetableBtn.querySelector('span:first-child').textContent = "🚌 八食150円巴士時刻表";
+          heroTimetableBtn.title = "八食 150 円巴士官方時刻表與乘車處指引 (PDF)";
+        } else {
+          heroTimetableBtn.style.display = 'none';
+        }
+
+        heroItemCount.textContent = `共 ${dayData.items.length} 個行程節點`;
+        bottomDayIndicator.textContent = `Day ${dayData.day} / 20 (${dayData.region})`;
+
+        renderTimeline(dayData);
+      }
+
+      btnPrevDay.disabled = (dayNum <= 1);
+      btnNextDay.disabled = (dayNum >= 20);
+
+      if (shouldScrollTimeline) {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    }
+
+    // Render Timeline Items
+    function renderTimeline(dayData) {
+      timelineContainer.innerHTML = '';
+      const now = getNow();
+      const yyyy = now.getFullYear();
+      const mm = String(now.getMonth() + 1).padStart(2, '0');
+      const dd = String(now.getDate()).padStart(2, '0');
+      const todayIso = `${yyyy}-${mm}-${dd}`;
+      const isToday = (dayData.iso_date === todayIso);
+      const currentMin = now.getHours() * 60 + now.getMinutes();
+
+      dayData.items.forEach((item, index) => {
+        const node = document.createElement('div');
+        node.className = 'timeline-node';
+        node.id = item.id;
+        node.setAttribute('data-category', item.category);
+
+        if (currentFilter !== 'all' && item.category !== currentFilter) {
+          node.classList.add('hidden-by-filter');
+        }
+
+        let isActiveNow = false;
+        if (isToday && item.start_time) {
+          const [sh, sm] = item.start_time.split(':').map(Number);
+          const startMin = sh * 60 + sm;
+          let endMin = startMin + 45;
+          if (item.end_time) {
+            const [eh, em] = item.end_time.split(':').map(Number);
+            endMin = eh * 60 + em;
+            if (endMin < startMin) endMin += 24 * 60;
+          }
+          if (currentMin >= startMin && currentMin < endMin) {
+            isActiveNow = true;
+          }
+        }
+
+        if (isActiveNow) {
+          node.classList.add('active-now');
+        }
+
+        // Build Injected Fact Section HTML
+        let factSectionHtml = '';
+        if (item.fact_data) {
+          const fd = item.fact_data;
+          if (fd.type === 'spot') {
+            const rulesLi = fd.rules ? fd.rules.map(r => `<li>${r}</li>`).join('') : '';
+            factSectionHtml = `
+              <div class="fact-section spot-fact-section">
+                <div class="fact-header">
+                  <span class="fact-badge">🏛️ 景點官方事實查核規格</span>
+                  ${fd.badge ? `<span class="fact-tag">${fd.badge}</span>` : ''}
+                </div>
+                ${rulesLi ? `
+                <div class="fact-cell"><strong>🕒 官方營運與最新規範：</strong></div>
+                <ul class="fact-rules-list">${rulesLi}</ul>
+                ` : ''}
+                <div class="fact-desc"><strong>💡 官方核實核心特色：</strong>${fd.highlights}</div>
+              </div>
+            `;
+          } else if (fd.type === 'dining') {
+            factSectionHtml = `
+              <div class="fact-section dining-fact-section">
+                <div class="fact-header">
+                  <span class="fact-badge">🥩 美饌事實查核與訂位指南</span>
+                  ${fd.rating ? `<span class="fact-tag" style="color:var(--amber-500);">${fd.rating}</span>` : ''}
+                </div>
+                <div class="fact-grid">
+                  ${fd.cuisine ? `<div class="fact-cell"><strong>🍲 招牌料理：</strong>${fd.cuisine}</div>` : ''}
+                  <div class="fact-cell"><strong>🕒 營業時段：</strong>${fd.hours}</div>
+                  <div class="fact-cell"><strong>🗓️ 定休日：</strong>${fd.closed}</div>
+                  <div class="fact-cell"><strong>📞 預約管道：</strong>${fd.channel}</div>
+                </div>
+                <div class="fact-desc"><strong>💡 排隊技巧與備料避坑：</strong>${fd.tips}</div>
+              </div>
+            `;
+          } else if (fd.type === 'hotel') {
+            factSectionHtml = `
+              <div class="fact-section hotel-fact-section">
+                <div class="fact-header">
+                  <span class="fact-badge">🏨 頂級名宿全要素服務設施指南</span>
+                </div>
+                <div class="fact-grid">
+                  <div class="fact-cell"><strong>🔑 入住與行李：</strong>${fd.checkin_out}</div>
+                  <div class="fact-cell"><strong>🍸 休息室 Lounge：</strong>${fd.lounge}</div>
+                  <div class="fact-cell"><strong>♨️ 溫泉與桑拿：</strong>${fd.bath_onsen}</div>
+                  <div class="fact-cell"><strong>🧺 投幣洗衣設備：</strong>${fd.laundry}</div>
+                </div>
+                <div class="fact-desc"><strong>🍳 朝食與夕食亮點：</strong>${fd.breakfast}</div>
+              </div>
+            `;
+          }
+        }
+
+        let cautionsHtml = '';
+        if (item.cautions && item.cautions.length > 0) {
+          cautionsHtml = `
+            <div class="caution-box">
+              <div class="caution-title">
+                <span>⚠️ 核心防雷與備忘提示</span>
+              </div>
+              <ul style="padding-left: 16px; margin-top: 3px;">
+                ${item.cautions.map(c => `<li>${c}</li>`).join('')}
+              </ul>
+            </div>
+          `;
+        }
+
+        let mapsHtml = '';
+        const allButtons = [];
+        if (item.map_links && item.map_links.length > 0) {
+          item.map_links.forEach(l => {
+            allButtons.push(`
+              <a href="${l.url}" target="_blank" rel="noopener noreferrer" class="btn-maps ${l.is_dir ? 'btn-dir' : ''}">
+                <span>${l.is_dir ? '🚶 導航路線' : '📍 Google 地圖'}</span>
+                <span style="opacity: 0.9; font-size: 0.72rem;">(${l.name})</span>
+              </a>
+            `);
+          });
+        }
+        if (item.custom_links && item.custom_links.length > 0) {
+          item.custom_links.forEach(cl => {
+            allButtons.push(`
+              <a href="${cl.url}" target="_blank" rel="noopener noreferrer" class="btn-maps btn-custom-link" style="background: rgba(30, 64, 175, 0.08); border-color: rgba(30, 64, 175, 0.28); color: #1d4ed8;">
+                <span>${cl.icon || '🔗'} ${cl.name}</span>
+                <span style="opacity: 0.9; font-size: 0.72rem;">↗</span>
+              </a>
+            `);
+          });
+        }
+        if (allButtons.length > 0) {
+          mapsHtml = `
+            <div class="maps-btn-container">
+              ${allButtons.join('')}
+            </div>
+          `;
+        }
+
+        // Copy Japanese Name Button
+        let copyJpBtn = '';
+        if (item.japanese_name) {
+          const safeJp = item.japanese_name.replace(/'/g, "\\'");
+          copyJpBtn = `
+            <button class="btn-copy-jp" onclick="copyJpText(event, '${safeJp}')" title="點擊複製日文名稱，方便問路或交給司機">
+              <span>📋 複製日文「${item.japanese_name}」</span>
+            </button>
+          `;
+        }
+
+        let customLinksPills = '';
+        if (item.custom_links && item.custom_links.length > 0) {
+          customLinksPills = item.custom_links.map(cl => `
+            <a href="${cl.url}" target="_blank" rel="noopener noreferrer" class="badge-pill" style="background: rgba(30, 64, 175, 0.1); color: #1d4ed8; text-decoration: none; border: 1px solid rgba(30, 64, 175, 0.25);" onclick="event.stopPropagation();" title="開啟官方時刻表">
+              <span>${cl.icon || '🔗'} ${cl.name} ↗</span>
+            </a>
+          `).join('');
+        }
+
+        const hasDetails = (allButtons.length > 0) ||
+                           (item.cautions && item.cautions.length > 0) ||
+                           (item.body_html && item.body_html.trim().length > 0) ||
+                           (item.fact_data !== null);
+
+        node.innerHTML = `
+          <div class="timeline-dot"></div>
+          <div class="timeline-card" id="card-${item.id}">
+            <div class="card-header" ${hasDetails ? `onclick="toggleCard('${item.id}')" style="cursor:pointer;"` : 'style="cursor:default;"'}>
+              <div class="card-header-meta">
+                <span class="time-badge">
+                  <span>⏰</span>
+                  <span>${item.time_display}</span>
+                </span>
+                <div style="display:flex; gap:5px; align-items:center;">
+                  ${isActiveNow ? '<span class="badge-pill status-now">🔴 進行中</span>' : ''}
+                  <span class="category-tag ${item.category}">${item.category_label}</span>
+                </div>
+              </div>
+              <div class="card-title-row">
+                <h3 class="card-title">${item.title}</h3>
+                ${hasDetails ? `
+                <svg class="chevron-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+                ` : ''}
+              </div>
+              <div class="card-badges-row">
+                ${item.badge ? `<span class="badge-pill" style="background: rgba(220, 38, 38, 0.1); color: var(--maple-600);">${item.badge}</span>` : ''}
+                ${copyJpBtn}
+                ${customLinksPills}
+              </div>
+            </div>
+            ${hasDetails ? `
+            <div class="card-details">
+              ${mapsHtml}
+              ${factSectionHtml}
+              ${cautionsHtml}
+              <div class="card-rich-body">
+                ${item.body_html}
+              </div>
+            </div>
+            ` : ''}
+          </div>
+        `;
+
+        timelineContainer.appendChild(node);
+      });
+    }
+
+    window.toggleCard = function(itemId) {
+      const card = document.getElementById(`card-${itemId}`);
+      if (card) {
+        card.classList.toggle('is-expanded');
+      }
+    };
+
+    btnToggleAllCards.addEventListener('click', () => {
+      isAllExpanded = !isAllExpanded;
+      document.querySelectorAll('.timeline-card').forEach(card => {
+        if (isAllExpanded) {
+          card.classList.add('is-expanded');
+        } else {
+          card.classList.remove('is-expanded');
+        }
+      });
+      btnToggleAllCards.innerHTML = isAllExpanded 
+        ? '<span>收合全部詳細</span> <span>▲</span>' 
+        : '<span>展開當日全部詳細</span> <span>▼</span>';
+    });
+
+    // Category Filter Buttons
+    filterChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        filterChips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        currentFilter = chip.getAttribute('data-filter');
+
+        document.querySelectorAll('.timeline-node').forEach(node => {
+          const cat = node.getAttribute('data-category');
+          if (currentFilter === 'all' || cat === currentFilter) {
+            node.classList.remove('hidden-by-filter');
+          } else {
+            node.classList.add('hidden-by-filter');
+          }
+        });
+      });
+    });
+
+    // Auto Jump to Now
+    function autoJumpToNow(animate = true) {
+      const now = getNow();
+      const tripStartDate = new Date(2026, 8, 28, 0, 0, 0); // 2026/09/28
+      const tripEndDate = new Date(2026, 9, 17, 23, 59, 59);   // 2026/10/17
+
+      const isWithinTrip = (now >= tripStartDate && now <= tripEndDate);
+
+      let targetDay = 1;
+      let targetItemId = null;
+      let msg = '';
+
+      if (isWithinTrip) {
+        const yyyy = now.getFullYear();
+        const mm = String(now.getMonth() + 1).padStart(2, '0');
+        const dd = String(now.getDate()).padStart(2, '0');
+        const todayIso = `${yyyy}-${mm}-${dd}`;
+
+        const dayObj = ITINERARY_DATA.find(d => d.iso_date === todayIso);
+        if (dayObj) {
+          targetDay = dayObj.day;
+          const currentMin = now.getHours() * 60 + now.getMinutes();
+
+          let activeItem = null;
+          let nextUpcoming = null;
+
+          for (const item of dayObj.items) {
+            if (!item.start_time) continue;
+            const [sh, sm] = item.start_time.split(':').map(Number);
+            const startMin = sh * 60 + sm;
+            let endMin = startMin + 45;
+            if (item.end_time) {
+              const [eh, em] = item.end_time.split(':').map(Number);
+              endMin = eh * 60 + em;
+              if (endMin < startMin) endMin += 24 * 60;
+            }
+
+            if (currentMin >= startMin && currentMin < endMin) {
+              activeItem = item;
+              break;
+            }
+            if (currentMin < startMin && !nextUpcoming) {
+              nextUpcoming = item;
+            }
+          }
+
+          if (activeItem) {
+            targetItemId = activeItem.id;
+            msg = `📍 進行中：Day ${targetDay} ${activeItem.time_display} ${activeItem.title}`;
+          } else if (nextUpcoming) {
+            targetItemId = nextUpcoming.id;
+            msg = `⏳ 即將開始：Day ${targetDay} ${nextUpcoming.time_display} ${nextUpcoming.title}`;
+          } else if (dayObj.items.length > 0) {
+            targetItemId = dayObj.items[dayObj.items.length - 1].id;
+            msg = `🌙 今日行程已告一段落：Day ${targetDay}`;
+          }
+        }
+      } else {
+        if (now < tripStartDate) {
+          targetDay = 1;
+          targetItemId = null;
+          const diffDays = Math.ceil((tripStartDate - now) / (1000 * 60 * 60 * 24));
+          msg = `✈️ 距離出發尚有 ${diffDays} 天！預設顯示 Day 1，可用時間模擬器體驗。`;
+        } else {
+          targetDay = 20;
+          targetItemId = null;
+          msg = `🎉 行程已圓滿完成！目前顯示 Day 20 回國日。`;
+        }
+      }
+
+      statusMessageText.textContent = msg;
+
+      switchDay(targetDay, false);
+
+      if (targetItemId) {
+        setTimeout(() => {
+          const itemElem = document.getElementById(targetItemId);
+          if (itemElem) {
+            itemElem.scrollIntoView({ behavior: animate ? 'smooth' : 'auto', block: 'start' });
+            const card = document.getElementById(`card-${targetItemId}`);
+            if (card) {
+              card.classList.add('is-expanded');
+            }
+          }
+        }, 160);
+      }
+
+      if (animate) {
+        showToast(msg);
+      }
+    }
+
+    // Prev / Next Navigation
+    btnPrevDay.addEventListener('click', () => {
+      if (currentDay > 1) switchDay(currentDay - 1, true);
+    });
+    btnNextDay.addEventListener('click', () => {
+      if (currentDay < 20) switchDay(currentDay + 1, true);
+    });
+    btnJumpNow.addEventListener('click', () => {
+      autoJumpToNow(true);
+    });
+
+    // Theme Switcher
+    btnThemeToggle.addEventListener('click', () => {
+      const current = document.body.getAttribute('data-theme');
+      const next = (current === 'dark') ? 'light' : 'dark';
+      document.body.setAttribute('data-theme', next);
+      btnThemeToggle.textContent = (next === 'dark') ? '☀️' : '🌙';
+      localStorage.setItem('theme', next);
+    });
+
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+      document.body.setAttribute('data-theme', savedTheme);
+      btnThemeToggle.textContent = (savedTheme === 'dark') ? '☀️' : '🌙';
+    }
+
+    // Time Simulator Modal
+    function openSimModal() {
+      simModal.classList.add('open');
+      const now = getNow();
+      const yyyy = now.getFullYear();
+      const mm = String(now.getMonth() + 1).padStart(2, '0');
+      const dd = String(now.getDate()).padStart(2, '0');
+      const hh = String(now.getHours()).padStart(2, '0');
+      const min = String(now.getMinutes()).padStart(2, '0');
+      customDatetimeInput.value = `${yyyy}-${mm}-${dd}T${hh}:${min}`;
+    }
+
+    btnOpenSim.addEventListener('click', openSimModal);
+    btnQuickSim.addEventListener('click', openSimModal);
+    btnCloseSim.addEventListener('click', () => simModal.classList.remove('open'));
+    simModal.addEventListener('click', (e) => {
+      if (e.target === simModal) simModal.classList.remove('open');
+    });
+
+    btnApplyCustomTime.addEventListener('click', () => {
+      if (customDatetimeInput.value) {
+        simulatedTime = new Date(customDatetimeInput.value);
+        simActiveBadge.style.display = 'inline-block';
+        updateClock();
+        simModal.classList.remove('open');
+        autoJumpToNow(true);
+      }
+    });
+
+    btnResetRealTime.addEventListener('click', () => {
+      simulatedTime = null;
+      simActiveBadge.style.display = 'none';
+      updateClock();
+      simModal.classList.remove('open');
+      autoJumpToNow(true);
+    });
+
+    document.querySelectorAll('.preset-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const timeStr = btn.getAttribute('data-time');
+        if (timeStr) {
+          simulatedTime = new Date(timeStr);
+          simActiveBadge.style.display = 'inline-block';
+          updateClock();
+          simModal.classList.remove('open');
+          autoJumpToNow(true);
+        }
+      });
+    });
+
+    // Search Modal & Instant Search Engine
+    function openSearchModal() {
+      searchModal.classList.add('open');
+      searchInput.focus();
+      if (searchInput.value.trim().length > 0) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearchModal() {
+      searchModal.classList.remove('open');
+    }
+
+    btnOpenSearch.addEventListener('click', openSearchModal);
+    btnCloseSearch.addEventListener('click', closeSearchModal);
+    searchModal.addEventListener('click', (e) => {
+      if (e.target === searchModal) closeSearchModal();
+    });
+
+    btnClearSearch.addEventListener('click', () => {
+      searchInput.value = '';
+      btnClearSearch.style.display = 'none';
+      searchResultsList.innerHTML = '';
+      searchStats.textContent = '請輸入關鍵字以快速搜尋全 20 天行程';
+      searchInput.focus();
+    });
+
+    // Keyboard Shortcuts (/ or Ctrl+K / Cmd+K)
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (searchModal.classList.contains('open')) closeSearchModal();
+        if (simModal.classList.contains('open')) simModal.classList.remove('open');
+      } else if (e.key === '/' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
+        e.preventDefault();
+        openSearchModal();
+      } else if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        openSearchModal();
+      }
+    });
+
+    function escapeRegex(str) {
+      return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function highlightKeyword(text, keyword) {
+      if (!keyword || !text) return text;
+      const regex = new RegExp(`(${escapeRegex(keyword)})`, 'gi');
+      return text.replace(regex, '<mark>$1</mark>');
+    }
+
+    function performSearch(query) {
+      const q = query.trim().toLowerCase();
+      if (!q) {
+        btnClearSearch.style.display = 'none';
+        searchResultsList.innerHTML = '';
+        searchStats.textContent = '請輸入關鍵字以快速搜尋全 20 天行程';
+        return;
+      }
+      btnClearSearch.style.display = 'block';
+
+      const results = [];
+
+      ITINERARY_DATA.forEach(day => {
+        day.items.forEach(item => {
+          let score = 0;
+          let matchedSnippet = '';
+
+          const titleLower = (item.title || '').toLowerCase();
+          const jpLower = (item.japanese_name || '').toLowerCase();
+          const rawLower = (item.raw_text || '').toLowerCase();
+          const catLabelLower = (item.category_label || '').toLowerCase();
+          const dayTitleLower = (day.title || '').toLowerCase();
+          const regionLower = (day.region || '').toLowerCase();
+          const cautionsStr = (item.cautions || []).join(' ').toLowerCase();
+
+          let factStr = '';
+          if (item.fact_data) {
+            factStr = JSON.stringify(item.fact_data).toLowerCase();
+          }
+
+          if (titleLower.includes(q)) score += 100;
+          if (jpLower.includes(q)) score += 90;
+          if (cautionsStr.includes(q)) score += 60;
+          if (factStr.includes(q)) score += 50;
+          if (rawLower.includes(q)) score += 30;
+          if (catLabelLower.includes(q)) score += 20;
+          if (regionLower.includes(q)) score += 15;
+          if (dayTitleLower.includes(q)) score += 10;
+
+          if (score > 0) {
+            if (item.japanese_name && jpLower.includes(q)) {
+              matchedSnippet = `日文：${item.japanese_name}`;
+            } else if (cautionsStr.includes(q)) {
+              const matchedC = item.cautions.find(c => c.toLowerCase().includes(q));
+              if (matchedC) matchedSnippet = `備忘：${matchedC.replace(/<[^>]+>/g, '')}`;
+            } else if (item.fact_data && factStr.includes(q)) {
+              const fd = item.fact_data;
+              matchedSnippet = fd.highlights || fd.tips || fd.breakfast || fd.hours || '';
+            } else {
+              const plain = item.raw_text.replace(/[*_#`[\]]/g, ' ').replace(/\s+/g, ' ');
+              const idx = plain.toLowerCase().indexOf(q);
+              if (idx !== -1) {
+                const start = Math.max(0, idx - 25);
+                const end = Math.min(plain.length, idx + q.length + 45);
+                matchedSnippet = (start > 0 ? '...' : '') + plain.substring(start, end).trim() + (end < plain.length ? '...' : '');
+              }
+            }
+
+            results.push({
+              day: day.day,
+              date_info: day.date_info,
+              region: day.region,
+              id: item.id,
+              time_display: item.time_display,
+              category_label: item.category_label,
+              title: item.title,
+              japanese_name: item.japanese_name,
+              matchedSnippet: matchedSnippet || (item.raw_text.split('\n')[0].replace(/[-*#]/g, '').trim()),
+              score: score
+            });
+          }
+        });
+      });
+
+      results.sort((a, b) => b.score - a.score);
+
+      searchStats.textContent = `找到 ${results.length} 筆相符行程結果（點擊直接跳轉）：`;
+
+      if (results.length === 0) {
+        searchResultsList.innerHTML = `
+          <div style="text-align:center; padding: 30px 10px; color: var(--text-soft); font-size: 0.85rem;">
+            🔍 查無「<strong>${query}</strong>」相關行程節點<br>
+            <span style="font-size: 0.76rem; opacity: 0.8;">可嘗試輸入「拉麵」、「牛舌」、「溫泉」、「Lounge」、「水族館」、「寄放」等關鍵字</span>
+          </div>
+        `;
+        return;
+      }
+
+      searchResultsList.innerHTML = '';
+      results.forEach(res => {
+        const itemDiv = document.createElement('div');
+        itemDiv.className = 'search-result-item';
+        const highlightedTitle = highlightKeyword(res.title, query);
+        const highlightedSnippet = highlightKeyword(res.matchedSnippet, query);
+
+        itemDiv.innerHTML = `
+          <div class="search-result-meta">
+            <span class="search-result-day">Day ${res.day} (${res.region})</span>
+            <span style="color: var(--text-soft);">⏰ ${res.time_display} · ${res.category_label}</span>
+          </div>
+          <div class="search-result-title">${highlightedTitle}</div>
+          <div class="search-result-desc">${highlightedSnippet}</div>
+        `;
+
+        itemDiv.addEventListener('click', () => {
+          closeSearchModal();
+          jumpToSearchResult(res.day, res.id, res.title);
+        });
+
+        searchResultsList.appendChild(itemDiv);
+      });
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      performSearch(e.target.value);
+    });
+
+    function jumpToSearchResult(dayNum, itemId, itemTitle) {
+      switchDay(dayNum, false);
+
+      setTimeout(() => {
+        const itemElem = document.getElementById(itemId);
+        if (itemElem) {
+          itemElem.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          const card = document.getElementById(`card-${itemId}`);
+          if (card) {
+            card.classList.add('is-expanded');
+          }
+          itemElem.classList.add('search-target-highlight');
+          setTimeout(() => itemElem.classList.remove('search-target-highlight'), 2600);
+        }
+      }, 160);
+
+      showToast(`🎯 已跳轉至 Day ${dayNum}：${itemTitle}`);
+    }
+
+    // Initialize App
+    renderTabs();
+    autoJumpToNow(false);
+
+  </script>
+</body>
+</html>
