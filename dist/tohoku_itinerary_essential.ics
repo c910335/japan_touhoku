@@ -28,7 +28,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:tohoku2026-day-1-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d1-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260928T153000
 DTEND;TZID=Asia/Tokyo:20260928T154500
 TRANSP:OPAQUE
@@ -50,7 +50,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d1-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260928T160000
 DTEND;TZID=Asia/Tokyo:20260928T174500
 TRANSP:OPAQUE
@@ -61,7 +61,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d1-it13@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260928T210000
 DTEND;TZID=Asia/Tokyo:20260928T235900
 TRANSP:OPAQUE
@@ -72,7 +72,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-2-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 TRANSP:TRANSPARENT
@@ -83,7 +83,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T073000
 DTEND;TZID=Asia/Tokyo:20260929T081500
 TRANSP:OPAQUE
@@ -94,7 +94,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T093000
 DTEND;TZID=Asia/Tokyo:20260929T113000
 TRANSP:OPAQUE
@@ -105,7 +105,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T113000
 DTEND;TZID=Asia/Tokyo:20260929T123000
 TRANSP:OPAQUE
@@ -116,7 +116,7 @@ CATEGORIES:🚌 交通銜接\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T123000
 DTEND;TZID=Asia/Tokyo:20260929T141500
 TRANSP:OPAQUE
@@ -127,7 +127,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T143000
 DTEND;TZID=Asia/Tokyo:20260929T152000
 TRANSP:OPAQUE
@@ -138,7 +138,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it9@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T152000
 DTEND;TZID=Asia/Tokyo:20260929T161500
 TRANSP:OPAQUE
@@ -149,7 +149,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T161500
 DTEND;TZID=Asia/Tokyo:20260929T182000
 TRANSP:OPAQUE
@@ -160,7 +160,7 @@ CATEGORIES:🚌 交通銜接\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T183000
 DTEND;TZID=Asia/Tokyo:20260929T204500
 TRANSP:OPAQUE
@@ -171,7 +171,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it13@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T204500
 DTEND;TZID=Asia/Tokyo:20260929T214500
 TRANSP:OPAQUE
@@ -182,7 +182,7 @@ CATEGORIES:🎯 特色體驗\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d2-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260929T210000
 DTEND;TZID=Asia/Tokyo:20260929T235900
 TRANSP:OPAQUE
@@ -193,7 +193,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-3-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 TRANSP:TRANSPARENT
@@ -204,7 +204,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T093000
 DTEND;TZID=Asia/Tokyo:20260930T100500
 TRANSP:OPAQUE
@@ -215,7 +215,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T100500
 DTEND;TZID=Asia/Tokyo:20260930T110500
 TRANSP:OPAQUE
@@ -226,7 +226,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T123500
 DTEND;TZID=Asia/Tokyo:20260930T145000
 TRANSP:OPAQUE
@@ -237,7 +237,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T145000
 DTEND;TZID=Asia/Tokyo:20260930T150000
 TRANSP:OPAQUE
@@ -253,7 +253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T173000
 DTEND;TZID=Asia/Tokyo:20260930T203000
 TRANSP:OPAQUE
@@ -269,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d3-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20260930T210000
 DTEND;TZID=Asia/Tokyo:20260930T235900
 TRANSP:OPAQUE
@@ -280,7 +280,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-4-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 TRANSP:TRANSPARENT
@@ -291,7 +291,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T064500
 DTEND;TZID=Asia/Tokyo:20261001T084500
 TRANSP:OPAQUE
@@ -307,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T091500
 DTEND;TZID=Asia/Tokyo:20261001T093500
 TRANSP:OPAQUE
@@ -323,7 +323,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T095500
 DTEND;TZID=Asia/Tokyo:20261001T120000
 TRANSP:OPAQUE
@@ -334,7 +334,7 @@ CATEGORIES:🎯 需求景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T120500
 DTEND;TZID=Asia/Tokyo:20261001T133000
 TRANSP:OPAQUE
@@ -345,7 +345,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T160000
 DTEND;TZID=Asia/Tokyo:20261001T172500
 TRANSP:OPAQUE
@@ -356,7 +356,7 @@ CATEGORIES:🎯 需求景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T175000
 DTEND;TZID=Asia/Tokyo:20261001T183000
 TRANSP:OPAQUE
@@ -367,7 +367,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it15@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T183000
 DTEND;TZID=Asia/Tokyo:20261001T203000
 TRANSP:OPAQUE
@@ -378,7 +378,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d4-it18@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261001T210000
 DTEND;TZID=Asia/Tokyo:20261001T235900
 TRANSP:OPAQUE
@@ -389,7 +389,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-5-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 TRANSP:TRANSPARENT
@@ -400,7 +400,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T080000
 DTEND;TZID=Asia/Tokyo:20261002T084500
 TRANSP:OPAQUE
@@ -411,7 +411,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T094000
 DTEND;TZID=Asia/Tokyo:20261002T095000
 TRANSP:OPAQUE
@@ -422,7 +422,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T110000
 DTEND;TZID=Asia/Tokyo:20261002T120500
 TRANSP:OPAQUE
@@ -433,7 +433,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T122500
 DTEND;TZID=Asia/Tokyo:20261002T134500
 TRANSP:OPAQUE
@@ -444,7 +444,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T135000
 DTEND;TZID=Asia/Tokyo:20261002T144500
 TRANSP:OPAQUE
@@ -455,7 +455,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it16@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T145000
 DTEND;TZID=Asia/Tokyo:20261002T150500
 TRANSP:OPAQUE
@@ -466,7 +466,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it18@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T151000
 DTEND;TZID=Asia/Tokyo:20261002T161500
 TRANSP:OPAQUE
@@ -477,7 +477,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it20@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T162500
 DTEND;TZID=Asia/Tokyo:20261002T171000
 TRANSP:OPAQUE
@@ -488,7 +488,7 @@ CATEGORIES:🏛️ 景點名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it21@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T171000
 DTEND;TZID=Asia/Tokyo:20261002T172500
 TRANSP:OPAQUE
@@ -499,7 +499,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it23@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T173000
 DTEND;TZID=Asia/Tokyo:20261002T194500
 TRANSP:OPAQUE
@@ -515,7 +515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d5-it26@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261002T210000
 DTEND;TZID=Asia/Tokyo:20261002T235900
 TRANSP:OPAQUE
@@ -526,7 +526,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-6-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 TRANSP:TRANSPARENT
@@ -537,7 +537,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d6-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261003T063000
 DTEND;TZID=Asia/Tokyo:20261003T100000
 TRANSP:OPAQUE
@@ -548,7 +548,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d6-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261003T175500
 DTEND;TZID=Asia/Tokyo:20261003T180000
 TRANSP:OPAQUE
@@ -559,7 +559,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d6-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261003T180000
 DTEND;TZID=Asia/Tokyo:20261003T201500
 TRANSP:OPAQUE
@@ -575,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d6-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261003T210000
 DTEND;TZID=Asia/Tokyo:20261003T235900
 TRANSP:OPAQUE
@@ -586,29 +586,29 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-7-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 07・三澤・八戶】航空科學館・みろく橫丁
-DESCRIPTION:行程：新青森站ブナの森買特色鐵路便當 ➔ 新幹線車上享用(午餐跳過)直奔八戶 ➔ 直衝三澤航空科學館 ➔ 14:55提前進房小憩 ➔ みろく横丁屋台夜生活【宿：コンフォートホテル八戸🌟已訂】\n\n行李與換宿：🧳 換宿八戶：首選市役所前 07:30 搭乘市營巴士 T50 直達新青森站南口（07:46抵・低底盤推行李一車直達免轉車；公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店排班計程車），2F 新幹線改札內ブナの森弁当売店挑選特色鐵路便當，搭乘 08:37 東北新幹線 はやぶさ 12 號（車上享用便當）直達八戶站（09:04抵），直達「コンフォートホテル八戸（東口步行2分）」迅速寄存大行李，銜接 09:33 電車前往三澤航空科學館！\n\n完整行程：./itinerary.html#day-7
+DESCRIPTION:行程：新青森站ブナの森買特色鐵路便當於站內享用 ➔ 搭新幹線(午餐跳過)直奔八戶 ➔ 直衝三澤航空科學館 ➔ 14:55提前進房小憩 ➔ みろく横丁屋台夜生活【宿：コンフォートホテル八戸🌟已訂】\n\n行李與換宿：🧳 換宿八戶：首選市役所前 07:30 搭乘市營巴士 T50 直達新青森站南口（07:46抵・低底盤推行李一車直達免轉車；公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店排班計程車），2F 新幹線改札內ブナの森弁当売店八點初頭迅速買到特色鐵路便當於站內享用完畢，搭乘 08:37 東北新幹線 はやぶさ 12 號直達八戶站（09:04抵），直達「コンフォートホテル八戸（東口步行2分）」迅速寄存大行李，銜接 09:33 電車前往三澤航空科學館！\n\n完整行程：./itinerary.html#day-7
 LOCATION:三澤・八戶
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T064000
 DTEND;TZID=Asia/Tokyo:20261004T071500
 TRANSP:OPAQUE
 SUMMARY:🍴 著裝 ＆ 打包整理隨身與大件行李
-DESCRIPTION:【Day 7・🥩 極上美食】\n06:40 - 07:15【著裝 ＆ 打包整理隨身與大件行李】：\n晨間梳洗著裝，將隨身物品與大件行李打包收納整齊，準備退房出發。\n（💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，於 08:37 はやぶさ 12 號新幹線車上舒適享用當作豐盛早餐！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）\n\n⚠️ （💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，於 08:37 はやぶさ 12 號新幹線車上舒適享用當作豐盛早餐！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）
+DESCRIPTION:【Day 7・🥩 極上美食】\n06:40 - 07:15【著裝 ＆ 打包整理隨身與大件行李】：\n晨間梳洗著裝，將隨身物品與大件行李打包收納整齊，準備退房出發。\n（💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，08:00 開門後八點初頭迅速買到，直接在站內候車休息區趁新鮮享用完畢作為豐盛早餐，無須留到車上才吃！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）\n\n⚠️ （💡 早餐與用餐戰略：早晨於新青森站 2F 新幹線改札內購買「ブナの森弁当売店」新鮮上架之特色鐵路便當，08:00 開門後八點初頭迅速買到，直接在站內候車休息區趁新鮮享用完畢作為豐盛早餐，無須留到車上才吃！吃飽後「午餐完全跳過不吃」，把寶貴白天時間留給三澤航空科學館，且不佔胃容量，全力迎接今晚八戶屋台村的熱鬧美味！）
 LOCATION:三澤・八戶
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T071500
 DTEND;TZID=Asia/Tokyo:20261004T072500
 TRANSP:OPAQUE
@@ -619,12 +619,12 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T074600
 DTEND;TZID=Asia/Tokyo:20261004T083000
 TRANSP:OPAQUE
-SUMMARY:🚄 🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）精心挑選青森特色駅弁 ＆ 從容上月台
-DESCRIPTION:【Day 7・🥩 極上美食】\n07:46 - 08:30【🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）精心挑選青森特色駅弁 ＆ 從容上月台】：\n下車進入新青森站搭手扶梯直上 2F，以手機 Apple Pay / 實體 Suica 嗶卡通過新幹線改札口。\n新幹線改札內 2F 正前方便是人氣名店「ブナの森弁当売店」（營業時間：08:00 - 18:30，無休，併設於「そば処 ブナの森」旁）：\n店家 08:00 準時開門，此時各家老舖新鮮直送的鐵路便當剛陳列上架，品項最齊全！\n人氣必買推薦：\n🌟 首選名物：「津軽めんこい懐石弁当 ひとくちだらけ」（1\,450 円，一口懷石 24 格津輕鄉土珍味，包含貝燒味噌、青森帆立貝、鮭魚卵、海膽、生薑味噌竹輪、菊花漬等，每一格都是一口驚喜，視覺與味覺雙重享受！）。\n🌟 海鮮名物：「青森味づくし弁当」 或 「八戶前沖鯖魚棒壽司（八戸前沖鯖棒寿司）」、「陸奧灣帆立釜飯」。\n🌟 肉食名物：「津輕和牛燒肉便當」 或 「倉石牛便當」。\n\n⏰ 營業時間：• 08:00 - 18:30 ｜ • 無中休全日營業 ｜ • 08:00 準時開門新鮮上架\n🚫 公休日：年中無休 ｜ (全年無休・新幹線改札內)\n💡 備註：🌟 新幹線車上享用極上鐵路便當早餐！ 首選 07:30 於市役所前搭乘市營巴士 T50 直達新青森站南口（07:46 抵達，低底盤推行李一車免轉車），等候 08:00 開門第一批進店搶購（公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店門口搭車 08:12 抵達）！首選 24 格津輕珍味「津軽めんこい懐石弁当 ひとくちだらけ (1\,450円)」或「八戶前沖鯖魚棒壽司」，帶上 08:37 はやぶさ 12 號座位邊賞秋景邊大快朵頤，吃飽後午餐跳過不吃直奔三澤航空科學館！\n\n🗺️ ブナの森弁当売店: https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%B0%E5%87%A6+%E3%83%96%E3%83%8A%E3%81%AE%E6%A3%AE+%E6%96%B0%E9%9D%92%E6%A3%AE%E9%A7%85
+SUMMARY:🚄 🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）買青森特色駅弁於站內享用 ＆ 從容上月台
+DESCRIPTION:【Day 7・🥩 極上美食】\n07:46 - 08:30【🍱 JR 新青森站 2F 新幹線改札內・ブナの森弁当売店（08:00開門）買青森特色駅弁於站內享用 ＆ 從容上月台】：\n下車進入新青森站搭手扶梯直上 2F，以手機 Apple Pay / 實體 Suica 嗶卡通過新幹線改札口。\n新幹線改札內 2F 正前方便是人氣名店「ブナの森弁当売店」（營業時間：08:00 - 18:30，無休，併設於「そば処 ブナの森」旁）：\n店家 08:00 準時開門，此時各家老舖新鮮直送的鐵路便當剛陳列上架，品項最齊全！八點初頭很快就順利買到便當！\n人氣必買推薦：\n🌟 首選名物：「津軽めんこい懐石弁当 ひとくちだらけ」（1\,450 円，一口懷石 24 格津輕鄉土珍味，包含貝燒味噌、青森帆立貝、鮭魚卵、海膽、生薑味噌竹輪、菊花漬等，每一格都是一口驚喜，視覺與味覺雙重享受！）。\n🌟 海鮮名物：「青森味づくし弁当」 或 「八戶前沖鯖魚棒壽司（八戸前沖鯖棒寿司）」、「陸奧灣帆立釜飯」。\n🌟 肉食名物：「津輕和牛燒肉便當」 或 「倉石牛便當」。\n\n⏰ 營業時間：• 08:00 - 18:30 ｜ • 無中休全日營業 ｜ • 08:00 準時開門新鮮上架\n🚫 公休日：年中無休 ｜ (全年無休・新幹線改札內)\n💡 備註：🌟 新青森站內享用極上鐵路便當早餐！ 首選 07:30 於市役所前搭乘市營巴士 T50 直達新青森站南口（07:46 抵達，低底盤推行李一車免轉車），等候 08:00 開門第一批進店選購（公車備案 1：市役所前 07:50 搭乘 T50 於 08:05 抵新青森站旁「石江」站牌下車步行 200m 進南口；計程車備案 2：08:00 飯店門口搭車 08:12 抵達）！八點初頭迅速買到 24 格津輕珍味「津軽めんこい懐石弁当 ひとくちだらけ (1\,450円)」或「八戶前沖鯖魚棒壽司」，直接在新青森站內座位享用完畢，不留到車上吃。吃飽後午餐跳過不吃搭 08:37 はやぶさ 12 號直奔八戶轉三澤航空科學館！\n\n🗺️ ブナの森弁当売店: https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%B0%E5%87%A6+%E3%83%96%E3%83%8A%E3%81%AE%E6%A3%AE+%E6%96%B0%E9%9D%92%E6%A3%AE%E9%A7%85
 LOCATION:JR 新青森站 ブナの森弁当売店
 CATEGORIES:🥩 極上美食\,2026東北行
 BEGIN:VALARM
@@ -635,7 +635,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T083000
 DTEND;TZID=Asia/Tokyo:20261004T083700
 TRANSP:OPAQUE
@@ -651,23 +651,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T083700
 DTEND;TZID=Asia/Tokyo:20261004T090400
 TRANSP:OPAQUE
-SUMMARY:🚄 🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當（🌟已訂妥・車程 27 分鐘直達八戶）
-DESCRIPTION:【Day 7・🚌 交通銜接】\n08:37 - 09:04【🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當（🌟已訂妥・車程 27 分鐘直達八戶）】：\n新青森站搭乘 東北新幹線 はやぶさ 12 號 (Hayabusa 12) 直達八戶站（新青森 08:37 發車 ➔ 八戶 09:04 抵達，已劃位：2 車 2D ＆ 2E，全車指定席）。\n打開座位前方餐桌，一邊欣賞窗外津輕平原秋景，一邊大啖剛買的「ひとくちだらけ」或極鮮鯖魚棒壽司，享受最正統的日本鐵道便當極致旅情！
+SUMMARY:🚄 🚄 東北新幹線 はやぶさ 12 號 舒適直奔八戶（🌟已訂妥・車程 27 分鐘直達八戶）
+DESCRIPTION:【Day 7・🚌 交通銜接】\n08:37 - 09:04【🚄 東北新幹線 はやぶさ 12 號 舒適直奔八戶（🌟已訂妥・車程 27 分鐘直達八戶）】：\n新青森站搭乘 東北新幹線 はやぶさ 12 號 (Hayabusa 12) 直達八戶站（新青森 08:37 發車 ➔ 八戶 09:04 抵達，已劃位：2 車 2D ＆ 2E，全車指定席）。\n因早晨八點初頭已在新青森站內輕鬆享用完美味便當，上車後無須手忙腳亂開便當，在舒適指定席安坐休息，一邊欣賞窗外津輕平原秋景，27 分鐘轉眼飛馳直達八戶！
 LOCATION:三澤・八戶
 CATEGORIES:🚌 交通銜接\,2026東北行
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒：🚄 東北新幹線 はやぶさ 12 號 車上享用極上特色鐵路便當 即將發車/起飛，請預先抵達月台/候機室！
+DESCRIPTION:提醒：🚄 東北新幹線 はやぶさ 12 號 舒適直奔八戶（🌟已訂妥・ 即將發車/起飛，請預先抵達月台/候機室！
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T090500
 DTEND;TZID=Asia/Tokyo:20261004T092500
 TRANSP:OPAQUE
@@ -678,7 +678,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T102500
 DTEND;TZID=Asia/Tokyo:20261004T132500
 TRANSP:OPAQUE
@@ -689,7 +689,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it16@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T145500
 DTEND;TZID=Asia/Tokyo:20261004T153000
 TRANSP:OPAQUE
@@ -700,7 +700,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it18@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T160000
 DTEND;TZID=Asia/Tokyo:20261004T171500
 TRANSP:OPAQUE
@@ -711,7 +711,7 @@ CATEGORIES:🎯 需求景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it20@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T173000
 DTEND;TZID=Asia/Tokyo:20261004T200000
 TRANSP:OPAQUE
@@ -722,7 +722,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d7-it22@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261004T210000
 DTEND;TZID=Asia/Tokyo:20261004T235900
 TRANSP:OPAQUE
@@ -733,18 +733,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-8-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 08・種差海岸】天然大草皮・蕪嶋神社・天草馬刺
-DESCRIPTION:行程：Comfort Hotel免費元氣朝食 ➔ JR八戶線直達三陸海岸 ➔ 種差大草皮 ➔ 種差海岸遊客中心 ➔ 波光食堂名物いちご煮午餐 ➔ 大須賀鳴沙海岸 ➔ 葦毛崎展望台 ➔ 蕪嶋神社 ➔ 公車直達市役所 ➔ 市區名店「食彩酒房 天草」特上赤身刺與特上桜鍋 ➔ 洗衣【宿：コンフォートホテル八戶🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住コンフォートホテル八戸，全日輕裝持 Suica 搭乘 JR 八戶線巡禮種差海岸大草皮、大須賀鳴沙海岸、葦毛崎展望台與蕪嶋神社。\n\n完整行程：./itinerary.html#day-8
+DESCRIPTION:行程：Comfort Hotel免費元氣朝食 ➔ JR八戶線直達三陸海岸 ➔ 種差大草皮 ➔ 種差海岸遊客中心 ➔ 波光食堂名物いちご煮午餐 ➔ 種差步道健行至深久保 ➔ 公車至白浜海水浴場前 ➔ 公車直達蕪嶋神社 ➔ 公車直達市役所 ➔ 市區名店「食彩酒房 天草」特上赤身刺與特上桜鍋 ➔ 洗衣【宿：コンフォートホテル八戶🌟已訂】\n\n行李與換宿：🧳 連住不換宿：續住コンフォートホテル八戸，全日輕裝搭乘 JR 八戶線直達三陸海岸巡禮種差大草皮、遊客中心，午餐波光食堂いちご煮，午後深度健行海岸步道至深久保接公車至白浜海水浴場前並直達蕪嶋神社，晚間食彩酒房天草特上桜鍋！\n\n完整行程：./itinerary.html#day-8
 LOCATION:種差海岸
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d8-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T080000
 DTEND;TZID=Asia/Tokyo:20261005T091000
 TRANSP:OPAQUE
@@ -755,7 +755,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d8-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T100500
 DTEND;TZID=Asia/Tokyo:20261005T103500
 TRANSP:OPAQUE
@@ -766,7 +766,7 @@ CATEGORIES:🌲 自然名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d8-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T103500
 DTEND;TZID=Asia/Tokyo:20261005T110000
 TRANSP:OPAQUE
@@ -777,7 +777,7 @@ CATEGORIES:🌲 自然名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d8-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T110000
 DTEND;TZID=Asia/Tokyo:20261005T115500
 TRANSP:OPAQUE
@@ -787,30 +787,19 @@ LOCATION:波光食堂
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d8-it8@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261005T124700
-DTEND;TZID=Asia/Tokyo:20261005T133500
+UID:tohoku2026-d8-it6@antigravity
+DTSTAMP:20261019T092034Z
+DTSTART;TZID=Asia/Tokyo:20261005T115500
+DTEND;TZID=Asia/Tokyo:20261005T133200
 TRANSP:OPAQUE
-SUMMARY:🏛️ 必去景點 ⑭：大須賀海岸 (2.3公里天然鳴沙海灘)
-DESCRIPTION:【Day 8・🌟 必去景點】\n12:47 - 13:35【必去景點 ⑭：大須賀海岸 (2.3公里天然鳴沙海灘)】：\n下車即達東北著名的「天然鳴沙」白色沙灘，漫步在極其純淨的細沙上聆聽啾啾清脆鳴響，海闊天空、身心極度舒暢消食（停留 48 分鐘）。\n\n\n🗺️ 大須賀海岸: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%A0%88%E8%B3%80%E6%B5%B7%E5%B2%B8+%E5%85%AB%E6%88%B8%E5%B8%82
-LOCATION:大須賀海岸 鳴き砂
-CATEGORIES:🌟 必去景點\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
-UID:tohoku2026-d8-it10@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261005T134300
-DTEND;TZID=Asia/Tokyo:20261005T142500
-TRANSP:OPAQUE
-SUMMARY:🏛️ 葦毛崎展望台 (歐風海岬堡壘 ＆ 180 度海景特濃霜淇淋)
-DESCRIPTION:【Day 8・🌲 自然名勝】\n13:43 - 14:25【葦毛崎展望台 (歐風海岬堡壘 ＆ 180 度海景特濃霜淇淋)】：\n登上歐風石造堡壘造型的 葦毛崎展望台，居高臨下 180 度俯瞰怒濤拍擊巨岩的壯麗海景，並於展望台附設 Cafe 品嚐全八戶評分最高之名物特濃牛奶霜淇淋（停留 42 分鐘）。\n\n\n🗺️ 葦毛崎展望台: https://www.google.com/maps/search/?api=1&query=%E8%91%A6%E6%AF%9B%E5%B4%8E%E5%B1%95%E6%9C%9B%E5%8F%B0+%E5%85%AB%E6%88%B8%E5%B8%82
-LOCATION:葦毛崎展望台
+SUMMARY:🏛️ 三陸自然名勝：種差海岸步道 深度健行漫步（淀之松原 ➔ 深久保）
+DESCRIPTION:【Day 8・🌲 自然名勝】\n11:55 - 13:32【三陸自然名勝：種差海岸步道 深度健行漫步（淀之松原 ➔ 深久保）】：\n享用完滿足的いちご煮午餐後，兩人決定不提早結束散步去站前等車，而是「繼續沿著種差海岸步道往北健行漫步」！\n穿梭於樹齡近百年的翠綠黑松林與海風步道間，近距離欣賞海浪衝擊海蝕奇岩「臼尻石」的壯麗浪花；沿途飽覽三陸復興國立公園最具代表性的奇岩峭壁與蔚藍太平洋海景，一路深度健行至「深久保 (Fukakubo)」！\n充分運動消食並沈浸在海天一色的極致舒暢氛圍中，約 13:25 抵達深久保公車站牌從容候車。\n\n\n🗺️ 種差海岸步道: https://www.google.com/maps/search/?api=1&query=%E7%A8%AE%E5%B7%AE%E6%B5%B7%E5%B2%B8%E9%81%8A%E6%AD%A9%E9%81%93+%E5%85%AB%E6%88%B8%E5%B8%82
+LOCATION:種差海岸天然芝生地
 CATEGORIES:🌲 自然名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d8-it12@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d8-it10@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T144000
 DTEND;TZID=Asia/Tokyo:20261005T154000
 TRANSP:OPAQUE
@@ -820,8 +809,8 @@ LOCATION:蕪嶋神社 / 蕪島
 CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d8-it16@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d8-it14@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T173000
 DTEND;TZID=Asia/Tokyo:20261005T194500
 TRANSP:OPAQUE
@@ -831,8 +820,8 @@ LOCATION:食彩酒房 天草
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d8-it20@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d8-it18@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T205000
 DTEND;TZID=Asia/Tokyo:20261005T221500
 TRANSP:OPAQUE
@@ -842,8 +831,8 @@ LOCATION:種差海岸
 CATEGORIES:🎯 特色體驗\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d8-it21@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d8-it19@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261005T210000
 DTEND;TZID=Asia/Tokyo:20261005T235900
 TRANSP:OPAQUE
@@ -854,7 +843,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-9-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 TRANSP:TRANSPARENT
@@ -865,7 +854,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T081600
 DTEND;TZID=Asia/Tokyo:20261006T093000
 TRANSP:OPAQUE
@@ -876,7 +865,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T100000
 DTEND;TZID=Asia/Tokyo:20261006T104000
 TRANSP:OPAQUE
@@ -892,7 +881,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T104000
 DTEND;TZID=Asia/Tokyo:20261006T112000
 TRANSP:OPAQUE
@@ -908,7 +897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it9@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T124500
 DTEND;TZID=Asia/Tokyo:20261006T144500
 TRANSP:OPAQUE
@@ -919,7 +908,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T144500
 DTEND;TZID=Asia/Tokyo:20261006T151000
 TRANSP:OPAQUE
@@ -930,7 +919,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T163000
 DTEND;TZID=Asia/Tokyo:20261006T174500
 TRANSP:OPAQUE
@@ -941,7 +930,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d9-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261006T210000
 DTEND;TZID=Asia/Tokyo:20261006T235900
 TRANSP:OPAQUE
@@ -952,7 +941,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-10-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 TRANSP:TRANSPARENT
@@ -963,7 +952,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T081500
 DTEND;TZID=Asia/Tokyo:20261007T093000
 TRANSP:OPAQUE
@@ -974,7 +963,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T093000
 DTEND;TZID=Asia/Tokyo:20261007T104000
 TRANSP:OPAQUE
@@ -985,7 +974,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T104500
 DTEND;TZID=Asia/Tokyo:20261007T110700
 TRANSP:OPAQUE
@@ -996,7 +985,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T110700
 DTEND;TZID=Asia/Tokyo:20261007T122900
 TRANSP:OPAQUE
@@ -1012,7 +1001,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T123000
 DTEND;TZID=Asia/Tokyo:20261007T135500
 TRANSP:OPAQUE
@@ -1023,7 +1012,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T143500
 DTEND;TZID=Asia/Tokyo:20261007T151500
 TRANSP:OPAQUE
@@ -1034,7 +1023,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T170000
 DTEND;TZID=Asia/Tokyo:20261007T194000
 TRANSP:OPAQUE
@@ -1045,7 +1034,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it13@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T194500
 DTEND;TZID=Asia/Tokyo:20261007T202500
 TRANSP:OPAQUE
@@ -1056,7 +1045,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it15@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T204500
 DTEND;TZID=Asia/Tokyo:20261007T214500
 TRANSP:OPAQUE
@@ -1067,7 +1056,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d10-it17@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261007T210000
 DTEND;TZID=Asia/Tokyo:20261007T235900
 TRANSP:OPAQUE
@@ -1078,18 +1067,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-11-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 11・松島町】仁王丸・瑞嚴寺・伊達歷史館
-DESCRIPTION:行程：太古天泉海景日出 ➔ 青海波朝食吃好吃滿直到打烊 ➔ 藤田喬平玻璃美術館 ➔ 10:50免費送迎直達碼頭寄行李 ➔ 觀光船 ➔ 烤海鞘 ➔ 國寶瑞嚴寺 ➔ 歷史館 ➔ Check-in 東口天然溫泉 ➔ Welcome Bar 4小時暢飲 ➔ 泰山HANARE仙台牛燒肉（🌟已訂妥「お任せコース」代烤） ➔ 洗衣【宿：スーパーホテル仙台駅東口天然温泉🌟已訂】\n\n行李與換宿：🧳 換宿仙台東口：松島一之坊退房專車送至松島海岸碼頭，仁王丸巡航與參拜瑞嚴寺，下午搭仙石線至仙台站東口，入住「スーパーホテル仙台駅東口天然温泉（步行3分）」。\n\n完整行程：./itinerary.html#day-11
+DESCRIPTION:行程：太古天泉海景日出 ➔ 青海波朝食吃好吃滿直到打烊 ➔ 藤田喬平玻璃美術館 ➔ 10:50免費送迎直達碼頭寄行李 ➔ 觀光船 ➔ 五大堂（朝食飽足跳過午餐・留胃蓄力泰山燒肉）➔ 國寶瑞嚴寺 ➔ 歷史館 ➔ Check-in 東口天然溫泉 ➔ Welcome Bar 4小時暢飲 ➔ 泰山HANARE仙台牛燒肉（🌟已訂妥「お任せコース」代烤） ➔ 洗衣【宿：スーパーホテル仙台駅東口天然温泉🌟已訂】\n\n行李與換宿：🧳 換宿仙台東口：松島一之坊退房專車送至松島海岸碼頭，仁王丸巡航與參拜瑞嚴寺，下午搭仙石線至仙台站東口，入住「スーパーホテル仙台駅東口天然温泉（步行3分）」。\n\n完整行程：./itinerary.html#day-11
 LOCATION:松島町
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T052000
 DTEND;TZID=Asia/Tokyo:20261008T061500
 TRANSP:OPAQUE
@@ -1100,7 +1089,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T073000
 DTEND;TZID=Asia/Tokyo:20261008T093000
 TRANSP:OPAQUE
@@ -1111,7 +1100,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T093000
 DTEND;TZID=Asia/Tokyo:20261008T103500
 TRANSP:OPAQUE
@@ -1122,7 +1111,7 @@ CATEGORIES:🎯 需求景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T103500
 DTEND;TZID=Asia/Tokyo:20261008T104500
 TRANSP:OPAQUE
@@ -1133,7 +1122,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T105000
 DTEND;TZID=Asia/Tokyo:20261008T111000
 TRANSP:OPAQUE
@@ -1144,7 +1133,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T113000
 DTEND;TZID=Asia/Tokyo:20261008T125000
 TRANSP:OPAQUE
@@ -1160,18 +1149,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T133000
 DTEND;TZID=Asia/Tokyo:20261008T141500
 TRANSP:OPAQUE
-SUMMARY:🐟 午餐：松島さかな市場 焼がきハウス / 烤海鞘 ＆ 烤生蠔
-DESCRIPTION:【Day 11・🥩 極上美食】\n13:30 - 14:15【午餐：松島さかな市場 焼がきハウス / 烤海鞘 ＆ 烤生蠔】：\n自五大堂步行 5 分鐘抵達 松島さかな市場 (Matsushima Fish Market) 🚶 步行導航（營業時間：平日 10:00 - 15:00，L.O. 15:00）。\n品嚐宮城第一特色名物 「現烤海鞘 (焼きホヤ)」（炭烤鮮甜爆汁完全無腥味）、焼がきハウス炭火現烤肥嫩生蠔、三陸海鮮丼與松島牡蠣漢堡（停留 45 分鐘）。\n\n⏰ 營業時間：• 平日 10:00 - 15:00 ｜ • 土日祝 09:00 - 15:00 ｜ • LO 15:00 (無晚餐)\n🚫 公休日：年中無休 ｜ (全年正常營業)\n💡 備註：焼がきハウス提供 45 分鐘烤牡蠣吃到飽或單點現烤套餐；市場 1F 必點宮城第一名產「現烤海鞘串 (焼きホヤ串)」，鮮甜爆汁完全無腥味；牡蠣漢堡亦為名物。\n\n🗺️ 松島さかな市場 焼がきハウス / 烤海鞘: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E3%81%95%E3%81%8B%E3%81%AA%E5%B8%82%E5%A0%B4\n🗺️ 步行導航: https://www.google.com/maps/dir/?api=1&destination=%E6%9D%BE%E5%B3%B6%E3%81%95%E3%81%8B%E3%81%AA%E5%B8%82%E5%A0%B4&travelmode=walking
+SUMMARY:🥩 午餐：朝食飽足・跳過午餐不吃（原案：松島さかな市場 焼がきハウス / 烤海鞘・留胃蓄力晚間泰山和牛燒肉盛宴）
+DESCRIPTION:【Day 11・🥩 極上美食】\n13:30 - 14:15【午餐：朝食飽足・跳過午餐不吃（原案：松島さかな市場 焼がきハウス / 烤海鞘・留胃蓄力晚間泰山和牛燒肉盛宴）】：\n🚨 【實況紀實：朝食極致飽足・策略性跳過午餐】：因早晨在松島一之坊「青海波」享用極上海景 Order Buffet 朝食（07:30～09:30 整整吃足 2 小時，現煎毛豆泥法式吐司、三陸海鮮自選丼、藏王地養卵出汁玉子燒、本枯節出汁茶泡飯與晨光氣泡酒吃好吃滿），同行兩人皆感到非常飽足，因此中午果斷決定跳過午餐、未前往「松島さかな市場」用餐！\n💡 腸胃充分休息 ＆ 留胃蓄力晚間大餐：略過正餐剛好讓腸胃充分休息排空，把最完美的胃容量與絕佳食慾，留給今晚 18:30 已訂妥的「焼肉 泰山 HANARE」頂級 A5 仙台牛「店主お任せコース」桌邊代烤盛宴！\n💡 海鞘料理需求圓滿無虞：行程指定之【三陸海鞘料理（ホヤ）】在 Day 18 晚間「斎太郎」安排有第一名產極鮮「生海鞘刺身 (ほや刺身)」，美食檢核需求 100% 圓滿達成。\n（原排程時間兩人於松島海岸邊海風步道漫步放空，隨後從容漫步前往國寶瑞嚴寺與圓通院參拜）。\n\n⏰ 營業時間：• 平日 10:00 - 15:00 ｜ • 土日祝 09:00 - 15:00 ｜ • LO 15:00 (無晚餐)\n🚫 公休日：年中無休 ｜ (全年正常營業)\n💡 備註：🚨 實況紀實：朝食飽足跳過午餐。因早晨在一之坊青海波海景 Order Buffet（07:30～09:30）吃足整整 2 小時極為飽足，午間策略性跳過午餐未進店用餐，原排程時間於松島海岸海風步道散策放空消化，把胃容量留給晚間 18:30 頂級私廚泰山 HANARE 仙台牛燒肉！三陸海鞘料理需求由 Day 18 晚間斎太郎「生海鞘刺身」完美達成。\n\n🗺️ 松島さかな市場 焼がきハウス / 烤海鞘: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E3%81%95%E3%81%8B%E3%81%AA%E5%B8%82%E5%A0%B4\n\n⚠️ 🚨 【實況紀實：朝食極致飽足・策略性跳過午餐】：因早晨在松島一之坊「青海波」享用極上海景 Order Buffet 朝食（07:30～09:30 整整吃足 2 小時，現煎毛豆泥法式吐司、三陸海鮮自選丼、藏王地養卵出汁玉子燒、本枯節出汁茶泡飯與晨光氣泡酒吃好吃滿），同行兩人皆感到非常飽足，因此中午果斷決定跳過午餐、未前往「松島さかな市場」用餐！\n⚠️ 💡 腸胃充分休息 ＆ 留胃蓄力晚間大餐：略過正餐剛好讓腸胃充分休息排空，把最完美的胃容量與絕佳食慾，留給今晚 18:30 已訂妥的「焼肉 泰山 HANARE」頂級 A5 仙台牛「店主お任せコース」桌邊代烤盛宴！
 LOCATION:松島さかな市場 焼がきハウス / 烤海鞘
 CATEGORIES:🥩 極上美食\,2026東北行
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:預約提醒：午餐：朝食飽足・跳過午餐不吃（原案：松島さかな市場 焼がきハ 席位即將開始，請準時抵達！
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T142000
 DTEND;TZID=Asia/Tokyo:20261008T151000
 TRANSP:OPAQUE
@@ -1182,7 +1176,7 @@ CATEGORIES:🏛️ 國寶古蹟\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T151500
 DTEND;TZID=Asia/Tokyo:20261008T161500
 TRANSP:OPAQUE
@@ -1193,7 +1187,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it16@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T173500
 DTEND;TZID=Asia/Tokyo:20261008T180000
 TRANSP:OPAQUE
@@ -1204,7 +1198,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it19@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T183000
 DTEND;TZID=Asia/Tokyo:20261008T201500
 TRANSP:OPAQUE
@@ -1220,18 +1214,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it20@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T203500
 DTEND;TZID=Asia/Tokyo:20261008T215500
 TRANSP:OPAQUE
 SUMMARY:🏨 🍷 Welcome Bar 壓軸微醺 ＆ ♨️ 天然溫泉深度舒壓（今晚徹底放鬆・第 4 次洗衣移至明晨從容進行！）
-DESCRIPTION:【Day 11・🏨 頂級名宿】\n20:35 - 21:55【🍷 Welcome Bar 壓軸微醺 ＆ ♨️ 天然溫泉深度舒壓（今晚徹底放鬆・第 4 次洗衣移至明晨從容進行！）】：\n今晚零家務・身心徹底放鬆：在【焼肉 泰山 HANARE】享受頂級 A5 仙台牛私廚代烤後，散步消食回飯店，今晚不洗衣服、零時間追趕壓力！\n20:40 ～ 21:00 享受 Welcome Bar 壓軸微醺（若當日開放至 21:00 暢飲續杯 / 若當日 20:00 閉吧則專注泡湯）：若當日 Lounge 開放至 21:00，悠閒坐在 1F 沙發小酌宮城地酒（浦霞/一之藏）或 Highball；若當日 20:00 閉吧，則直接前往男女分立 【天然溫泉 枝垂桜 美人的湯】 深度舒壓放鬆！\n♨️ 那須塩原天然溫泉通宵開放：享受溫暖滑順的美人湯，洗滌連日行腳疲勞，早點就寢充足休息（22:15 前舒服躺平入睡，享受席夢思名床 8 小時黃金修復睡眠！）。\n🧺 洗衣排程順延說明：原定第 4 次洗衣（清洗 Day 9~11 衣物）順延至明天（Day 12）清晨邊吃健康朝食邊利用 2F 免費瓦斯烘乾機進行，並安排 12:30 從容出門（跳過正午午餐）之極致悠閒節奏！\n
+DESCRIPTION:【Day 11・🏨 頂級名宿】\n20:35 - 21:55【🍷 Welcome Bar 壓軸微醺 ＆ ♨️ 天然溫泉深度舒壓（今晚徹底放鬆・第 4 次洗衣移至明晨從容進行！）】：\n今晚零家務・身心徹底放鬆：在【焼肉 泰山 HANARE】享受頂級 A5 仙台牛私廚代烤後，散步消食回飯店，今晚不洗衣服、零時間追趕壓力！\n20:40 ～ 21:00 享受 Welcome Bar 壓軸微醺（若當日開放至 21:00 暢飲續杯 / 若當日 20:00 閉吧則專注泡湯）：若當日 Lounge 開放至 21:00，悠閒坐在 1F 沙發小酌宮城地酒（浦霞/一之藏）或 Highball；若當日 20:00 閉吧，則直接前往男女分立 【天然溫泉 枝垂桜 美人的湯】 深度舒壓放鬆！\n♨️ 那須塩原天然溫泉通宵開放：享受溫暖滑順的美人湯，洗滌連日行腳疲勞，早點就寢充足休息（22:15 前舒服躺平入睡，享受席夢思名床 8 小時黃金修復睡眠！）。\n🧺 洗衣排程順延說明：原定第 4 次洗衣（清洗 Day 9~11 衣物）順延至明天（Day 12）清晨邊吃健康朝食邊利用 2F 免費瓦斯烘乾機進行，並安排 客房深度休息放鬆至 16:00 才出門散步晚餐之極致悠閒節奏！\n
 LOCATION:スーパーホテル仙台駅東口天然温泉
 CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d11-it21@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261008T210000
 DTEND;TZID=Asia/Tokyo:20261008T235900
 TRANSP:OPAQUE
@@ -1242,18 +1236,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-12-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 TRANSP:TRANSPARENT
-SUMMARY:🍁【Day 12・仙台市】定禪寺通・媒體中心smt・壽喜燒かとう
-DESCRIPTION:行程：晨間洗烘衣 ＆ 悠閒客房深度補眠 ➔ 🌟 14:15 從容出發（跳過正午午餐・胃袋蓄力） ➔ 地下鐵南北線直達 ➔ 定禪寺通綠樹林蔭與媒體中心 smt深度建築巡禮 ➔ 漫步 800m 直達百年米其林「すき焼割烹 かとう」本格A5極上壽喜燒コース ➔ AER 展望テラス31F璀璨夜景 ➔ Welcome Bar 微醺 ➔ 天然溫泉【博物館與城跡移至Day 19平日包場・杜之都林蔭大道漫步・完全免折返跑！】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，客房充裕補眠放鬆至14:15出發，搭地下鐵南北線直達定禪寺通櫸木林蔭、媒體中心 smt 巡禮，晚間百年かとう壽喜燒、AER 31F 夜景！\n\n完整行程：./itinerary.html#day-12
+SUMMARY:🍁【Day 12・仙台市】客房休息・壽喜燒かとう・AER夜景
+DESCRIPTION:行程：晨間洗烘衣 ＆ 悠閒客房深度休息至16:00 ➔ 16:00 市區愜意漫步散策（未去定禪寺通與媒體中心・直接散步至晚餐） ➔ 百年米其林「すき焼割烹 かとう」本格A5極上壽喜燒コース ➔ AER 展望テラス31F璀璨夜景 ➔ Welcome Bar 微醺 ➔ 天然溫泉【客房深度休養蓄電・傍晚漫步直達壽喜燒・夜景微醺極上享受】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，客房深度休息放鬆至16:00出門，市區悠閒散步直達百年名店「すき焼割烹 かとう」大啖本格 A5 仙台牛壽喜燒，晚間登 AER 31F 展望台俯瞰璀璨夜景！\n\n完整行程：./itinerary.html#day-12
 LOCATION:仙台市
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d12-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261009T070000
 DTEND;TZID=Asia/Tokyo:20261009T083500
 TRANSP:OPAQUE
@@ -1263,30 +1257,19 @@ LOCATION:仙台市
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
+UID:tohoku2026-d12-it2@antigravity
+DTSTAMP:20261019T092034Z
+DTSTART;TZID=Asia/Tokyo:20261009T083500
+DTEND;TZID=Asia/Tokyo:20261009T160000
+TRANSP:OPAQUE
+SUMMARY:🍴 客房深度補眠放鬆・徹底休養蓄電至下午四點 ＆ 取回烘乾蓬鬆衣物（跳過正午午餐・胃袋蓄力）
+DESCRIPTION:【Day 12・🥩 極上美食】\n08:35 - 16:00【客房深度補眠放鬆・徹底休養蓄電至下午四點 ＆ 取回烘乾蓬鬆衣物（跳過正午午餐・胃袋蓄力）】：\n回客房梳洗保養、更衣化妝，行李箱收納整理。\n約 09:00~09:15 瓦斯烘衣完成，至 2F 取回熱騰騰蓬鬆全乾之衣物，回房從容摺疊收納，徹底告別匆忙趕路與衣服未乾焦慮！\n🚨 【實況紀實：客房深度休息至下午四點（16:00）才出門】：落實同行兩人實況調度，因連日旅途行腳累積，決定在客房享有整整逾 7 小時的超充裕補眠、放鬆與深度休養時光，徹底消除疲勞！\n💡 午餐跳過不吃・胃袋蓄力：因早晨健康朝食豐盛，今日正午午餐直接跳過不吃，讓腸胃充分休息排空，將最完美的胃容量與絕佳食慾，留給傍晚 17:00 已訂妥的百年名店「すき焼割烹 かとう」頂級 A5 仙台牛壽喜燒盛宴！\n\n⚠️ 🚨 【實況紀實：客房深度休息至下午四點（16:00）才出門】：落實同行兩人實況調度，因連日旅途行腳累積，決定在客房享有整整逾 7 小時的超充裕補眠、放鬆與深度休養時光，徹底消除疲勞！\n⚠️ 💡 午餐跳過不吃・胃袋蓄力：因早晨健康朝食豐盛，今日正午午餐直接跳過不吃，讓腸胃充分休息排空，將最完美的胃容量與絕佳食慾，留給傍晚 17:00 已訂妥的百年名店「すき焼割烹 かとう」頂級 A5 仙台牛壽喜燒盛宴！
+LOCATION:仙台市
+CATEGORIES:🥩 極上美食\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
 UID:tohoku2026-d12-it4@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261009T143000
-DTEND;TZID=Asia/Tokyo:20261009T153000
-TRANSP:OPAQUE
-SUMMARY:🏛️ 定禪寺通綠樹林蔭大道漫步 ＆ 戶外世界級青銅雕塑（14:30～15:30，悠閒漫步 60m）
-DESCRIPTION:【Day 12・✨ 助理推薦】\n14:30 - 15:30【定禪寺通綠樹林蔭大道漫步 ＆ 戶外世界級青銅雕塑（14:30～15:30，悠閒漫步 60m）】：\n迎面即是仙台最著名之靈魂綠色地標——【定禪寺通】！寬敞綠道長約 700 公尺，兩側植有 166 株茂密日本櫸木交織成天然綠色拱形隧道。\n微風徐徐，欣賞中央人行道露天常設陳列之 Emilio Greco《夏之回憶 (夏の思い出)》、Venanzo Crocetti《水浴之女》等世界級青銅傑作。\n☕ 【周邊高質感咖啡名店選配】：\n① ホシヤマ珈琲店 本店（定禪寺通與一番町拱廊路口 かき徳ビル 3F）：仙台傳奇咖啡殿堂，吧台陳列逾 1\,000 套世界名瓷（Meissen/Royal Copenhagen/Hermès），咖啡師依客人氣質現場挑選專屬骨瓷杯沖煮虹吸咖啡！\n② カフェ・ド・ギャルソン (Café de Garçon)（定禪寺通 2F）：窗景老舖喫茶，吧台高度與櫸樹樹冠齊平，靜看綠葉隨風搖曳。\n\n\n🗺️ ホシヤマ珈琲店 本店: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%82%B7%E3%83%A4%E3%83%9E%E7%8F%88%E7%90%B2%E5%BA%97+%E6%9C%AC%E5%BA%97+%E4%BB%99%E5%8F%B0\n🗺️ カフェ・ド・ギャルソン (Café de Garçon): https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%89%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3+%E4%BB%99%E5%8F%B0
-LOCATION:定禅寺通ケヤキ並木
-CATEGORIES:✨ 助理推薦\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
-UID:tohoku2026-d12-it5@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261009T153000
-DTEND;TZID=Asia/Tokyo:20261009T164500
-TRANSP:OPAQUE
-SUMMARY:☕ 伊東豊雄世界級建築「仙台媒體中心 (smt)」（15:30～16:45，停留 1h15m）＆ 1F 落地窗景咖啡歇腿
-DESCRIPTION:【Day 12・✨ 助理推薦】\n15:30 - 16:45【伊東豊雄世界級建築「仙台媒體中心 (smt)」（15:30～16:45，停留 1h15m）＆ 1F 落地窗景咖啡歇腿】：\n步行抵達普立茲克建築獎大師伊東豊雄代表作 【仙台媒體中心 (Sendai Mediatheque - smt)】（全棟以透明玻璃帷幕與 13 根宛如海草般管狀鋼柱構成的劃時代建築名作，免費自由參觀）。\n參觀 1F 開放挑高中庭、藝術選品店，搭乘透明電梯參觀 2F~4F 穿透樓地板的管狀鋼柱圖書館空間。\n於 1F「クレプスキュールカフェ (crépuscule café)」挑高透明大落地窗前點一杯單品咖啡或大吉嶺紅茶歇腿放鬆，坐看定禪寺通林蔭光影。\n🚨 【徹底剔除毛豆奶昔重複消費】：前天（Day 10）於仙台站已品嚐過「ずんだ茶寮」之毛豆麻糬與毛豆奶昔，今日徹底跳過重複門市，專注於大師建築美學與綠意窗景咖啡！\n\n\n🗺️ 仙台媒體中心 (smt): https://www.google.com/maps/search/?api=1&query=%E3%81%9B%E3%82%93%E3%81%A0%E3%81%84%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%86%E3%83%BC%E3%82%AF\n\n⚠️ 🚨 【徹底剔除毛豆奶昔重複消費】：前天（Day 10）於仙台站已品嚐過「ずんだ茶寮」之毛豆麻糬與毛豆奶昔，今日徹底跳過重複門市，專注於大師建築美學與綠意窗景咖啡！
-LOCATION:せんだいメディアテーク
-CATEGORIES:✨ 助理推薦\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
-UID:tohoku2026-d12-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261009T170000
 DTEND;TZID=Asia/Tokyo:20261009T190000
 TRANSP:OPAQUE
@@ -1296,19 +1279,19 @@ LOCATION:すき焼割烹 かとう
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d12-it9@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d12-it6@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261009T191500
 DTEND;TZID=Asia/Tokyo:20261009T195500
 TRANSP:OPAQUE
 SUMMARY:🏛️ 必去景點 ㉕：AER 展望テラス (免費 31F 頂樓展望台俯瞰杜之都璀璨夜景)
-DESCRIPTION:【Day 12・🌟 必去景點】\n19:15 - 19:55【必去景點 ㉕：AER 展望テラス (免費 31F 頂樓展望台俯瞰杜之都璀璨夜景)】：\n搭乘高速電梯直達 31 樓 【AER 展望テラス（31 樓免費入場）】（開放時間：10:00 - 20:00）。\n滿足極致高空夜景需求！ 當日 17:09 日落，此時已完全入夜近 2.5 小時，整座仙台市區璀璨燈火通明！站在 31 樓雙側露台，360 度俯瞰廣瀨通璀璨街燈、遠方山海輪廓與新幹線列車如銀河穿梭進出仙台站的震撼夜景！（停留 40 分鐘，從容在 20:00 閉館前下樓）。\n🎉【至此，仙台最核心的 3 大必去景點（博物館 ⑳、仙台城跡 ㉑、AER 展望台 ㉕）全部在抵達仙台的第一個全天（Day 12）一口氣全數提前達成！】\n\n\n🗺️ AER 展望テラス: https://www.google.com/maps/search/?api=1&query=AER+%E5%B1%95%E6%9C%9B%E3%83%86%E3%83%A9%E3%82%B9+%E4%BB%99%E5%8F%B0
+DESCRIPTION:【Day 12・🌟 必去景點】\n19:15 - 19:55【必去景點 ㉕：AER 展望テラス (免費 31F 頂樓展望台俯瞰杜之都璀璨夜景)】：\n搭乘高速電梯直達 31 樓 【AER 展望テラス（31 樓免費入場）】（開放時間：10:00 - 20:00）。\n滿足極致高空夜景需求！ 當日 17:09 日落，此時已完全入夜近 2.5 小時，整座仙台市區璀璨燈火通明！站在 31 樓雙側露台，360 度俯瞰廣瀨通璀璨街燈、遠方山海輪廓與新幹線列車如銀河穿梭進出仙台站的震撼夜景！（停留 40 分鐘，從容在 20:00 閉館前下樓）。\n🎉【至此，必去景點 ㉕ AER 展望台高空璀璨夜景順利圓滿達成！】\n\n\n🗺️ AER 展望テラス: https://www.google.com/maps/search/?api=1&query=AER+%E5%B1%95%E6%9C%9B%E3%83%86%E3%83%A9%E3%82%B9+%E4%BB%99%E5%8F%B0
 LOCATION:AER 展望テラス
 CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d12-it12@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d12-it9@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261009T210000
 DTEND;TZID=Asia/Tokyo:20261009T223000
 TRANSP:OPAQUE
@@ -1318,8 +1301,8 @@ LOCATION:スーパーホテル仙台駅東口天然温泉
 CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d12-it13@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d12-it10@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261009T210000
 DTEND;TZID=Asia/Tokyo:20261009T235900
 TRANSP:OPAQUE
@@ -1330,7 +1313,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-13-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 TRANSP:TRANSPARENT
@@ -1341,7 +1324,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T071500
 DTEND;TZID=Asia/Tokyo:20261010T075500
 TRANSP:OPAQUE
@@ -1352,7 +1335,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T092000
 DTEND;TZID=Asia/Tokyo:20261010T112000
 TRANSP:OPAQUE
@@ -1368,7 +1351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T121000
 DTEND;TZID=Asia/Tokyo:20261010T125500
 TRANSP:OPAQUE
@@ -1379,7 +1362,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it9@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T130000
 DTEND;TZID=Asia/Tokyo:20261010T151500
 TRANSP:OPAQUE
@@ -1390,7 +1373,7 @@ CATEGORIES:🏛️ 文化名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T164000
 DTEND;TZID=Asia/Tokyo:20261010T171500
 TRANSP:OPAQUE
@@ -1401,7 +1384,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it13@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T171500
 DTEND;TZID=Asia/Tokyo:20261010T183500
 TRANSP:OPAQUE
@@ -1412,7 +1395,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it15@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T210000
 DTEND;TZID=Asia/Tokyo:20261010T223000
 TRANSP:OPAQUE
@@ -1423,7 +1406,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d13-it16@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261010T210000
 DTEND;TZID=Asia/Tokyo:20261010T235900
 TRANSP:OPAQUE
@@ -1434,18 +1417,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-14-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 14・仙台市】瑞鳳殿・だし廊・Welcome Bar
-DESCRIPTION:行程：伊達政宗靈廟「瑞鳳殿」➔ 飛魚高湯拉麵だし廊 ➔ 仙台市區悠閒散策 ＆ AER 展望台 ➔ 🌟 16:30 離峰早晚餐ガスト Gusto 仙台名掛丁店(爆漿起司漢堡排・避開三連休塞車潮) ➔ 17:40 早歸飯店 ＆ 提早洗衣(避開夜間尖峰零等待) ➔ 1F Lounge 免費 Welcome Bar 地酒微醺暢飲 ➔ 天然溫泉「枝垂桜 美人的湯」【離峰美饌・零折返順向動線・提早洗衣極度從容】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，全日輕裝參觀瑞鳳殿、品嚐だし廊飛魚拉麵、享受飯店 4 小時 Welcome Bar 地酒暢飲與 Gusto 家庭餐廳晚宴！\n\n完整行程：./itinerary.html#day-14
+DESCRIPTION:行程：伊達政宗靈廟「瑞鳳殿」➔ 飛魚高湯拉麵だし廊 ➔ 仙台市區悠閒散策 ＆ 名掛丁拱廊漫步採買 ➔ 🌟 16:30 離峰早晚餐ガスト Gusto 仙台名掛丁店(爆漿起司漢堡排・避開三連休塞車潮) ➔ 17:30 早歸飯店 ＆ 提早洗衣(避開夜間尖峰零等待) ➔ 1F Lounge 免費 Welcome Bar 地酒微醺暢飲 ➔ 天然溫泉「枝垂桜 美人的湯」【離峰美饌・零折返順向動線・提早洗衣極度從容】\n\n行李與換宿：🧳 連住不換宿：續住スーパーホテル仙台駅東口天然温泉，全日輕裝參觀瑞鳳殿、品嚐だし廊飛魚拉麵、享受飯店 4 小時 Welcome Bar 地酒暢飲與 Gusto 家庭餐廳晚宴！\n\n完整行程：./itinerary.html#day-14
 LOCATION:仙台市
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T081500
 DTEND;TZID=Asia/Tokyo:20261011T093000
 TRANSP:OPAQUE
@@ -1456,40 +1439,40 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T100000
 DTEND;TZID=Asia/Tokyo:20261011T113000
 TRANSP:OPAQUE
-SUMMARY:🏛️ / 11:45【伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・雙節奏自由彈性）
-DESCRIPTION:【Day 14・🏛️ 文化名勝】\n10:00 - 11:30 / 11:45【伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・雙節奏自由彈性）】：\n瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。\n【🌟 智慧避峰：告別三連休動物園家庭喧囂狂潮】：日本秋季三連休中日（週日），八木山動物公園湧入海量家庭與幼童推擠塞車；特將動物園調至平日，改排幽靜莊嚴之伊達政宗長眠聖地「瑞鳳殿」！\n穿過兩旁高聳蔽日的百年巨杉參道與深邃石階，參觀極盡安土桃山奢華藝術之正殿（瑞鳳殿）、二代忠宗感仙殿與三代綱宗善應殿，以及展示政宗公頭骨復原模型之資料館。極彩五色雕刻、金箔飾件與黑漆沈穩典雅，秋風吹拂杉林沙沙作響，靜謐洗滌身心（停留約 85~105 分鐘，時間綽綽有餘！）。\n\n\n🗺️ 瑞鳳殿 (Zuihoden): https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E9%B3%B3%E6%AE%BF+%E4%BB%99%E5%8F%B0%E5%B8%82\n\n⚠️ 瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。
+SUMMARY:🏛️ 伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・避開連假家庭喧鬧）
+DESCRIPTION:【Day 14・🏛️ 文化名勝】\n10:00 - 11:30【伊達政宗安息長眠之所：瑞鳳殿 (Zuihoden)（幽靜古杉靈廟・避開連假家庭喧鬧）】：\n瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。\n【🌟 智慧避峰：告別三連休動物園家庭喧囂狂潮】：日本秋季三連休中日（週日），八木山動物公園湧入海量家庭與幼童推擠塞車；特將動物園調至平日，改排幽靜莊嚴之伊達政宗長眠聖地「瑞鳳殿」！\n穿過兩旁高聳蔽日的百年巨杉參道與深邃石階，參觀極盡安土桃山奢華藝術之正殿（瑞鳳殿）、二代忠宗感仙殿與三代綱宗善應殿，以及展示政宗公頭骨復原模型之資料館。極彩五色雕刻、金箔飾件與黑漆沈穩典雅，秋風吹拂杉林沙沙作響，靜謐洗滌身心（停留約 90 分鐘，時間綽綽有餘！）。\n\n\n🗺️ 瑞鳳殿 (Zuihoden): https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E9%B3%B3%E6%AE%BF+%E4%BB%99%E5%8F%B0%E5%B8%82\n\n⚠️ 瑞鳳殿（開館時間：09:00 - 16:50，最終入場 16:30，12/31、1/1公休，連假週日正常開館！ 門票大人 570 円，高中生 410 円，小中生 210 円）。
 LOCATION:瑞鳳殿
 CATEGORIES:🏛️ 文化名勝\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T115000
 DTEND;TZID=Asia/Tokyo:20261011T130000
 TRANSP:OPAQUE
-SUMMARY:🍜 / 12:10 - 13:00【特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休
-DESCRIPTION:【Day 14・🥩 極上美食】\n11:50 / 12:10 - 13:00【特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休】】：\n步行 3 分鐘抵達仙台拉麵百名店第一名 「だし廊 -DASHIRO- 仙台南町通り本店」（Tabelog 3.68，營業時間：11:00 - 21:00 全日通し営業無中休，無休）。\n品嚐招牌飛魚貝類熟成醬油拉麵（飛魚だし醤油らーめん），天然海味高湯鮮甜甘美，搭配自家製細麵，層次深邃回味無窮！（停留約 50~60 分鐘）。\n\n⏰ 營業時間：• 11:00 - 21:00 ｜ • LO 20:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休 ｜ (連假正常營業)\n💡 備註：仙台拉麵美學代表，以天然飛魚乾、三陸貝類熬製黃金澄清高湯，搭配自製小麥細麵與舒肥叉燒，湯頭層次豐富細膩，全日無中休好排隊。\n\n🗺️ だし廊 -DASHIRO- 本店: https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%97%E5%BB%8A+%E6%9C%AC%E5%BA%97+%E4%BB%99%E5%8F%B0
+SUMMARY:🍜 特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休
+DESCRIPTION:【Day 14・🥩 極上美食】\n11:50 - 13:00【特色拉麵 ④：食べログ百名店高湯拉麵「だし廊 -DASHIRO- 本店」【🟢 純現場食券排隊・全日無休】】：\n步行 3 分鐘抵達仙台拉麵百名店第一名 「だし廊 -DASHIRO- 仙台南町通り本店」（Tabelog 3.68，營業時間：11:00 - 21:00 全日通し営業無中休，無休）。\n品嚐招牌飛魚貝類熟成醬油拉麵（飛魚だし醤油らーめん），天然海味高湯鮮甜甘美，搭配自家製細麵，層次深邃回味無窮！（停留約 70 分鐘）。\n\n⏰ 營業時間：• 11:00 - 21:00 ｜ • LO 20:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休 ｜ (連假正常營業)\n💡 備註：仙台拉麵美學代表，以天然飛魚乾、三陸貝類熬製黃金澄清高湯，搭配自製小麥細麵與舒肥叉燒，湯頭層次豐富細膩，全日無中休好排隊。\n\n🗺️ だし廊 -DASHIRO- 本店: https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%81%97%E5%BB%8A+%E6%9C%AC%E5%BA%97+%E4%BB%99%E5%8F%B0
 LOCATION:だし廊 -DASHIRO- 本店
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T130000
-DTEND;TZID=Asia/Tokyo:20261011T133000
+DTEND;TZID=Asia/Tokyo:20261011T163000
 TRANSP:OPAQUE
-SUMMARY:🏛️ / 13:10 - 16:20【午後悠閒市區散策 ＆ AER 31F 展望台 ＆ 名掛丁拱廊漫步
-DESCRIPTION:【Day 14・🌟 必去景點】\n13:00 / 13:10 - 16:20【午後悠閒市區散策 ＆ AER 31F 展望台 ＆ 名掛丁拱廊漫步】：\n漫步名掛丁拱廊、S-PAL 百貨或一番町商圈，登上 AER 31F 展望台俯瞰秋日杜之都全景，享受午後購物與生活雜貨採買（依然保有整整 3 小時 10 分鐘以上充裕時間，步調極度悠閒！）。\n
-LOCATION:AER 展望テラス
-CATEGORIES:🌟 必去景點\,2026東北行
+SUMMARY:🎯 午後悠閒市區散策 ＆ 名掛丁拱廊商圈漫步採買（離峰漫步消食・放鬆蓄電）
+DESCRIPTION:【Day 14・🎯 特色體驗】\n13:00 - 16:30【午後悠閒市區散策 ＆ 名掛丁拱廊商圈漫步採買（離峰漫步消食・放鬆蓄電）】：\n吃完拉麵後，漫步名掛丁拱廊、S-PAL 百貨或一番町商圈，享受午後無壓力的市區漫步、咖啡品味與生活雜貨採買。\n保有整整 3.5 小時充裕時間，步調極度悠閒舒適，剛好在傍晚 16:30 順向漫步至名掛丁拱廊內的ガスト用餐！
+LOCATION:仙台市
+CATEGORIES:🎯 特色體驗\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T163000
 DTEND;TZID=Asia/Tokyo:20261011T173000
 TRANSP:OPAQUE
@@ -1500,7 +1483,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T200000
 DTEND;TZID=Asia/Tokyo:20261011T213000
 TRANSP:OPAQUE
@@ -1511,7 +1494,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d14-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261011T210000
 DTEND;TZID=Asia/Tokyo:20261011T235900
 TRANSP:OPAQUE
@@ -1522,7 +1505,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-15-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 TRANSP:TRANSPARENT
@@ -1533,7 +1516,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T074500
 DTEND;TZID=Asia/Tokyo:20261012T083500
 TRANSP:OPAQUE
@@ -1544,7 +1527,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T084000
 DTEND;TZID=Asia/Tokyo:20261012T090000
 TRANSP:OPAQUE
@@ -1555,7 +1538,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T093500
 DTEND;TZID=Asia/Tokyo:20261012T113500
 TRANSP:OPAQUE
@@ -1566,7 +1549,7 @@ CATEGORIES:🏛️ 國寶古蹟\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it6@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T120000
 DTEND;TZID=Asia/Tokyo:20261012T135000
 TRANSP:OPAQUE
@@ -1577,7 +1560,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T135000
 DTEND;TZID=Asia/Tokyo:20261012T140000
 TRANSP:OPAQUE
@@ -1588,7 +1571,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T140000
 DTEND;TZID=Asia/Tokyo:20261012T153000
 TRANSP:OPAQUE
@@ -1599,7 +1582,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T165000
 DTEND;TZID=Asia/Tokyo:20261012T170000
 TRANSP:OPAQUE
@@ -1610,7 +1593,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T170000
 DTEND;TZID=Asia/Tokyo:20261012T174500
 TRANSP:OPAQUE
@@ -1621,7 +1604,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T174500
 DTEND;TZID=Asia/Tokyo:20261012T195500
 TRANSP:OPAQUE
@@ -1632,7 +1615,7 @@ CATEGORIES:🎯 特色體驗\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d15-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261012T210000
 DTEND;TZID=Asia/Tokyo:20261012T235900
 TRANSP:OPAQUE
@@ -1643,18 +1626,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-16-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 16・仙台市】仙台朝市・水族館・ちからや仙台牛
-DESCRIPTION:行程：仙台朝市(尋找もうかの星) ➔ ヨドバシカメラ マルチメディア仙台(宮城限定吉伊卡哇＆現場退稅) ➔ 辛味噌拉麵みそ壱 ➔ 仙台海洋森林水族館(平日極致舒適) ➔ 🌟 焼肉ダイニング ちからや 仙台駅前店(A5仙台牛＆厚切牛舌極上吃到飽・平日出菜神速！) ➔ 回飯店放鬆休息【宮城限定吉伊卡哇免稅到手・A5銘柄牛吃到飽100%達成・全席禁煙】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝漫步仙台朝市、水族館、ちからや A5 仙台牛吃到飽，晚間享受飯店免費霜淇淋與鴨蕎麥麵宵夜！\n\n完整行程：./itinerary.html#day-16
+DESCRIPTION:行程：仙台朝市(尋找もうかの星) ➔ ヨドバシカメラ マルチメディア仙台(宮城限定吉伊卡哇＆現場退稅) ➔ 回飯店客房悠閒休息（跳過午餐・蓄力晚間和牛吃到飽） ➔ 仙台海洋森林水族館(平日極致舒適) ➔ 🌟 焼肉ダイニング ちからや 仙台駅前店(A5仙台牛＆厚切牛舌極上吃到飽・平日出菜神速！) ➔ 回飯店放鬆休息 ＆ 🧺 第6次洗烘衣物【宮城限定吉伊卡哇免稅到手・客房休養蓄電・A5銘柄牛吃到飽100%達成・全席禁煙】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝漫步仙台朝市、友都八喜採買後回飯店悠閒休息（跳過午餐），午後水族館、晚間ちからや A5 仙台牛吃到飽，晚間享受 5F Lounge 迎賓調酒與霜淇淋，並於 6F 啟動第 6 次洗烘衣物！\n\n完整行程：./itinerary.html#day-16
 LOCATION:仙台市
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d16-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261013T083000
 DTEND;TZID=Asia/Tokyo:20261013T094500
 TRANSP:OPAQUE
@@ -1664,41 +1647,8 @@ LOCATION:仙台朝市
 CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d16-it3@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261013T113500
-DTEND;TZID=Asia/Tokyo:20261013T114500
-TRANSP:OPAQUE
-SUMMARY:🍴 步行 2 分鐘前往 LOFT 準備享用午餐
-DESCRIPTION:【Day 16・🥩 極上美食】\n11:35 - 11:45【步行 2 分鐘前往 LOFT 準備享用午餐】：\n放好戰利品後下樓，經站前空橋步行 2 分鐘前往站前 LOFT B1F。
-LOCATION:仙台市
-CATEGORIES:🥩 極上美食\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
-UID:tohoku2026-d16-it4@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261013T114500
-DTEND;TZID=Asia/Tokyo:20261013T124500
-TRANSP:OPAQUE
-SUMMARY:🍜 特色拉麵 ⑤：仙台辛味噌拉麵名店「仙臺ラーメン みそ壱 仙台ロフト店」【🟢 純現場食券排隊・予約不可
-DESCRIPTION:【Day 16・🥩 極上美食】\n11:45 - 12:45【特色拉麵 ⑤：仙台辛味噌拉麵名店「仙臺ラーメン みそ壱 仙台ロフト店」【🟢 純現場食券排隊・予約不可】】：\n散步 2 分鐘至站前 LOFT B1F 名店 「仙臺ラーメン みそ壱」（營業時間：11:00 - 23:00，無休）。\n品嚐仙台最具代表性的濃厚「黑辛味噌拉麵」或「野菜辛味噌拉麵」，以仙台在地赤味噌融和大蒜、辣油與大火快炒高麗菜豆芽，湯頭極為厚實暖胃（停留 1 小時）。\n\n⏰ 營業時間：• 11:00 - 22:00/23:00 ｜ • LO 21:30 ｜ • 全日通し營業無中休\n🚫 公休日：年中無休\n💡 備註：散步 2 分鐘至站前 LOFT B1F。品嚐仙台赤味噌融合大蒜、特調辣油與大火爆炒高麗菜豆芽之「黑辛味噌拉麵」，湯頭濃郁香醇，暖胃抗秋涼。\n\n🗺️ 仙臺ラーメン みそ壱 仙台ロフト店: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%9D%E5%A3%B1+%E4%BB%99%E5%8F%B0%E3%83%AD%E3%83%95%E3%83%88%E5%BA%97
-LOCATION:仙臺ラーメン みそ壱 仙台ロフト店
-CATEGORIES:🥩 極上美食\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
 UID:tohoku2026-d16-it5@antigravity
-DTSTAMP:20261018T164258Z
-DTSTART;TZID=Asia/Tokyo:20261013T124500
-DTEND;TZID=Asia/Tokyo:20261013T131500
-TRANSP:OPAQUE
-SUMMARY:☕ 5F プレミアラウンジ 解辣霜淇淋 🍦＆ 現磨咖啡 ☕（12:00 開放・絕妙銜接！）
-DESCRIPTION:【Day 16・🥩 極上美食】\n12:45 - 13:15【5F プレミアラウンジ 解辣霜淇淋 🍦＆ 現磨咖啡 ☕（12:00 開放・絕妙銜接！）】：\n吃完熱辣濃厚的辛味噌拉麵，步行 2 分鐘回飯店 5F 【プレミアラウンジ (Premier Lounge)】（常時服務於 12:00 正式開放！）。\n現場自壓免費冰涼香濃的 北海道特製生乳霜淇淋、倒杯現磨冰咖啡或冷飲去油解辣歇腿，稍作梳洗後再出發，身心無比清爽！
-LOCATION:仙台市
-CATEGORIES:🥩 極上美食\,2026東北行
-END:VEVENT
-BEGIN:VEVENT
-UID:tohoku2026-d16-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261013T140000
 DTEND;TZID=Asia/Tokyo:20261013T162500
 TRANSP:OPAQUE
@@ -1708,8 +1658,8 @@ LOCATION:仙台うみの杜水族館
 CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d16-it10@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d16-it8@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261013T175500
 DTEND;TZID=Asia/Tokyo:20261013T180000
 TRANSP:OPAQUE
@@ -1719,8 +1669,8 @@ LOCATION:仙台市
 CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d16-it11@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d16-it9@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261013T180000
 DTEND;TZID=Asia/Tokyo:20261013T200000
 TRANSP:OPAQUE
@@ -1735,8 +1685,8 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tohoku2026-d16-it13@antigravity
-DTSTAMP:20261018T164258Z
+UID:tohoku2026-d16-it12@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261013T210000
 DTEND;TZID=Asia/Tokyo:20261013T235900
 TRANSP:OPAQUE
@@ -1747,7 +1697,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-17-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 TRANSP:TRANSPARENT
@@ -1758,7 +1708,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it0@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T093000
 DTEND;TZID=Asia/Tokyo:20261014T121500
 TRANSP:OPAQUE
@@ -1769,7 +1719,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T121500
 DTEND;TZID=Asia/Tokyo:20261014T123000
 TRANSP:OPAQUE
@@ -1780,7 +1730,7 @@ CATEGORIES:🎯 需求景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T123000
 DTEND;TZID=Asia/Tokyo:20261014T182000
 TRANSP:OPAQUE
@@ -1796,7 +1746,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T182000
 DTEND;TZID=Asia/Tokyo:20261014T183000
 TRANSP:OPAQUE
@@ -1807,7 +1757,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T183000
 DTEND;TZID=Asia/Tokyo:20261014T200000
 TRANSP:OPAQUE
@@ -1823,7 +1773,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d17-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261014T210000
 DTEND;TZID=Asia/Tokyo:20261014T235900
 TRANSP:OPAQUE
@@ -1834,18 +1784,18 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-18-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 TRANSP:TRANSPARENT
 SUMMARY:🍁【Day 18・仙台市】鯛きち鯛魚燒・牡丹炸豬排・八木山動物公園・斎太郎
-DESCRIPTION:行程：🌟【仙台黃金美饌日】鯛きち 名掛丁本店現烤薄皮脆皮鯛魚燒 ➔ 熟成ロゼとんかつ牡丹 (粉嫩炸豬排完美達標) ➔ 地下鐵直達八木山動物公園 フジサキの杜(平日午後避開連假狂潮・包場級悠閒體驗) ➔ 迎賓午茶霜淇淋 ➔ 🎯【需求檢核：痛風鍋與生海鞘】元祖痛風鍋名店「地酒と宮城のうまいもん処 斎太郎」(🎉今晚全行程美饌100%正式大滿貫完封！) ➔ 鴨蕎麥麵宵夜【全行程美饌大滿貫完封・平日午後生態漫步・痛風鍋壓軸巨獻！】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝鯛きち現烤薄皮鯛魚燒、牡丹低溫熟成炸豬排、八木山動物公園、16:05 長榮 BR117 開搶回程機位、斎太郎痛風鍋居酒屋美食全達成！\n\n完整行程：./itinerary.html#day-18
+DESCRIPTION:行程：🌟【仙台黃金美饌日】鯛きち 名掛丁本店現烤薄皮脆皮鯛魚燒 ➔ 熟成ロゼとんかつ牡丹 (粉嫩炸豬排完美達標) ➔ 地下鐵直達八木山動物公園 フジサキの杜(平日午後避開連假狂潮・包場級悠閒體驗) ➔ 迎賓午茶霜淇淋 ➔ 🎯【需求檢核：痛風鍋與生海鞘】元祖痛風鍋名店「地酒と宮城のうまいもん処 斎太郎」(🎉今晚全行程美饌100%正式大滿貫完封！) ➔ 鴨蕎麥麵宵夜 ＆ 🧺 第7次洗烘衣物（全行程最終回・衣物全乾裝箱）【全行程美饌大滿貫完封・平日午後生態漫步・痛風鍋壓軸巨獻！】\n\n行李與換宿：🧳 連住不換宿：續住リッチモンドホテル プレミア仙台駅前，全日輕裝鯛きち現烤薄皮鯛魚燒、牡丹低溫熟成炸豬排、八木山動物公園、16:05 長榮 BR117 開搶回程機位、斎太郎生海鞘美饌全達成，晚間享受鴨蕎麥麵宵夜並完成全行程第 7 次洗烘衣物乾淨裝箱！\n\n完整行程：./itinerary.html#day-18
 LOCATION:仙台市
 CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d18-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261015T104500
 DTEND;TZID=Asia/Tokyo:20261015T110000
 TRANSP:OPAQUE
@@ -1856,7 +1806,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d18-it3@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261015T110000
 DTEND;TZID=Asia/Tokyo:20261015T123000
 TRANSP:OPAQUE
@@ -1867,7 +1817,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d18-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261015T130000
 DTEND;TZID=Asia/Tokyo:20261015T153000
 TRANSP:OPAQUE
@@ -1878,7 +1828,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d18-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261015T180000
 DTEND;TZID=Asia/Tokyo:20261015T193000
 TRANSP:OPAQUE
@@ -1894,7 +1844,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d18-it11@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
+DTSTART;TZID=Asia/Tokyo:20261015T204500
+DTEND;TZID=Asia/Tokyo:20261015T221500
+TRANSP:OPAQUE
+SUMMARY:🎯 客房悠閒休息 ＆ 🧺 啟動第 7 次洗衣服（全行程最後一次洗烘・清洗 Day 17~18 衣物・洗脫烘一體乾淨裝箱返台）
+DESCRIPTION:【Day 18・🎯 特色體驗】\n20:45 - 22:15【客房悠閒休息 ＆ 🧺 啟動第 7 次洗衣服（全行程最後一次洗烘・清洗 Day 17~18 衣物・洗脫烘一體乾淨裝箱返台）】：\n回房拿取 Day 17~18 換洗衣物，前往 6F 洗衣室啟動滾筒洗脫烘一體機（洗劑自動注入，標準洗脫烘約 80~90 分鐘）。\n【🌟 全行程最後一次洗衣神調度】：利用今晚將所有換洗衣物全數洗脫烘完成並摺疊裝入大行李箱！徹底解放明早（Day 19），使明早能無任何洗衣壓力安穩睡到自然醒 09:30，10:45 從容退房並至御宿野乃寄存行李，完美無痛銜接 11:20 びっくりドンキー漢堡排！
+LOCATION:仙台市
+CATEGORIES:🎯 特色體驗\,2026東北行
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku2026-d18-it12@antigravity
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261015T210000
 DTEND;TZID=Asia/Tokyo:20261015T235900
 TRANSP:OPAQUE
@@ -1905,7 +1866,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-19-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 TRANSP:TRANSPARENT
@@ -1916,7 +1877,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T104500
 DTEND;TZID=Asia/Tokyo:20261016T111500
 TRANSP:OPAQUE
@@ -1927,7 +1888,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it2@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T111500
 DTEND;TZID=Asia/Tokyo:20261016T123500
 TRANSP:OPAQUE
@@ -1938,7 +1899,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it5@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T131000
 DTEND;TZID=Asia/Tokyo:20261016T141500
 TRANSP:OPAQUE
@@ -1949,7 +1910,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it7@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T143000
 DTEND;TZID=Asia/Tokyo:20261016T155000
 TRANSP:OPAQUE
@@ -1960,7 +1921,7 @@ CATEGORIES:🌟 必去景點\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it10@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T163000
 DTEND;TZID=Asia/Tokyo:20261016T174500
 TRANSP:OPAQUE
@@ -1971,7 +1932,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it12@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T180000
 DTEND;TZID=Asia/Tokyo:20261016T213000
 TRANSP:OPAQUE
@@ -1982,7 +1943,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it13@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T213000
 DTEND;TZID=Asia/Tokyo:20261016T230000
 TRANSP:OPAQUE
@@ -1993,7 +1954,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d19-it14@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261016T210000
 DTEND;TZID=Asia/Tokyo:20261016T235900
 TRANSP:OPAQUE
@@ -2004,7 +1965,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-day-20-banner@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 TRANSP:TRANSPARENT
@@ -2015,7 +1976,7 @@ CATEGORIES:全天行程概覽\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d20-it1@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261017T063000
 DTEND;TZID=Asia/Tokyo:20261017T093000
 TRANSP:OPAQUE
@@ -2026,7 +1987,7 @@ CATEGORIES:🥩 極上美食\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d20-it4@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261017T110000
 DTEND;TZID=Asia/Tokyo:20261017T111500
 TRANSP:OPAQUE
@@ -2037,7 +1998,7 @@ CATEGORIES:🏨 頂級名宿\,2026東北行
 END:VEVENT
 BEGIN:VEVENT
 UID:tohoku2026-d20-it8@antigravity
-DTSTAMP:20261018T164258Z
+DTSTAMP:20261019T092034Z
 DTSTART;TZID=Asia/Tokyo:20261017T133700
 DTEND;TZID=Asia/Tokyo:20261017T152000
 TRANSP:OPAQUE
