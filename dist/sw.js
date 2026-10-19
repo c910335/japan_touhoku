@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tohoku-itinerary-v98';
+const CACHE_NAME = 'tohoku-itinerary-v99';
 const PRECACHE_URLS = [
   './',
   './index.html',
